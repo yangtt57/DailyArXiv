@@ -1,63 +1,51 @@
 ---
-title: Latest 15 Papers - January 24, 2025
+title: Latest 15 Papers - January 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
 
-## Time Series
+## Binary Code Similarity Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Real-Time Multi-Modal Subcomponent-Level Measurements for Trustworthy System Monitoring and Malware Detection](http://arxiv.org/abs/2501.13081v1)** | 2025-01-22 | 12 pages, 29 figures |
-| **[Developing Cryptocurrency Trading Strategy Based on Autoencoder-CNN-GANs Algorithms](http://arxiv.org/abs/2412.18202v3)** | 2025-01-22 | <details><summary>The p...</summary><p>The paper was accepted by 2024 4th International Conference on Artificial Intelligence, Robotics, and Communication(ICAIRC 2024)</p></details> |
-| **[TimeFilter: Patch-Specific Spatial-Temporal Graph Filtration for Time Series Forecasting](http://arxiv.org/abs/2501.13041v1)** | 2025-01-22 |  |
-| **[Causality for VARMA processes with instantaneous effects: The global Markov property, faithfulness and instrumental variables](http://arxiv.org/abs/2501.13037v1)** | 2025-01-22 | 42 pages, 9 figures |
-| **[Multifractal hopscotch in "Hopscotch" by Julio Cortazar](http://arxiv.org/abs/2501.12955v1)** | 2025-01-22 |  |
-| **[Budget-constrained Collaborative Renewable Energy Forecasting Market](http://arxiv.org/abs/2501.12367v2)** | 2025-01-22 |  |
-| **[Treatment-aware Diffusion Probabilistic Model for Longitudinal MRI Generation and Diffuse Glioma Growth Prediction](http://arxiv.org/abs/2309.05406v5)** | 2025-01-22 | <details><summary>prepr...</summary><p>preprints in IEEE-TMI, 14 pages</p></details> |
-| **[Data re-uploading in Quantum Machine Learning for time series: application to traffic forecasting](http://arxiv.org/abs/2501.12776v1)** | 2025-01-22 |  |
-| **[A Survey on Diffusion Models for Anomaly Detection](http://arxiv.org/abs/2501.11430v2)** | 2025-01-22 |  |
-| **[Ultralow-dimensionality reduction for identifying critical transitions by spatial-temporal PCA](http://arxiv.org/abs/2501.12582v1)** | 2025-01-22 |  |
-| **[Two-way Matrix Autoregressive Model with Thresholds](http://arxiv.org/abs/2407.10272v2)** | 2025-01-21 |  |
-| **[Investigating Market Strength Prediction with CNNs on Candlestick Chart Images](http://arxiv.org/abs/2501.12239v1)** | 2025-01-21 | ACMLC 2025; 8 pages |
-| **[Automatic selection of the best neural architecture for time series forecasting via multi-objective optimization and Pareto optimality conditions](http://arxiv.org/abs/2501.12215v1)** | 2025-01-21 | 35 pages, 8 figures |
-| **[Time-Series Foundation Model for Value-at-Risk Forecasting](http://arxiv.org/abs/2410.11773v6)** | 2025-01-21 |  |
-| **[Heterogeneous Federated Learning Systems for Time-Series Power Consumption Prediction with Multi-Head Embedding Mechanism](http://arxiv.org/abs/2501.12136v1)** | 2025-01-21 |  |
+| **[StrTune: Data Dependence-based Code Slicing for Binary Similarity Detection with Fine-tuned Representation](http://arxiv.org/abs/2411.12454v1)** | 2024-11-19 |  |
+| **[Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets](http://arxiv.org/abs/2406.02606v2)** | 2024-11-11 | <details><summary>13 pa...</summary><p>13 pages, Under-Review</p></details> |
+| **[Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations](http://arxiv.org/abs/2410.18561v1)** | 2024-10-24 | 13 pages, 10 figures |
+| **[Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning](http://arxiv.org/abs/2311.13721v5)** | 2024-10-21 |  |
+| **[Understanding the AI-powered Binary Code Similarity Detection](http://arxiv.org/abs/2410.07537v1)** | 2024-10-10 |  |
+| **[CEBin: A Cost-Effective Framework for Large-Scale Binary Code Similarity Detection](http://arxiv.org/abs/2402.18818v1)** | 2024-02-29 |  |
+| **[SimCLF: A Simple Contrastive Learning Framework for Function-level Binary Embeddings](http://arxiv.org/abs/2209.02442v2)** | 2023-12-26 |  |
+| **[kTrans: Knowledge-Aware Transformer for Binary Code Embedding](http://arxiv.org/abs/2308.12659v1)** | 2023-08-24 |  |
+| **[Binary Code Similarity Detection](http://arxiv.org/abs/2308.02992v1)** | 2023-08-06 | <details><summary>4 pag...</summary><p>4 pages, conference paper</p></details> |
+| **[FastBCSD: Fast and Efficient Neural Network for Binary Code Similarity Detection](http://arxiv.org/abs/2306.14168v1)** | 2023-06-25 |  |
+| **[Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge](http://arxiv.org/abs/2301.00511v2)** | 2023-05-22 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2108.06082</p></details> |
+| **[UniASM: Binary Code Similarity Detection without Fine-tuning](http://arxiv.org/abs/2211.01144v3)** | 2023-04-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
+| **[Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning](http://arxiv.org/abs/2111.01415v4)** | 2022-12-23 |  |
+| **[FuncFooler: A Practical Black-box Attack Against Learning-based Binary Code Similarity Detection Methods](http://arxiv.org/abs/2208.14191v1)** | 2022-08-26 | 9 pages, 4 figures |
+| **[jTrans: Jump-Aware Transformer for Binary Code Similarity](http://arxiv.org/abs/2205.12713v1)** | 2022-05-25 | <details><summary>In Pr...</summary><p>In Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022</p></details> |
 
-## Trajectory
+## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Trajectory tracking model-following control using Lyapunov redesign with output time-derivatives to compensate unmatched uncertainties](http://arxiv.org/abs/2501.12916v1)** | 2025-01-22 |  |
-| **[Learning segmentation from point trajectories](http://arxiv.org/abs/2501.12392v1)** | 2025-01-21 | <details><summary>NeurI...</summary><p>NeurIPS 2024 Spotlight. Project https://www.robots.ox.ac.uk/~vgg/research/lrtl/</p></details> |
-| **[Algorithm Selection with Probing Trajectories: Benchmarking the Choice of Classifier Model](http://arxiv.org/abs/2501.11414v1)** | 2025-01-20 | <details><summary>To ap...</summary><p>To appear in Applications of Evolutionary Computation 28th International Conference, EvoApplications 2025</p></details> |
-| **[Spatio-temporal characterisation of underwater noise through semantic trajectories](http://arxiv.org/abs/2501.11131v1)** | 2025-01-19 |  |
-| **[TAME: Temporal Audio-based Mamba for Enhanced Drone Trajectory Estimation and Classification](http://arxiv.org/abs/2412.13037v6)** | 2025-01-19 | <details><summary>This ...</summary><p>This paper has been accepted for presentation at the IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2025. Personal use of this material is permitted. Permission from IEEE must be obtained for all other uses</p></details> |
-| **[Audio Array-Based 3D UAV Trajectory Estimation with LiDAR Pseudo-Labeling](http://arxiv.org/abs/2412.12698v5)** | 2025-01-19 | Accepted for ICASSP |
-| **[In-Trajectory Inverse Reinforcement Learning: Learn Incrementally Before An Ongoing Trajectory Terminates](http://arxiv.org/abs/2410.15612v4)** | 2025-01-18 |  |
-| **[Three-dimensional Trajectory Optimization for Quadrotor Tail-sitter UAVs: Traversing through Given Waypoints](http://arxiv.org/abs/2406.08347v3)** | 2025-01-18 |  |
-| **[Efficient and Safe Trajectory Planning for Autonomous Agricultural Vehicle Headland Turning in Cluttered Orchard Environments](http://arxiv.org/abs/2501.10636v1)** | 2025-01-18 |  |
-| **[On Learning Informative Trajectory Embeddings for Imitation, Classification and Regression](http://arxiv.org/abs/2501.09327v2)** | 2025-01-17 | AAMAS 2025 |
-| **[STPOTR: Simultaneous Human Trajectory and Pose Prediction Using a Non-Autoregressive Transformer for Robot Following Ahead](http://arxiv.org/abs/2209.07600v4)** | 2025-01-17 |  |
-| **[BILTS: A Bi-Invariant Similarity Measure for Robust Object Trajectory Recognition under Reference Frame Variations](http://arxiv.org/abs/2405.04392v2)** | 2025-01-17 | <details><summary>This ...</summary><p>This work has been submitted as a regular research paper for consideration in the Journal of Intelligent & Robotic Systems. The content in this preprint is identical to the version submitted for peer review, except for formatting differences required by the journal</p></details> |
-| **[ASTRA: A Scene-aware TRAnsformer-based model for trajectory prediction](http://arxiv.org/abs/2501.09878v1)** | 2025-01-16 |  |
-| **[Real-Time Generation of Near-Minimum-Energy Trajectories via Constraint-Informed Residual Learning](http://arxiv.org/abs/2501.09450v1)** | 2025-01-16 |  |
-| **[Control Barrier Function-Based Safety Filters: Characterization of Undesired Equilibria, Unbounded Trajectories, and Limit Cycles](http://arxiv.org/abs/2501.09289v1)** | 2025-01-16 |  |
+| **[Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](http://arxiv.org/abs/2407.00978v2)** | 2024-12-09 | 13 pages, 7 figures |
+| **[PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)](http://arxiv.org/abs/2409.12699v1)** | 2024-09-19 | <details><summary>15 pa...</summary><p>15 pages, 19 figures, CCS 2024</p></details> |
+| **[SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence](http://arxiv.org/abs/2405.03446v2)** | 2024-06-03 |  |
 
-## Graph Neural Networks
+## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HierPromptLM: A Pure PLM-based Framework for Representation Learning on Heterogeneous Text-rich Networks](http://arxiv.org/abs/2501.12857v1)** | 2025-01-22 |  |
-| **[GRAMA: Adaptive Graph Autoregressive Moving Average Models](http://arxiv.org/abs/2501.12732v1)** | 2025-01-22 |  |
-| **[KAN KAN Buff Signed Graph Neural Networks?](http://arxiv.org/abs/2501.00709v3)** | 2025-01-22 |  |
-| **[Exploring Heterogeneity and Uncertainty for Graph-based Cognitive Diagnosis Models in Intelligent Education](http://arxiv.org/abs/2403.05559v2)** | 2025-01-22 |  |
-| **[Inferring Past Human Actions in Homes with Abductive Reasoning](http://arxiv.org/abs/2210.13984v5)** | 2025-01-22 | <details><summary>15 pa...</summary><p>15 pages, 8 figures, Accepted to WACV 2025</p></details> |
-| **[A Unified Invariant Learning Framework for Graph Classification](http://arxiv.org/abs/2501.12595v1)** | 2025-01-22 | Accepted to KDD 2025 |
-| **[FedGrAINS: Personalized SubGraph Federated Learning with Adaptive Neighbor Sampling](http://arxiv.org/abs/2501.12592v1)** | 2025-01-22 | <details><summary>Accep...</summary><p>Accepted to SDM2025 (SIAM Data Mining 2025)</p></details> |
-| **[A Hybrid Supervised and Self-Supervised Graph Neural Network for Edge-Centric Applications](http://arxiv.org/abs/2501.12309v1)** | 2025-01-21 |  |
-| **[Word and Phrase Features in Graph Convolutional Network for Automatic Question Classification](http://arxiv.org/abs/2409.02481v2)** | 2025-01-21 |  |
-| **[SVGS-DSGAT: An IoT-Enabled Innovation in Underwater Robotic Object Detection Technology](http://arxiv.org/abs/2501.12169v1)** | 2025-01-21 | 17 pages, 8 figures |
-| **[SafePowerGraph-HIL: Real-Time HIL Validation of Heterogeneous GNNs for Bridging Sim-to-Real Gap in Power Grids](http://arxiv.org/abs/2501.12427v1)** | 2025-01-21 | 5 pages, 5 figures |
-| **[Attending To Syntactic Information In Biomedical Event Extraction Via Graph Neural Networks](http://arxiv.org/abs/2501.01158v2)** | 2025-01-21 | 6 figures, 4 tables |
-| **[Training Graph Neural Networks Using Non-Robust Samples](http://arxiv.org/abs/2412.14738v6)** | 2025-01-21 |  |
-| **[Coarse-to-Fine Lightweight Meta-Embedding for ID-Based Recommendation](http://arxiv.org/abs/2501.11870v1)** | 2025-01-21 | 16 pages, 6 figures |
-| **[OpenFGL: A Comprehensive Benchmark for Federated Graph Learning](http://arxiv.org/abs/2408.16288v2)** | 2025-01-21 | <details><summary>Accep...</summary><p>Accepted by VLDB 2025</p></details> |
+| **[Compiler Support for Speculation in Decoupled Access/Execute Architectures](http://arxiv.org/abs/2501.13553v1)** | 2025-01-23 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 34th ACM SIGPLAN International Conference on Compiler Construction (CC 2025)</p></details> |
+| **[ASDF: A Compiler for Qwerty, a Basis-Oriented Quantum Programming Language](http://arxiv.org/abs/2501.13262v1)** | 2025-01-22 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. To appear in CGO '25</p></details> |
+| **[Certified Knowledge Compilation with Application to Formally Verified Model Counting](http://arxiv.org/abs/2501.12906v1)** | 2025-01-22 | <details><summary>This ...</summary><p>This is an extended version of a paper published at the 2023 International Conference on Theory and Applications of Satisfiability Testing (SAT)</p></details> |
+| **[Efficient Compilation for Shuttling Trapped-Ion Machines via the Position Graph Architectural Abstraction](http://arxiv.org/abs/2501.12470v1)** | 2025-01-21 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 2 tables</p></details> |
+| **[MappedTrace: Tracing Pointer Remotely with Compiler-generated Maps](http://arxiv.org/abs/2501.10668v1)** | 2025-01-18 |  |
+| **[Resource-Efficient Compilation of Distributed Quantum Circuits for Solving Large-Scale Wireless Communication Network Problems](http://arxiv.org/abs/2501.10242v1)** | 2025-01-17 |  |
+| **[Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness](http://arxiv.org/abs/2501.09061v1)** | 2025-01-15 | 21 pages, 19 figures |
+| **[Modular Compilation for Quantum Chiplet Architectures](http://arxiv.org/abs/2501.08478v1)** | 2025-01-14 |  |
+| **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
+| **[QuantuneV2: Compiler-Based Local Metric-Driven Mixed Precision Quantization for Practical Embedded AI Applications](http://arxiv.org/abs/2501.07161v1)** | 2025-01-13 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, Accepted in Future Generation Computer Systems Journal</p></details> |
+| **[COMPASS: A Compiler Framework for Resource-Constrained Crossbar-Array Based In-Memory Deep Learning Accelerators](http://arxiv.org/abs/2501.06780v1)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted IEEE DATE 2025</p></details> |
+| **[Developing a Modular Compiler for a Subset of a C-like Language](http://arxiv.org/abs/2501.04503v1)** | 2025-01-08 |  |
+| **[SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis](http://arxiv.org/abs/2411.16806v2)** | 2025-01-05 | <details><summary>Accep...</summary><p>Accepted by 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE) as a regular paper</p></details> |
+| **[SECOMP: Formally Secure Compilation of Compartmentalized C Programs](http://arxiv.org/abs/2401.16277v7)** | 2025-01-01 | <details><summary>CCS'2...</summary><p>CCS'24 version, slightly updated and extended with appendices and a few more references</p></details> |
+| **[Finding Missed Code Size Optimizations in Compilers using LLMs](http://arxiv.org/abs/2501.00655v1)** | 2024-12-31 | <details><summary>Accep...</summary><p>Accepted to appear in The International Conference on Compiler Construction (CC) 2025</p></details> |
 
