@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 26, 2025
+title: Latest 15 Papers - January 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -29,6 +29,25 @@ labels: documentation
 | **[Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](http://arxiv.org/abs/2407.00978v2)** | 2024-12-09 | 13 pages, 7 figures |
 | **[PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)](http://arxiv.org/abs/2409.12699v1)** | 2024-09-19 | <details><summary>15 pa...</summary><p>15 pages, 19 figures, CCS 2024</p></details> |
 | **[SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence](http://arxiv.org/abs/2405.03446v2)** | 2024-06-03 |  |
+
+## Decompile
+| **Title** | **Date** | **Comment** |
+| --- | --- | --- |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
+| **[Fast, Fine-Grained Equivalence Checking for Neural Decompilers](http://arxiv.org/abs/2501.04811v1)** | 2025-01-08 |  |
+| **[Transparent Decompilation for Timing Side-Channel Analyses](http://arxiv.org/abs/2501.04183v1)** | 2025-01-07 |  |
+| **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v1)** | 2024-12-10 |  |
+| **[Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries](http://arxiv.org/abs/2411.04981v1)** | 2024-11-07 |  |
+| **[Is This the Same Code? A Comprehensive Study of Decompilation Techniques for WebAssembly Binaries](http://arxiv.org/abs/2411.02278v1)** | 2024-11-04 | <details><summary>Secur...</summary><p>SecureComm'24: Proceedings of the 20th EAI International Conference on Security and Privacy in Communication Networks</p></details> |
+| **[LLM4Decompile: Decompiling Binary Code with Large Language Models](http://arxiv.org/abs/2403.05286v3)** | 2024-10-22 |  |
+| **[MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v1)** | 2024-10-20 |  |
+| **[Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement](http://arxiv.org/abs/2406.17233v2)** | 2024-10-03 | EMNLP 2024 Findings |
+| **[Demystifying and Assessing Code Understandability in Java Decompilation](http://arxiv.org/abs/2409.20343v1)** | 2024-09-30 | 18 pages, 16 figures |
+| **[Neural Decompiling of Tracr Transformers](http://arxiv.org/abs/2410.00061v1)** | 2024-09-29 |  |
+| **[The Incredible Shrinking Context... in a decompiler near you](http://arxiv.org/abs/2409.11157v1)** | 2024-09-17 |  |
+| **[WaDec: Decompiling WebAssembly Using Large Language Model](http://arxiv.org/abs/2406.11346v3)** | 2024-09-11 | <details><summary>This ...</summary><p>This paper was accepted by ASE 2024</p></details> |
+| **[Register Aggregation for Hardware Decompilation](http://arxiv.org/abs/2409.03119v1)** | 2024-09-04 | 6 pages, 6 figures |
+| **[VulCatch: Enhancing Binary Vulnerability Detection through CodeT5 Decompilation and KAN Advanced Feature Extraction](http://arxiv.org/abs/2408.07181v1)** | 2024-08-13 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
