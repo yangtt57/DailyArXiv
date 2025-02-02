@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 27, 2025
+title: Latest 15 Papers - February 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -52,6 +52,9 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Transformers are Efficient Compilers, Provably](http://arxiv.org/abs/2410.14706v2)** | 2025-01-25 | 65 pages |
+| **[A Proof-Producing Compiler for Blockchain Applications](http://arxiv.org/abs/2501.15002v1)** | 2025-01-25 |  |
+| **[SySTeC: A Symmetric Sparse Tensor Compiler](http://arxiv.org/abs/2406.09266v2)** | 2025-01-23 |  |
 | **[Compiler Support for Speculation in Decoupled Access/Execute Architectures](http://arxiv.org/abs/2501.13553v1)** | 2025-01-23 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 34th ACM SIGPLAN International Conference on Compiler Construction (CC 2025)</p></details> |
 | **[ASDF: A Compiler for Qwerty, a Basis-Oriented Quantum Programming Language](http://arxiv.org/abs/2501.13262v1)** | 2025-01-22 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. To appear in CGO '25</p></details> |
 | **[Certified Knowledge Compilation with Application to Formally Verified Model Counting](http://arxiv.org/abs/2501.12906v1)** | 2025-01-22 | <details><summary>This ...</summary><p>This is an extended version of a paper published at the 2023 International Conference on Theory and Applications of Satisfiability Testing (SAT)</p></details> |
@@ -64,7 +67,4 @@ labels: documentation
 | **[QuantuneV2: Compiler-Based Local Metric-Driven Mixed Precision Quantization for Practical Embedded AI Applications](http://arxiv.org/abs/2501.07161v1)** | 2025-01-13 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, Accepted in Future Generation Computer Systems Journal</p></details> |
 | **[COMPASS: A Compiler Framework for Resource-Constrained Crossbar-Array Based In-Memory Deep Learning Accelerators](http://arxiv.org/abs/2501.06780v1)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted IEEE DATE 2025</p></details> |
 | **[Developing a Modular Compiler for a Subset of a C-like Language](http://arxiv.org/abs/2501.04503v1)** | 2025-01-08 |  |
-| **[SynDCIM: A Performance-Aware Digital Computing-in-Memory Compiler with Multi-Spec-Oriented Subcircuit Synthesis](http://arxiv.org/abs/2411.16806v2)** | 2025-01-05 | <details><summary>Accep...</summary><p>Accepted by 2025 Design, Automation & Test in Europe Conference & Exhibition (DATE) as a regular paper</p></details> |
-| **[SECOMP: Formally Secure Compilation of Compartmentalized C Programs](http://arxiv.org/abs/2401.16277v7)** | 2025-01-01 | <details><summary>CCS'2...</summary><p>CCS'24 version, slightly updated and extended with appendices and a few more references</p></details> |
-| **[Finding Missed Code Size Optimizations in Compilers using LLMs](http://arxiv.org/abs/2501.00655v1)** | 2024-12-31 | <details><summary>Accep...</summary><p>Accepted to appear in The International Conference on Compiler Construction (CC) 2025</p></details> |
 
