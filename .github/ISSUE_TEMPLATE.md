@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 03, 2025
+title: Latest 15 Papers - February 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -33,6 +33,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
 | **[Fast, Fine-Grained Equivalence Checking for Neural Decompilers](http://arxiv.org/abs/2501.04811v1)** | 2025-01-08 |  |
 | **[Transparent Decompilation for Timing Side-Channel Analyses](http://arxiv.org/abs/2501.04183v1)** | 2025-01-07 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries](http://arxiv.org/abs/2411.04981v1)** | 2024-11-07 |  |
 | **[Is This the Same Code? A Comprehensive Study of Decompilation Techniques for WebAssembly Binaries](http://arxiv.org/abs/2411.02278v1)** | 2024-11-04 | <details><summary>Secur...</summary><p>SecureComm'24: Proceedings of the 20th EAI International Conference on Security and Privacy in Communication Networks</p></details> |
 | **[LLM4Decompile: Decompiling Binary Code with Large Language Models](http://arxiv.org/abs/2403.05286v3)** | 2024-10-22 |  |
-| **[MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v1)** | 2024-10-20 |  |
 | **[Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement](http://arxiv.org/abs/2406.17233v2)** | 2024-10-03 | EMNLP 2024 Findings |
 | **[Demystifying and Assessing Code Understandability in Java Decompilation](http://arxiv.org/abs/2409.20343v1)** | 2024-09-30 | 18 pages, 16 figures |
 | **[Neural Decompiling of Tracr Transformers](http://arxiv.org/abs/2410.00061v1)** | 2024-09-29 |  |
@@ -52,6 +52,11 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
+| **[Tensor Decomposition Meets Knowledge Compilation: A Study Comparing Tensor Trains with OBDDs](http://arxiv.org/abs/2502.03702v1)** | 2025-02-06 |  |
+| **[Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL](http://arxiv.org/abs/2502.02818v1)** | 2025-02-05 |  |
+| **[C-code generation considered unnecessary: go directly to binary, do not pass C. Compilation of Julia code for deployment in model-based engineering](http://arxiv.org/abs/2502.01128v1)** | 2025-02-03 |  |
+| **[Compilation and Fast Model Counting beyond CNF](http://arxiv.org/abs/2502.00434v1)** | 2025-02-01 |  |
 | **[Transformers are Efficient Compilers, Provably](http://arxiv.org/abs/2410.14706v2)** | 2025-01-25 | 65 pages |
 | **[A Proof-Producing Compiler for Blockchain Applications](http://arxiv.org/abs/2501.15002v1)** | 2025-01-25 |  |
 | **[SySTeC: A Symmetric Sparse Tensor Compiler](http://arxiv.org/abs/2406.09266v2)** | 2025-01-23 |  |
@@ -62,9 +67,4 @@ labels: documentation
 | **[MappedTrace: Tracing Pointer Remotely with Compiler-generated Maps](http://arxiv.org/abs/2501.10668v1)** | 2025-01-18 |  |
 | **[Resource-Efficient Compilation of Distributed Quantum Circuits for Solving Large-Scale Wireless Communication Network Problems](http://arxiv.org/abs/2501.10242v1)** | 2025-01-17 |  |
 | **[Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness](http://arxiv.org/abs/2501.09061v1)** | 2025-01-15 | 21 pages, 19 figures |
-| **[Modular Compilation for Quantum Chiplet Architectures](http://arxiv.org/abs/2501.08478v1)** | 2025-01-14 |  |
-| **[ACPO: AI-Enabled Compiler Framework](http://arxiv.org/abs/2312.09982v4)** | 2025-01-14 | ACPO (12 pages) |
-| **[QuantuneV2: Compiler-Based Local Metric-Driven Mixed Precision Quantization for Practical Embedded AI Applications](http://arxiv.org/abs/2501.07161v1)** | 2025-01-13 | <details><summary>18 pa...</summary><p>18 pages, 10 figures, Accepted in Future Generation Computer Systems Journal</p></details> |
-| **[COMPASS: A Compiler Framework for Resource-Constrained Crossbar-Array Based In-Memory Deep Learning Accelerators](http://arxiv.org/abs/2501.06780v1)** | 2025-01-12 | <details><summary>Accep...</summary><p>Accepted IEEE DATE 2025</p></details> |
-| **[Developing a Modular Compiler for a Subset of a C-like Language](http://arxiv.org/abs/2501.04503v1)** | 2025-01-08 |  |
 
