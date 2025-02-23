@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 17, 2025
+title: Latest 15 Papers - February 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Binary Code Similarity Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[UniASM: Binary Code Similarity Detection without Fine-tuning](http://arxiv.org/abs/2211.01144v4)** | 2025-02-20 |  |
 | **[StrTune: Data Dependence-based Code Slicing for Binary Similarity Detection with Fine-tuned Representation](http://arxiv.org/abs/2411.12454v1)** | 2024-11-19 |  |
 | **[Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets](http://arxiv.org/abs/2406.02606v2)** | 2024-11-11 | <details><summary>13 pa...</summary><p>13 pages, Under-Review</p></details> |
 | **[Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations](http://arxiv.org/abs/2410.18561v1)** | 2024-10-24 | 13 pages, 10 figures |
@@ -18,7 +19,6 @@ labels: documentation
 | **[Binary Code Similarity Detection](http://arxiv.org/abs/2308.02992v1)** | 2023-08-06 | <details><summary>4 pag...</summary><p>4 pages, conference paper</p></details> |
 | **[FastBCSD: Fast and Efficient Neural Network for Binary Code Similarity Detection](http://arxiv.org/abs/2306.14168v1)** | 2023-06-25 |  |
 | **[Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge](http://arxiv.org/abs/2301.00511v2)** | 2023-05-22 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2108.06082</p></details> |
-| **[UniASM: Binary Code Similarity Detection without Fine-tuning](http://arxiv.org/abs/2211.01144v3)** | 2023-04-06 | <details><summary>This ...</summary><p>This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning](http://arxiv.org/abs/2111.01415v4)** | 2022-12-23 |  |
 | **[FuncFooler: A Practical Black-box Attack Against Learning-based Binary Code Similarity Detection Methods](http://arxiv.org/abs/2208.14191v1)** | 2022-08-26 | 9 pages, 4 figures |
 | **[jTrans: Jump-Aware Transformer for Binary Code Similarity](http://arxiv.org/abs/2205.12713v1)** | 2022-05-25 | <details><summary>In Pr...</summary><p>In Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022</p></details> |
@@ -33,6 +33,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
 | **[Idioms: Neural Decompilation With Joint Code and Type Prediction](http://arxiv.org/abs/2502.04536v1)** | 2025-02-06 |  |
 | **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
@@ -47,11 +48,15 @@ labels: documentation
 | **[Neural Decompiling of Tracr Transformers](http://arxiv.org/abs/2410.00061v1)** | 2024-09-29 |  |
 | **[The Incredible Shrinking Context... in a decompiler near you](http://arxiv.org/abs/2409.11157v1)** | 2024-09-17 |  |
 | **[WaDec: Decompiling WebAssembly Using Large Language Model](http://arxiv.org/abs/2406.11346v3)** | 2024-09-11 | <details><summary>This ...</summary><p>This paper was accepted by ASE 2024</p></details> |
-| **[Register Aggregation for Hardware Decompilation](http://arxiv.org/abs/2409.03119v1)** | 2024-09-04 | 6 pages, 6 figures |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CipherGuard: Compiler-aided Mitigation against Ciphertext Side-channel Attacks](http://arxiv.org/abs/2502.13401v1)** | 2025-02-19 |  |
+| **[BenthicNet: A global compilation of seafloor images for deep learning applications](http://arxiv.org/abs/2405.05241v3)** | 2025-02-18 |  |
+| **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v2)** | 2025-02-18 | 6 pages, 2 figures |
+| **[Comparison of Vectorization Capabilities of Different Compilers for X86 and ARM CPUs](http://arxiv.org/abs/2502.11906v1)** | 2025-02-17 | IEEE HPEC 2024 |
+| **[Gensor: A Graph-based Construction Tensor Compilation Method for Deep Learning](http://arxiv.org/abs/2502.11407v1)** | 2025-02-17 |  |
 | **[A Compiler for Operations on Relations with Bag Semantics](http://arxiv.org/abs/2502.06988v1)** | 2025-02-10 |  |
 | **[C codegen considered unnecessary: go directly to binary, do not pass C. Compilation of Julia code for deployment in model-based engineering](http://arxiv.org/abs/2502.01128v2)** | 2025-02-07 |  |
 | **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
@@ -62,9 +67,4 @@ labels: documentation
 | **[A Proof-Producing Compiler for Blockchain Applications](http://arxiv.org/abs/2501.15002v1)** | 2025-01-25 |  |
 | **[SySTeC: A Symmetric Sparse Tensor Compiler](http://arxiv.org/abs/2406.09266v2)** | 2025-01-23 |  |
 | **[Compiler Support for Speculation in Decoupled Access/Execute Architectures](http://arxiv.org/abs/2501.13553v1)** | 2025-01-23 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 34th ACM SIGPLAN International Conference on Compiler Construction (CC 2025)</p></details> |
-| **[ASDF: A Compiler for Qwerty, a Basis-Oriented Quantum Programming Language](http://arxiv.org/abs/2501.13262v1)** | 2025-01-22 | <details><summary>20 pa...</summary><p>20 pages, 14 figures. To appear in CGO '25</p></details> |
-| **[Certified Knowledge Compilation with Application to Formally Verified Model Counting](http://arxiv.org/abs/2501.12906v1)** | 2025-01-22 | <details><summary>This ...</summary><p>This is an extended version of a paper published at the 2023 International Conference on Theory and Applications of Satisfiability Testing (SAT)</p></details> |
-| **[Efficient Compilation for Shuttling Trapped-Ion Machines via the Position Graph Architectural Abstraction](http://arxiv.org/abs/2501.12470v1)** | 2025-01-21 | <details><summary>13 pa...</summary><p>13 pages, 7 figures, 2 tables</p></details> |
-| **[MappedTrace: Tracing Pointer Remotely with Compiler-generated Maps](http://arxiv.org/abs/2501.10668v1)** | 2025-01-18 |  |
-| **[Resource-Efficient Compilation of Distributed Quantum Circuits for Solving Large-Scale Wireless Communication Network Problems](http://arxiv.org/abs/2501.10242v1)** | 2025-01-17 |  |
 
