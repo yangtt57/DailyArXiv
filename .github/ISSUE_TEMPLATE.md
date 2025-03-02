@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 24, 2025
+title: Latest 15 Papers - March 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -52,6 +52,11 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bridging the PLC Binary Analysis Gap: A Cross-Compiler Dataset and Neural Framework for Industrial Control Systems](http://arxiv.org/abs/2502.19725v1)** | 2025-02-27 |  |
+| **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v1)** | 2025-02-26 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
+| **[Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators](http://arxiv.org/abs/2502.17006v1)** | 2025-02-24 | <details><summary>16 pa...</summary><p>16 pages, 18 figures, accepted to ASPLOS 2025</p></details> |
+| **[OPAQUE: Obfuscating Phase in Quantum Circuit Compilation for Efficient IP Protection](http://arxiv.org/abs/2502.16605v1)** | 2025-02-23 | <details><summary>To ap...</summary><p>To appear at ISQED '25</p></details> |
+| **[Dynamic Co-Optimization Compiler: Leveraging Multi-Agent Reinforcement Learning for Enhanced DNN Accelerator Performance](http://arxiv.org/abs/2407.08192v3)** | 2025-02-21 | <details><summary>Proce...</summary><p>Proceeding of ASP-DAC25</p></details> |
 | **[CipherGuard: Compiler-aided Mitigation against Ciphertext Side-channel Attacks](http://arxiv.org/abs/2502.13401v1)** | 2025-02-19 |  |
 | **[BenthicNet: A global compilation of seafloor images for deep learning applications](http://arxiv.org/abs/2405.05241v3)** | 2025-02-18 |  |
 | **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v2)** | 2025-02-18 | 6 pages, 2 figures |
@@ -62,9 +67,4 @@ labels: documentation
 | **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
 | **[Tensor Decomposition Meets Knowledge Compilation: A Study Comparing Tensor Trains with OBDDs](http://arxiv.org/abs/2502.03702v1)** | 2025-02-06 |  |
 | **[Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL](http://arxiv.org/abs/2502.02818v1)** | 2025-02-05 |  |
-| **[Compilation and Fast Model Counting beyond CNF](http://arxiv.org/abs/2502.00434v1)** | 2025-02-01 |  |
-| **[Transformers are Efficient Compilers, Provably](http://arxiv.org/abs/2410.14706v2)** | 2025-01-25 | 65 pages |
-| **[A Proof-Producing Compiler for Blockchain Applications](http://arxiv.org/abs/2501.15002v1)** | 2025-01-25 |  |
-| **[SySTeC: A Symmetric Sparse Tensor Compiler](http://arxiv.org/abs/2406.09266v2)** | 2025-01-23 |  |
-| **[Compiler Support for Speculation in Decoupled Access/Execute Architectures](http://arxiv.org/abs/2501.13553v1)** | 2025-01-23 | <details><summary>To ap...</summary><p>To appear in the Proceedings of the 34th ACM SIGPLAN International Conference on Compiler Construction (CC 2025)</p></details> |
 
