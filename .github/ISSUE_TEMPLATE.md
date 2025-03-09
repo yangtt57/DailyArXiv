@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 03, 2025
+title: Latest 15 Papers - March 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -52,6 +52,13 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Do You Even Lift? Strengthening Compiler Security Guarantees Against Spectre Attacks](http://arxiv.org/abs/2405.10089v2)** | 2025-03-05 |  |
+| **[Modular Compilation for Quantum Chiplet Architectures](http://arxiv.org/abs/2501.08478v2)** | 2025-03-05 |  |
+| **[Blaze: Compiling JSON Schema for 10x Faster Validation](http://arxiv.org/abs/2503.02770v1)** | 2025-03-04 |  |
+| **[KGCompiler: Deep Learning Compilation Optimization for Knowledge Graph Complex Logical Query Answering](http://arxiv.org/abs/2503.02172v1)** | 2025-03-04 |  |
+| **[Unstable Grounds for Beautiful Trees? Testing the Robustness of Concept Translations in the Compilation of Multilingual Wordlists](http://arxiv.org/abs/2503.00464v1)** | 2025-03-01 | <details><summary>Submi...</summary><p>Submitted to the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)</p></details> |
+| **[An Attempt to Catch Up with JIT Compilers: The False Lead of Optimizing Inline Caches](http://arxiv.org/abs/2502.20547v1)** | 2025-02-27 |  |
+| **[Meta-compilation of Baseline JIT Compilers with Druid](http://arxiv.org/abs/2502.20543v1)** | 2025-02-27 |  |
 | **[Bridging the PLC Binary Analysis Gap: A Cross-Compiler Dataset and Neural Framework for Industrial Control Systems](http://arxiv.org/abs/2502.19725v1)** | 2025-02-27 |  |
 | **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v1)** | 2025-02-26 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
 | **[Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators](http://arxiv.org/abs/2502.17006v1)** | 2025-02-24 | <details><summary>16 pa...</summary><p>16 pages, 18 figures, accepted to ASPLOS 2025</p></details> |
@@ -60,11 +67,4 @@ labels: documentation
 | **[CipherGuard: Compiler-aided Mitigation against Ciphertext Side-channel Attacks](http://arxiv.org/abs/2502.13401v1)** | 2025-02-19 |  |
 | **[BenthicNet: A global compilation of seafloor images for deep learning applications](http://arxiv.org/abs/2405.05241v3)** | 2025-02-18 |  |
 | **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v2)** | 2025-02-18 | 6 pages, 2 figures |
-| **[Comparison of Vectorization Capabilities of Different Compilers for X86 and ARM CPUs](http://arxiv.org/abs/2502.11906v1)** | 2025-02-17 | IEEE HPEC 2024 |
-| **[Gensor: A Graph-based Construction Tensor Compilation Method for Deep Learning](http://arxiv.org/abs/2502.11407v1)** | 2025-02-17 |  |
-| **[A Compiler for Operations on Relations with Bag Semantics](http://arxiv.org/abs/2502.06988v1)** | 2025-02-10 |  |
-| **[C codegen considered unnecessary: go directly to binary, do not pass C. Compilation of Julia code for deployment in model-based engineering](http://arxiv.org/abs/2502.01128v2)** | 2025-02-07 |  |
-| **[A Multi-level Compiler Backend for Accelerated Micro-kernels Targeting RISC-V ISA Extensions](http://arxiv.org/abs/2502.04063v1)** | 2025-02-06 |  |
-| **[Tensor Decomposition Meets Knowledge Compilation: A Study Comparing Tensor Trains with OBDDs](http://arxiv.org/abs/2502.03702v1)** | 2025-02-06 |  |
-| **[Accessible and Portable LLM Inference by Compiling Computational Graphs into SQL](http://arxiv.org/abs/2502.02818v1)** | 2025-02-05 |  |
 
