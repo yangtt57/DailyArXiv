@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 10, 2025
+title: Latest 15 Papers - March 17, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -33,6 +33,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Control Flow-Augmented Decompiler based on Large Language Model](http://arxiv.org/abs/2503.07215v1)** | 2025-03-10 |  |
 | **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
 | **[Idioms: Neural Decompilation With Joint Code and Type Prediction](http://arxiv.org/abs/2502.04536v1)** | 2025-02-06 |  |
 | **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
@@ -47,14 +48,17 @@ labels: documentation
 | **[Demystifying and Assessing Code Understandability in Java Decompilation](http://arxiv.org/abs/2409.20343v1)** | 2024-09-30 | 18 pages, 16 figures |
 | **[Neural Decompiling of Tracr Transformers](http://arxiv.org/abs/2410.00061v1)** | 2024-09-29 |  |
 | **[The Incredible Shrinking Context... in a decompiler near you](http://arxiv.org/abs/2409.11157v1)** | 2024-09-17 |  |
-| **[WaDec: Decompiling WebAssembly Using Large Language Model](http://arxiv.org/abs/2406.11346v3)** | 2024-09-11 | <details><summary>This ...</summary><p>This paper was accepted by ASE 2024</p></details> |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Blaze: Compiling JSON Schema for 10x Faster Validation](http://arxiv.org/abs/2503.02770v2)** | 2025-03-11 |  |
+| **[Accelerating Verified-Compiler Development with a Verified Rewriting Engine](http://arxiv.org/abs/2205.00862v4)** | 2025-03-10 | <details><summary>13th ...</summary><p>13th International Conference on Interactive Theorem Proving (ITP 2022)</p></details> |
+| **[Distributed Graph Neural Network Inference With Just-In-Time Compilation For Industry-Scale Graphs](http://arxiv.org/abs/2503.06208v1)** | 2025-03-08 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2025 (poster)</p></details> |
+| **[A shared compilation stack for distributed-memory parallelism in stencil DSLs](http://arxiv.org/abs/2404.02218v2)** | 2025-03-07 | <details><summary>Fix s...</summary><p>Fix some bibtex links, journal ref</p></details> |
+| **[Fault-tolerant compiling of classically hard IQP circuits on hypercubes](http://arxiv.org/abs/2404.19005v2)** | 2025-03-07 | <details><summary>28 + ...</summary><p>28 + 20 pages, 13 Figures, v2: generalized analytical results to degree D, extended discussion</p></details> |
 | **[Do You Even Lift? Strengthening Compiler Security Guarantees Against Spectre Attacks](http://arxiv.org/abs/2405.10089v2)** | 2025-03-05 |  |
 | **[Modular Compilation for Quantum Chiplet Architectures](http://arxiv.org/abs/2501.08478v2)** | 2025-03-05 |  |
-| **[Blaze: Compiling JSON Schema for 10x Faster Validation](http://arxiv.org/abs/2503.02770v1)** | 2025-03-04 |  |
 | **[KGCompiler: Deep Learning Compilation Optimization for Knowledge Graph Complex Logical Query Answering](http://arxiv.org/abs/2503.02172v1)** | 2025-03-04 |  |
 | **[Unstable Grounds for Beautiful Trees? Testing the Robustness of Concept Translations in the Compilation of Multilingual Wordlists](http://arxiv.org/abs/2503.00464v1)** | 2025-03-01 | <details><summary>Submi...</summary><p>Submitted to the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)</p></details> |
 | **[An Attempt to Catch Up with JIT Compilers: The False Lead of Optimizing Inline Caches](http://arxiv.org/abs/2502.20547v1)** | 2025-02-27 |  |
@@ -63,8 +67,4 @@ labels: documentation
 | **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v1)** | 2025-02-26 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
 | **[Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators](http://arxiv.org/abs/2502.17006v1)** | 2025-02-24 | <details><summary>16 pa...</summary><p>16 pages, 18 figures, accepted to ASPLOS 2025</p></details> |
 | **[OPAQUE: Obfuscating Phase in Quantum Circuit Compilation for Efficient IP Protection](http://arxiv.org/abs/2502.16605v1)** | 2025-02-23 | <details><summary>To ap...</summary><p>To appear at ISQED '25</p></details> |
-| **[Dynamic Co-Optimization Compiler: Leveraging Multi-Agent Reinforcement Learning for Enhanced DNN Accelerator Performance](http://arxiv.org/abs/2407.08192v3)** | 2025-02-21 | <details><summary>Proce...</summary><p>Proceeding of ASP-DAC25</p></details> |
-| **[CipherGuard: Compiler-aided Mitigation against Ciphertext Side-channel Attacks](http://arxiv.org/abs/2502.13401v1)** | 2025-02-19 |  |
-| **[BenthicNet: A global compilation of seafloor images for deep learning applications](http://arxiv.org/abs/2405.05241v3)** | 2025-02-18 |  |
-| **[Comparing Unidirectional, Bidirectional, and Word2vec Models for Discovering Vulnerabilities in Compiled Lifted Code](http://arxiv.org/abs/2409.17513v2)** | 2025-02-18 | 6 pages, 2 figures |
 
