@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 17, 2025
+title: Latest 15 Papers - March 24, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -52,6 +52,11 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State](http://arxiv.org/abs/2503.16346v1)** | 2025-03-20 |  |
+| **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](http://arxiv.org/abs/2503.14985v1)** | 2025-03-19 |  |
+| **[Efficient Compilation for Shuttling Trapped-Ion Machines via the Position Graph Architectural Abstraction](http://arxiv.org/abs/2501.12470v2)** | 2025-03-16 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 2 tables</p></details> |
+| **[TetrisLock: Quantum Circuit Split Compilation with Interlocking Patterns](http://arxiv.org/abs/2503.11982v1)** | 2025-03-15 | <details><summary>To ap...</summary><p>To appear at DAC 2025</p></details> |
+| **[Hercules: A Compiler for Productive Programming of Heterogeneous Systems](http://arxiv.org/abs/2503.10855v1)** | 2025-03-13 |  |
 | **[Blaze: Compiling JSON Schema for 10x Faster Validation](http://arxiv.org/abs/2503.02770v2)** | 2025-03-11 |  |
 | **[Accelerating Verified-Compiler Development with a Verified Rewriting Engine](http://arxiv.org/abs/2205.00862v4)** | 2025-03-10 | <details><summary>13th ...</summary><p>13th International Conference on Interactive Theorem Proving (ITP 2022)</p></details> |
 | **[Distributed Graph Neural Network Inference With Just-In-Time Compilation For Industry-Scale Graphs](http://arxiv.org/abs/2503.06208v1)** | 2025-03-08 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2025 (poster)</p></details> |
@@ -62,9 +67,4 @@ labels: documentation
 | **[KGCompiler: Deep Learning Compilation Optimization for Knowledge Graph Complex Logical Query Answering](http://arxiv.org/abs/2503.02172v1)** | 2025-03-04 |  |
 | **[Unstable Grounds for Beautiful Trees? Testing the Robustness of Concept Translations in the Compilation of Multilingual Wordlists](http://arxiv.org/abs/2503.00464v1)** | 2025-03-01 | <details><summary>Submi...</summary><p>Submitted to the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)</p></details> |
 | **[An Attempt to Catch Up with JIT Compilers: The False Lead of Optimizing Inline Caches](http://arxiv.org/abs/2502.20547v1)** | 2025-02-27 |  |
-| **[Meta-compilation of Baseline JIT Compilers with Druid](http://arxiv.org/abs/2502.20543v1)** | 2025-02-27 |  |
-| **[Bridging the PLC Binary Analysis Gap: A Cross-Compiler Dataset and Neural Framework for Industrial Control Systems](http://arxiv.org/abs/2502.19725v1)** | 2025-02-27 |  |
-| **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v1)** | 2025-02-26 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
-| **[Be CIM or Be Memory: A Dual-mode-aware DNN Compiler for CIM Accelerators](http://arxiv.org/abs/2502.17006v1)** | 2025-02-24 | <details><summary>16 pa...</summary><p>16 pages, 18 figures, accepted to ASPLOS 2025</p></details> |
-| **[OPAQUE: Obfuscating Phase in Quantum Circuit Compilation for Efficient IP Protection](http://arxiv.org/abs/2502.16605v1)** | 2025-02-23 | <details><summary>To ap...</summary><p>To appear at ISQED '25</p></details> |
 
