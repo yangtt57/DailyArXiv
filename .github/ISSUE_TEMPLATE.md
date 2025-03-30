@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 24, 2025
+title: Latest 15 Papers - March 31, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -52,8 +52,12 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State](http://arxiv.org/abs/2503.16346v1)** | 2025-03-20 |  |
-| **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](http://arxiv.org/abs/2503.14985v1)** | 2025-03-19 |  |
+| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v1)** | 2025-03-26 |  |
+| **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](http://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
+| **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
+| **[PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](http://arxiv.org/abs/2503.19779v1)** | 2025-03-25 |  |
+| **[A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State](http://arxiv.org/abs/2503.16346v2)** | 2025-03-25 |  |
+| **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v1)** | 2025-03-25 | ITP'25 submission |
 | **[Efficient Compilation for Shuttling Trapped-Ion Machines via the Position Graph Architectural Abstraction](http://arxiv.org/abs/2501.12470v2)** | 2025-03-16 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 2 tables</p></details> |
 | **[TetrisLock: Quantum Circuit Split Compilation with Interlocking Patterns](http://arxiv.org/abs/2503.11982v1)** | 2025-03-15 | <details><summary>To ap...</summary><p>To appear at DAC 2025</p></details> |
 | **[Hercules: A Compiler for Productive Programming of Heterogeneous Systems](http://arxiv.org/abs/2503.10855v1)** | 2025-03-13 |  |
@@ -63,8 +67,4 @@ labels: documentation
 | **[A shared compilation stack for distributed-memory parallelism in stencil DSLs](http://arxiv.org/abs/2404.02218v2)** | 2025-03-07 | <details><summary>Fix s...</summary><p>Fix some bibtex links, journal ref</p></details> |
 | **[Fault-tolerant compiling of classically hard IQP circuits on hypercubes](http://arxiv.org/abs/2404.19005v2)** | 2025-03-07 | <details><summary>28 + ...</summary><p>28 + 20 pages, 13 Figures, v2: generalized analytical results to degree D, extended discussion</p></details> |
 | **[Do You Even Lift? Strengthening Compiler Security Guarantees Against Spectre Attacks](http://arxiv.org/abs/2405.10089v2)** | 2025-03-05 |  |
-| **[Modular Compilation for Quantum Chiplet Architectures](http://arxiv.org/abs/2501.08478v2)** | 2025-03-05 |  |
-| **[KGCompiler: Deep Learning Compilation Optimization for Knowledge Graph Complex Logical Query Answering](http://arxiv.org/abs/2503.02172v1)** | 2025-03-04 |  |
-| **[Unstable Grounds for Beautiful Trees? Testing the Robustness of Concept Translations in the Compilation of Multilingual Wordlists](http://arxiv.org/abs/2503.00464v1)** | 2025-03-01 | <details><summary>Submi...</summary><p>Submitted to the 7th Workshop on Research in Computational Linguistic Typology and Multilingual NLP (SIGTYP)</p></details> |
-| **[An Attempt to Catch Up with JIT Compilers: The False Lead of Optimizing Inline Caches](http://arxiv.org/abs/2502.20547v1)** | 2025-02-27 |  |
 
