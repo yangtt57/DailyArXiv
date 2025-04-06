@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 31, 2025
+title: Latest 15 Papers - April 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -33,6 +33,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v2)** | 2025-03-29 |  |
 | **[Control Flow-Augmented Decompiler based on Large Language Model](http://arxiv.org/abs/2503.07215v1)** | 2025-03-10 |  |
 | **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
 | **[Idioms: Neural Decompilation With Joint Code and Type Prediction](http://arxiv.org/abs/2502.04536v1)** | 2025-02-06 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
 | **[Fast, Fine-Grained Equivalence Checking for Neural Decompilers](http://arxiv.org/abs/2501.04811v1)** | 2025-01-08 |  |
 | **[Transparent Decompilation for Timing Side-Channel Analyses](http://arxiv.org/abs/2501.04183v1)** | 2025-01-07 |  |
-| **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v1)** | 2024-12-10 |  |
 | **[Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries](http://arxiv.org/abs/2411.04981v1)** | 2024-11-07 |  |
 | **[Is This the Same Code? A Comprehensive Study of Decompilation Techniques for WebAssembly Binaries](http://arxiv.org/abs/2411.02278v1)** | 2024-11-04 | <details><summary>Secur...</summary><p>SecureComm'24: Proceedings of the 20th EAI International Conference on Security and Privacy in Communication Networks</p></details> |
 | **[LLM4Decompile: Decompiling Binary Code with Large Language Models](http://arxiv.org/abs/2403.05286v3)** | 2024-10-22 |  |
@@ -52,6 +52,9 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Should AI Optimize Your Code? A Comparative Study of Classical Optimizing Compilers Versus Current Large Language Models](http://arxiv.org/abs/2406.12146v2)** | 2025-04-02 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, Accepted at SupercomputingAsia 2025 (SCA'25), March 10 to 13, 2025, Singapore, Singapore</p></details> |
+| **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](http://arxiv.org/abs/2504.01379v1)** | 2025-04-02 |  |
+| **[An Empirical Study of Rust-Specific Bugs in the rustc Compiler](http://arxiv.org/abs/2503.23985v1)** | 2025-03-31 |  |
 | **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v1)** | 2025-03-26 |  |
 | **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](http://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
 | **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
@@ -64,7 +67,4 @@ labels: documentation
 | **[Blaze: Compiling JSON Schema for 10x Faster Validation](http://arxiv.org/abs/2503.02770v2)** | 2025-03-11 |  |
 | **[Accelerating Verified-Compiler Development with a Verified Rewriting Engine](http://arxiv.org/abs/2205.00862v4)** | 2025-03-10 | <details><summary>13th ...</summary><p>13th International Conference on Interactive Theorem Proving (ITP 2022)</p></details> |
 | **[Distributed Graph Neural Network Inference With Just-In-Time Compilation For Industry-Scale Graphs](http://arxiv.org/abs/2503.06208v1)** | 2025-03-08 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2025 (poster)</p></details> |
-| **[A shared compilation stack for distributed-memory parallelism in stencil DSLs](http://arxiv.org/abs/2404.02218v2)** | 2025-03-07 | <details><summary>Fix s...</summary><p>Fix some bibtex links, journal ref</p></details> |
-| **[Fault-tolerant compiling of classically hard IQP circuits on hypercubes](http://arxiv.org/abs/2404.19005v2)** | 2025-03-07 | <details><summary>28 + ...</summary><p>28 + 20 pages, 13 Figures, v2: generalized analytical results to degree D, extended discussion</p></details> |
-| **[Do You Even Lift? Strengthening Compiler Security Guarantees Against Spectre Attacks](http://arxiv.org/abs/2405.10089v2)** | 2025-03-05 |  |
 
