@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 07, 2025
+title: Latest 15 Papers - April 14, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -52,10 +52,14 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v2)** | 2025-04-10 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
+| **[COGNAC: Circuit Optimization via Gradients and Noise-Aware Compilation](http://arxiv.org/abs/2311.02769v3)** | 2025-04-09 | 17 pages, 10 figures |
+| **[CATBench: A Compiler Autotuning Benchmarking Suite for Black-box Optimization](http://arxiv.org/abs/2406.17811v2)** | 2025-04-08 |  |
+| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v2)** | 2025-04-07 |  |
+| **[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](http://arxiv.org/abs/2504.04321v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by FSE-IVR 2025</p></details> |
 | **[Should AI Optimize Your Code? A Comparative Study of Classical Optimizing Compilers Versus Current Large Language Models](http://arxiv.org/abs/2406.12146v2)** | 2025-04-02 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, Accepted at SupercomputingAsia 2025 (SCA'25), March 10 to 13, 2025, Singapore, Singapore</p></details> |
 | **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](http://arxiv.org/abs/2504.01379v1)** | 2025-04-02 |  |
 | **[An Empirical Study of Rust-Specific Bugs in the rustc Compiler](http://arxiv.org/abs/2503.23985v1)** | 2025-03-31 |  |
-| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v1)** | 2025-03-26 |  |
 | **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](http://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
 | **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
 | **[PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](http://arxiv.org/abs/2503.19779v1)** | 2025-03-25 |  |
@@ -63,8 +67,4 @@ labels: documentation
 | **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v1)** | 2025-03-25 | ITP'25 submission |
 | **[Efficient Compilation for Shuttling Trapped-Ion Machines via the Position Graph Architectural Abstraction](http://arxiv.org/abs/2501.12470v2)** | 2025-03-16 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 2 tables</p></details> |
 | **[TetrisLock: Quantum Circuit Split Compilation with Interlocking Patterns](http://arxiv.org/abs/2503.11982v1)** | 2025-03-15 | <details><summary>To ap...</summary><p>To appear at DAC 2025</p></details> |
-| **[Hercules: A Compiler for Productive Programming of Heterogeneous Systems](http://arxiv.org/abs/2503.10855v1)** | 2025-03-13 |  |
-| **[Blaze: Compiling JSON Schema for 10x Faster Validation](http://arxiv.org/abs/2503.02770v2)** | 2025-03-11 |  |
-| **[Accelerating Verified-Compiler Development with a Verified Rewriting Engine](http://arxiv.org/abs/2205.00862v4)** | 2025-03-10 | <details><summary>13th ...</summary><p>13th International Conference on Interactive Theorem Proving (ITP 2022)</p></details> |
-| **[Distributed Graph Neural Network Inference With Just-In-Time Compilation For Industry-Scale Graphs](http://arxiv.org/abs/2503.06208v1)** | 2025-03-08 | <details><summary>Accep...</summary><p>Accepted by EuroSys 2025 (poster)</p></details> |
 
