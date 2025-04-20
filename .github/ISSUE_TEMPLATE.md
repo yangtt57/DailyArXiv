@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 14, 2025
+title: Latest 15 Papers - April 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,11 +7,11 @@ labels: documentation
 ## Binary Code Similarity Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning](http://arxiv.org/abs/2311.13721v6)** | 2025-04-13 |  |
 | **[UniASM: Binary Code Similarity Detection without Fine-tuning](http://arxiv.org/abs/2211.01144v4)** | 2025-02-20 |  |
 | **[StrTune: Data Dependence-based Code Slicing for Binary Similarity Detection with Fine-tuned Representation](http://arxiv.org/abs/2411.12454v1)** | 2024-11-19 |  |
 | **[Know Your Neighborhood: General and Zero-Shot Capable Binary Function Search Powered by Call Graphlets](http://arxiv.org/abs/2406.02606v2)** | 2024-11-11 | <details><summary>13 pa...</summary><p>13 pages, Under-Review</p></details> |
 | **[Binary Code Similarity Detection via Graph Contrastive Learning on Intermediate Representations](http://arxiv.org/abs/2410.18561v1)** | 2024-10-24 | 13 pages, 10 figures |
-| **[Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning](http://arxiv.org/abs/2311.13721v5)** | 2024-10-21 |  |
 | **[Understanding the AI-powered Binary Code Similarity Detection](http://arxiv.org/abs/2410.07537v1)** | 2024-10-10 |  |
 | **[CEBin: A Cost-Effective Framework for Large-Scale Binary Code Similarity Detection](http://arxiv.org/abs/2402.18818v1)** | 2024-02-29 |  |
 | **[SimCLF: A Simple Contrastive Learning Framework for Function-level Binary Embeddings](http://arxiv.org/abs/2209.02442v2)** | 2023-12-26 |  |
@@ -33,6 +33,8 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The Incredible Shrinking Context... in a Decompiler Near You](http://arxiv.org/abs/2409.11157v2)** | 2025-04-17 | <details><summary>Full ...</summary><p>Full version of ISSTA 2025 paper</p></details> |
+| **[DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search](http://arxiv.org/abs/2504.08310v1)** | 2025-04-11 |  |
 | **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v2)** | 2025-03-29 |  |
 | **[Control Flow-Augmented Decompiler based on Large Language Model](http://arxiv.org/abs/2503.07215v1)** | 2025-03-10 |  |
 | **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
@@ -46,25 +48,23 @@ labels: documentation
 | **[LLM4Decompile: Decompiling Binary Code with Large Language Models](http://arxiv.org/abs/2403.05286v3)** | 2024-10-22 |  |
 | **[Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement](http://arxiv.org/abs/2406.17233v2)** | 2024-10-03 | EMNLP 2024 Findings |
 | **[Demystifying and Assessing Code Understandability in Java Decompilation](http://arxiv.org/abs/2409.20343v1)** | 2024-09-30 | 18 pages, 16 figures |
-| **[Neural Decompiling of Tracr Transformers](http://arxiv.org/abs/2410.00061v1)** | 2024-09-29 |  |
-| **[The Incredible Shrinking Context... in a decompiler near you](http://arxiv.org/abs/2409.11157v1)** | 2024-09-17 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v5)** | 2025-04-16 |  |
+| **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v1)** | 2025-04-14 | 12 pages, 11 figures |
+| **[DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training](http://arxiv.org/abs/2504.09983v1)** | 2025-04-14 | 14 pages, 10 figures |
+| **[Ember: A Compiler for Efficient Embedding Operations on Decoupled Access-Execute Architectures](http://arxiv.org/abs/2504.09870v1)** | 2025-04-14 | <details><summary>14 pa...</summary><p>14 pages, 19 figures, under review</p></details> |
+| **[Optimizing FDTD Solvers for Electromagnetics: A Compiler-Guided Approach with High-Level Tensor Abstractions](http://arxiv.org/abs/2504.09118v1)** | 2025-04-12 |  |
+| **[RAG-Based Fuzzing of Cross-Architecture Compilers](http://arxiv.org/abs/2504.08967v1)** | 2025-04-11 |  |
+| **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v2)** | 2025-04-11 | <details><summary>ITP'2...</summary><p>ITP'25 submission, updated with link to Rocq development</p></details> |
 | **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v2)** | 2025-04-10 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
 | **[COGNAC: Circuit Optimization via Gradients and Noise-Aware Compilation](http://arxiv.org/abs/2311.02769v3)** | 2025-04-09 | 17 pages, 10 figures |
 | **[CATBench: A Compiler Autotuning Benchmarking Suite for Black-box Optimization](http://arxiv.org/abs/2406.17811v2)** | 2025-04-08 |  |
-| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v2)** | 2025-04-07 |  |
 | **[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](http://arxiv.org/abs/2504.04321v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by FSE-IVR 2025</p></details> |
 | **[Should AI Optimize Your Code? A Comparative Study of Classical Optimizing Compilers Versus Current Large Language Models](http://arxiv.org/abs/2406.12146v2)** | 2025-04-02 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, Accepted at SupercomputingAsia 2025 (SCA'25), March 10 to 13, 2025, Singapore, Singapore</p></details> |
 | **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](http://arxiv.org/abs/2504.01379v1)** | 2025-04-02 |  |
 | **[An Empirical Study of Rust-Specific Bugs in the rustc Compiler](http://arxiv.org/abs/2503.23985v1)** | 2025-03-31 |  |
 | **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](http://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
-| **[Versatile Cross-platform Compilation Toolchain for Schrödinger-style Quantum Circuit Simulation](http://arxiv.org/abs/2503.19894v1)** | 2025-03-25 | To appear in DAC 25 |
-| **[PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](http://arxiv.org/abs/2503.19779v1)** | 2025-03-25 |  |
-| **[A Scalable and Robust Compilation Framework for Emitter-Photonic Graph State](http://arxiv.org/abs/2503.16346v2)** | 2025-03-25 |  |
-| **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v1)** | 2025-03-25 | ITP'25 submission |
-| **[Efficient Compilation for Shuttling Trapped-Ion Machines via the Position Graph Architectural Abstraction](http://arxiv.org/abs/2501.12470v2)** | 2025-03-16 | <details><summary>15 pa...</summary><p>15 pages, 7 figures, 2 tables</p></details> |
-| **[TetrisLock: Quantum Circuit Split Compilation with Interlocking Patterns](http://arxiv.org/abs/2503.11982v1)** | 2025-03-15 | <details><summary>To ap...</summary><p>To appear at DAC 2025</p></details> |
 
