@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 21, 2025
+title: Latest 15 Papers - April 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Binary Code Similarity Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[ReGraph: A Tool for Binary Similarity Identification](http://arxiv.org/abs/2504.16219v1)** | 2025-04-22 |  |
 | **[Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning](http://arxiv.org/abs/2311.13721v6)** | 2025-04-13 |  |
 | **[UniASM: Binary Code Similarity Detection without Fine-tuning](http://arxiv.org/abs/2211.01144v4)** | 2025-02-20 |  |
 | **[StrTune: Data Dependence-based Code Slicing for Binary Similarity Detection with Fine-tuned Representation](http://arxiv.org/abs/2411.12454v1)** | 2024-11-19 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge](http://arxiv.org/abs/2301.00511v2)** | 2023-05-22 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2108.06082</p></details> |
 | **[Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning](http://arxiv.org/abs/2111.01415v4)** | 2022-12-23 |  |
 | **[FuncFooler: A Practical Black-box Attack Against Learning-based Binary Code Similarity Detection Methods](http://arxiv.org/abs/2208.14191v1)** | 2022-08-26 | 9 pages, 4 figures |
-| **[jTrans: Jump-Aware Transformer for Binary Code Similarity](http://arxiv.org/abs/2205.12713v1)** | 2022-05-25 | <details><summary>In Pr...</summary><p>In Proceedings of the 31st ACM SIGSOFT International Symposium on Software Testing and Analysis (ISSTA) 2022</p></details> |
 
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
@@ -52,6 +52,12 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual Machine in a Meta-Tracing Compiler Framework](http://arxiv.org/abs/2504.17460v1)** | 2025-04-24 | ECOOP 2025 |
+| **[OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing](http://arxiv.org/abs/2504.17116v1)** | 2025-04-23 |  |
+| **[Zoozve: A Strip-Mining-Free RISC-V Vector Extension with Arbitrary Register Grouping Compilation Support (WIP)](http://arxiv.org/abs/2504.15678v1)** | 2025-04-22 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, LCTES'25</p></details> |
+| **[Smooth, Integrated Proofs of Cryptographic Constant Time for Nondeterministic Programs and Compilers](http://arxiv.org/abs/2504.15550v1)** | 2025-04-22 | <details><summary>34 pa...</summary><p>34 pages, 1 table, 0 figures. to be published in PLDI 2025 proceedings</p></details> |
+| **[Modular Compilation for Quantum Chiplet Architectures](http://arxiv.org/abs/2501.08478v3)** | 2025-04-21 |  |
+| **[Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes](http://arxiv.org/abs/2504.15141v1)** | 2025-04-21 | 6 pages, 5 figures |
 | **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v5)** | 2025-04-16 |  |
 | **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v1)** | 2025-04-14 | 12 pages, 11 figures |
 | **[DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training](http://arxiv.org/abs/2504.09983v1)** | 2025-04-14 | 14 pages, 10 figures |
@@ -61,10 +67,4 @@ labels: documentation
 | **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v2)** | 2025-04-11 | <details><summary>ITP'2...</summary><p>ITP'25 submission, updated with link to Rocq development</p></details> |
 | **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v2)** | 2025-04-10 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
 | **[COGNAC: Circuit Optimization via Gradients and Noise-Aware Compilation](http://arxiv.org/abs/2311.02769v3)** | 2025-04-09 | 17 pages, 10 figures |
-| **[CATBench: A Compiler Autotuning Benchmarking Suite for Black-box Optimization](http://arxiv.org/abs/2406.17811v2)** | 2025-04-08 |  |
-| **[Compiler Optimization Testing Based on Optimization-Guided Equivalence Transformations](http://arxiv.org/abs/2504.04321v1)** | 2025-04-06 | <details><summary>Accep...</summary><p>Accepted by FSE-IVR 2025</p></details> |
-| **[Should AI Optimize Your Code? A Comparative Study of Classical Optimizing Compilers Versus Current Large Language Models](http://arxiv.org/abs/2406.12146v2)** | 2025-04-02 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, Accepted at SupercomputingAsia 2025 (SCA'25), March 10 to 13, 2025, Singapore, Singapore</p></details> |
-| **[DESIL: Detecting Silent Bugs in MLIR Compiler Infrastructure](http://arxiv.org/abs/2504.01379v1)** | 2025-04-02 |  |
-| **[An Empirical Study of Rust-Specific Bugs in the rustc Compiler](http://arxiv.org/abs/2503.23985v1)** | 2025-03-31 |  |
-| **[ML-Triton, A Multi-Level Compilation and Language Extension to Triton GPU Programming](http://arxiv.org/abs/2503.14985v2)** | 2025-03-26 |  |
 
