@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 28, 2025
+title: Latest 15 Papers - May 05, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Binary Code Similarity Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[BinCoFer: Three-Stage Purification for Effective C/C++ Binary Third-Party Library Detection](http://arxiv.org/abs/2504.19551v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accept by Journel of Systems & Software</p></details> |
 | **[ReGraph: A Tool for Binary Similarity Identification](http://arxiv.org/abs/2504.16219v1)** | 2025-04-22 |  |
 | **[Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning](http://arxiv.org/abs/2311.13721v6)** | 2025-04-13 |  |
 | **[UniASM: Binary Code Similarity Detection without Fine-tuning](http://arxiv.org/abs/2211.01144v4)** | 2025-02-20 |  |
@@ -21,11 +22,11 @@ labels: documentation
 | **[FastBCSD: Fast and Efficient Neural Network for Binary Code Similarity Detection](http://arxiv.org/abs/2306.14168v1)** | 2023-06-25 |  |
 | **[Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge](http://arxiv.org/abs/2301.00511v2)** | 2023-05-22 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2108.06082</p></details> |
 | **[Callee: Recovering Call Graphs for Binaries with Transfer and Contrastive Learning](http://arxiv.org/abs/2111.01415v4)** | 2022-12-23 |  |
-| **[FuncFooler: A Practical Black-box Attack Against Learning-based Binary Code Similarity Detection Methods](http://arxiv.org/abs/2208.14191v1)** | 2022-08-26 | 9 pages, 4 figures |
 
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories](http://arxiv.org/abs/2504.21205v1)** | 2025-04-29 |  |
 | **[Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](http://arxiv.org/abs/2407.00978v2)** | 2024-12-09 | 13 pages, 7 figures |
 | **[PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)](http://arxiv.org/abs/2409.12699v1)** | 2024-09-19 | <details><summary>15 pa...</summary><p>15 pages, 19 figures, CCS 2024</p></details> |
 | **[SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence](http://arxiv.org/abs/2405.03446v2)** | 2024-06-03 |  |
@@ -42,17 +43,22 @@ labels: documentation
 | **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
 | **[Fast, Fine-Grained Equivalence Checking for Neural Decompilers](http://arxiv.org/abs/2501.04811v1)** | 2025-01-08 |  |
-| **[Transparent Decompilation for Timing Side-Channel Analyses](http://arxiv.org/abs/2501.04183v1)** | 2025-01-07 |  |
 | **[Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries](http://arxiv.org/abs/2411.04981v1)** | 2024-11-07 |  |
 | **[Is This the Same Code? A Comprehensive Study of Decompilation Techniques for WebAssembly Binaries](http://arxiv.org/abs/2411.02278v1)** | 2024-11-04 | <details><summary>Secur...</summary><p>SecureComm'24: Proceedings of the 20th EAI International Conference on Security and Privacy in Communication Networks</p></details> |
 | **[LLM4Decompile: Decompiling Binary Code with Large Language Models](http://arxiv.org/abs/2403.05286v3)** | 2024-10-22 |  |
 | **[Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement](http://arxiv.org/abs/2406.17233v2)** | 2024-10-03 | EMNLP 2024 Findings |
 | **[Demystifying and Assessing Code Understandability in Java Decompilation](http://arxiv.org/abs/2409.20343v1)** | 2024-09-30 | 18 pages, 16 figures |
+| **[Neural Decompiling of Tracr Transformers](http://arxiv.org/abs/2410.00061v1)** | 2024-09-29 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual Machine in a Meta-Tracing Compiler Framework](http://arxiv.org/abs/2504.17460v1)** | 2025-04-24 | ECOOP 2025 |
+| **[Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs](http://arxiv.org/abs/2504.20291v1)** | 2025-04-28 |  |
+| **[Leveraging Neural Graph Compilers in Machine Learning Research for Edge-Cloud Systems](http://arxiv.org/abs/2504.20198v1)** | 2025-04-28 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 8 tables</p></details> |
+| **[Dependency-Aware Compilation for Surface Code Quantum Architectures](http://arxiv.org/abs/2311.18042v3)** | 2025-04-28 | <details><summary>Full ...</summary><p>Full version of OOPSLA 2025 paper</p></details> |
+| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v1)** | 2025-04-28 |  |
+| **[Inverse-Transpilation: Reverse-Engineering Quantum Compiler Optimization Passes from Circuit Snapshots](http://arxiv.org/abs/2504.19113v1)** | 2025-04-27 |  |
+| **[A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual Machine in a Meta-Tracing Compiler Framework](http://arxiv.org/abs/2504.17460v2)** | 2025-04-26 | <details><summary>ECOOP...</summary><p>ECOOP 2025. Updated metadata and fixed the layout of figures and listings</p></details> |
 | **[OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing](http://arxiv.org/abs/2504.17116v1)** | 2025-04-23 |  |
 | **[Zoozve: A Strip-Mining-Free RISC-V Vector Extension with Arbitrary Register Grouping Compilation Support (WIP)](http://arxiv.org/abs/2504.15678v1)** | 2025-04-22 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, LCTES'25</p></details> |
 | **[Smooth, Integrated Proofs of Cryptographic Constant Time for Nondeterministic Programs and Compilers](http://arxiv.org/abs/2504.15550v1)** | 2025-04-22 | <details><summary>34 pa...</summary><p>34 pages, 1 table, 0 figures. to be published in PLDI 2025 proceedings</p></details> |
@@ -62,9 +68,4 @@ labels: documentation
 | **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v1)** | 2025-04-14 | 12 pages, 11 figures |
 | **[DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training](http://arxiv.org/abs/2504.09983v1)** | 2025-04-14 | 14 pages, 10 figures |
 | **[Ember: A Compiler for Efficient Embedding Operations on Decoupled Access-Execute Architectures](http://arxiv.org/abs/2504.09870v1)** | 2025-04-14 | <details><summary>14 pa...</summary><p>14 pages, 19 figures, under review</p></details> |
-| **[Optimizing FDTD Solvers for Electromagnetics: A Compiler-Guided Approach with High-Level Tensor Abstractions](http://arxiv.org/abs/2504.09118v1)** | 2025-04-12 |  |
-| **[RAG-Based Fuzzing of Cross-Architecture Compilers](http://arxiv.org/abs/2504.08967v1)** | 2025-04-11 |  |
-| **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v2)** | 2025-04-11 | <details><summary>ITP'2...</summary><p>ITP'25 submission, updated with link to Rocq development</p></details> |
-| **[Scaling Optimization Over Uncertainty via Compilation](http://arxiv.org/abs/2502.18728v2)** | 2025-04-10 | <details><summary>51 pa...</summary><p>51 pages, 23 Figures, Accepted to OOPSLA R1</p></details> |
-| **[COGNAC: Circuit Optimization via Gradients and Noise-Aware Compilation](http://arxiv.org/abs/2311.02769v3)** | 2025-04-09 | 17 pages, 10 figures |
 
