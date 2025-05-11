@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 05, 2025
+title: Latest 15 Papers - May 12, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -53,10 +53,13 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System](http://arxiv.org/abs/2505.04254v1)** | 2025-05-07 | 12 pages, 4 figures |
+| **[An Empirical Study on the Performance and Energy Usage of Compiled Python Code](http://arxiv.org/abs/2505.02346v1)** | 2025-05-05 |  |
+| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v2)** | 2025-05-04 |  |
+| **[Morello: Compiling Fast Neural Networks with Dynamic Programming and Spatial Compression](http://arxiv.org/abs/2505.01637v1)** | 2025-05-03 | 13 pages, 2 figures |
 | **[Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs](http://arxiv.org/abs/2504.20291v1)** | 2025-04-28 |  |
 | **[Leveraging Neural Graph Compilers in Machine Learning Research for Edge-Cloud Systems](http://arxiv.org/abs/2504.20198v1)** | 2025-04-28 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 8 tables</p></details> |
 | **[Dependency-Aware Compilation for Surface Code Quantum Architectures](http://arxiv.org/abs/2311.18042v3)** | 2025-04-28 | <details><summary>Full ...</summary><p>Full version of OOPSLA 2025 paper</p></details> |
-| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v1)** | 2025-04-28 |  |
 | **[Inverse-Transpilation: Reverse-Engineering Quantum Compiler Optimization Passes from Circuit Snapshots](http://arxiv.org/abs/2504.19113v1)** | 2025-04-27 |  |
 | **[A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual Machine in a Meta-Tracing Compiler Framework](http://arxiv.org/abs/2504.17460v2)** | 2025-04-26 | <details><summary>ECOOP...</summary><p>ECOOP 2025. Updated metadata and fixed the layout of figures and listings</p></details> |
 | **[OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing](http://arxiv.org/abs/2504.17116v1)** | 2025-04-23 |  |
@@ -65,7 +68,4 @@ labels: documentation
 | **[Modular Compilation for Quantum Chiplet Architectures](http://arxiv.org/abs/2501.08478v3)** | 2025-04-21 |  |
 | **[Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes](http://arxiv.org/abs/2504.15141v1)** | 2025-04-21 | 6 pages, 5 figures |
 | **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v5)** | 2025-04-16 |  |
-| **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v1)** | 2025-04-14 | 12 pages, 11 figures |
-| **[DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training](http://arxiv.org/abs/2504.09983v1)** | 2025-04-14 | 14 pages, 10 figures |
-| **[Ember: A Compiler for Efficient Embedding Operations on Decoupled Access-Execute Architectures](http://arxiv.org/abs/2504.09870v1)** | 2025-04-14 | <details><summary>14 pa...</summary><p>14 pages, 19 figures, under review</p></details> |
 
