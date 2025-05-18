@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 12, 2025
+title: Latest 15 Papers - May 19, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -53,6 +53,12 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support](http://arxiv.org/abs/2505.09451v1)** | 2025-05-14 |  |
+| **[Grouptuner: Efficient Group-Aware Compiler Auto-tuning](http://arxiv.org/abs/2505.08598v1)** | 2025-05-13 | <details><summary>The f...</summary><p>The final version of this paper is going to appear in the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'25), June 16-17, 2025, Seoul, Republic of Korea</p></details> |
+| **[Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations](http://arxiv.org/abs/2505.07711v1)** | 2025-05-12 | <details><summary>7 pag...</summary><p>7 pages, 2 tables and 3 figures</p></details> |
+| **[LOOPer: A Learned Automatic Code Optimizer For Polyhedral Compilers](http://arxiv.org/abs/2403.11522v3)** | 2025-05-11 |  |
+| **[Pseudo-Boolean d-DNNF Compilation for Expressive Feature Modeling Constructs](http://arxiv.org/abs/2505.05976v1)** | 2025-05-09 |  |
+| **[Quantum strategies, error bounds, optimality, and duality gaps for multiplayer XOR, $\mathrm{XOR}^{*}$, compiled XOR, $\mathrm{XOR}^{*}$, and strong parallel repetiton of XOR, $\mathrm{XOR}^{*}$, and FFL games](http://arxiv.org/abs/2505.06322v1)** | 2025-05-09 | <details><summary>140 p...</summary><p>140 pages, 24 figures. A 5-series presentation discussing several themes of this work is at: https://m.youtube.com/playlist?list=PL3rTBtU0TK_DEFrUY_h-ZX4KLBKcuaF92. Related topics of discussion are at: https://www.youtube.com/watch?v=4uhOTIPJwrU, https://www.youtube.com/watch?v=_YxFLMFZdPA, https://www.youtube.com/watch?v=bFSI6PIt6xI, https://www.youtube.com/watch?v=iBKo_aSgaoE</p></details> |
 | **[CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System](http://arxiv.org/abs/2505.04254v1)** | 2025-05-07 | 12 pages, 4 figures |
 | **[An Empirical Study on the Performance and Energy Usage of Compiled Python Code](http://arxiv.org/abs/2505.02346v1)** | 2025-05-05 |  |
 | **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v2)** | 2025-05-04 |  |
@@ -62,10 +68,4 @@ labels: documentation
 | **[Dependency-Aware Compilation for Surface Code Quantum Architectures](http://arxiv.org/abs/2311.18042v3)** | 2025-04-28 | <details><summary>Full ...</summary><p>Full version of OOPSLA 2025 paper</p></details> |
 | **[Inverse-Transpilation: Reverse-Engineering Quantum Compiler Optimization Passes from Circuit Snapshots](http://arxiv.org/abs/2504.19113v1)** | 2025-04-27 |  |
 | **[A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual Machine in a Meta-Tracing Compiler Framework](http://arxiv.org/abs/2504.17460v2)** | 2025-04-26 | <details><summary>ECOOP...</summary><p>ECOOP 2025. Updated metadata and fixed the layout of figures and listings</p></details> |
-| **[OneAdapt: Adaptive Compilation for Resource-Constrained Photonic One-Way Quantum Computing](http://arxiv.org/abs/2504.17116v1)** | 2025-04-23 |  |
-| **[Zoozve: A Strip-Mining-Free RISC-V Vector Extension with Arbitrary Register Grouping Compilation Support (WIP)](http://arxiv.org/abs/2504.15678v1)** | 2025-04-22 | <details><summary>6 pag...</summary><p>6 pages, 4 figures, LCTES'25</p></details> |
-| **[Smooth, Integrated Proofs of Cryptographic Constant Time for Nondeterministic Programs and Compilers](http://arxiv.org/abs/2504.15550v1)** | 2025-04-22 | <details><summary>34 pa...</summary><p>34 pages, 1 table, 0 figures. to be published in PLDI 2025 proceedings</p></details> |
-| **[Modular Compilation for Quantum Chiplet Architectures](http://arxiv.org/abs/2501.08478v3)** | 2025-04-21 |  |
-| **[Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes](http://arxiv.org/abs/2504.15141v1)** | 2025-04-21 | 6 pages, 5 figures |
-| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers and Analyzers](http://arxiv.org/abs/2503.20332v5)** | 2025-04-16 |  |
 
