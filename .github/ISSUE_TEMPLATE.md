@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 19, 2025
+title: Latest 15 Papers - May 26, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -34,6 +34,8 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation](http://arxiv.org/abs/2505.12668v1)** | 2025-05-19 |  |
+| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
 | **[The Incredible Shrinking Context... in a Decompiler Near You](http://arxiv.org/abs/2409.11157v2)** | 2025-04-17 | <details><summary>Full ...</summary><p>Full version of ISSTA 2025 paper</p></details> |
 | **[DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search](http://arxiv.org/abs/2504.08310v1)** | 2025-04-11 |  |
 | **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v2)** | 2025-03-29 |  |
@@ -47,12 +49,14 @@ labels: documentation
 | **[Is This the Same Code? A Comprehensive Study of Decompilation Techniques for WebAssembly Binaries](http://arxiv.org/abs/2411.02278v1)** | 2024-11-04 | <details><summary>Secur...</summary><p>SecureComm'24: Proceedings of the 20th EAI International Conference on Security and Privacy in Communication Networks</p></details> |
 | **[LLM4Decompile: Decompiling Binary Code with Large Language Models](http://arxiv.org/abs/2403.05286v3)** | 2024-10-22 |  |
 | **[Self-Constructed Context Decompilation with Fined-grained Alignment Enhancement](http://arxiv.org/abs/2406.17233v2)** | 2024-10-03 | EMNLP 2024 Findings |
-| **[Demystifying and Assessing Code Understandability in Java Decompilation](http://arxiv.org/abs/2409.20343v1)** | 2024-09-30 | 18 pages, 16 figures |
-| **[Neural Decompiling of Tracr Transformers](http://arxiv.org/abs/2410.00061v1)** | 2024-09-29 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compile-Time Fully Homomorphic Encryption of Vectors: Eliminating Online Encryption via Algebraic Basis Synthesis](http://arxiv.org/abs/2505.12582v2)** | 2025-05-22 |  |
+| **[Genesis: A Compiler Framework for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers](http://arxiv.org/abs/2505.13683v1)** | 2025-05-19 | <details><summary>To ap...</summary><p>To appear in ISCA 2025</p></details> |
+| **[Physics-Aware Compilation for Parallel Quantum Circuit Execution on Neutral Atom Arrays](http://arxiv.org/abs/2505.13049v1)** | 2025-05-19 |  |
+| **[Neuro-Symbolic Query Compiler](http://arxiv.org/abs/2505.11932v1)** | 2025-05-17 | <details><summary>Findi...</summary><p>Findings of ACL2025, codes are available at this url: https://github.com/YuyaoZhangQAQ/Query_Compiler</p></details> |
 | **[SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support](http://arxiv.org/abs/2505.09451v1)** | 2025-05-14 |  |
 | **[Grouptuner: Efficient Group-Aware Compiler Auto-tuning](http://arxiv.org/abs/2505.08598v1)** | 2025-05-13 | <details><summary>The f...</summary><p>The final version of this paper is going to appear in the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'25), June 16-17, 2025, Seoul, Republic of Korea</p></details> |
 | **[Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations](http://arxiv.org/abs/2505.07711v1)** | 2025-05-12 | <details><summary>7 pag...</summary><p>7 pages, 2 tables and 3 figures</p></details> |
@@ -64,8 +68,4 @@ labels: documentation
 | **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v2)** | 2025-05-04 |  |
 | **[Morello: Compiling Fast Neural Networks with Dynamic Programming and Spatial Compression](http://arxiv.org/abs/2505.01637v1)** | 2025-05-03 | 13 pages, 2 figures |
 | **[Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs](http://arxiv.org/abs/2504.20291v1)** | 2025-04-28 |  |
-| **[Leveraging Neural Graph Compilers in Machine Learning Research for Edge-Cloud Systems](http://arxiv.org/abs/2504.20198v1)** | 2025-04-28 | <details><summary>10 pa...</summary><p>10 pages, 12 figures, 8 tables</p></details> |
-| **[Dependency-Aware Compilation for Surface Code Quantum Architectures](http://arxiv.org/abs/2311.18042v3)** | 2025-04-28 | <details><summary>Full ...</summary><p>Full version of OOPSLA 2025 paper</p></details> |
-| **[Inverse-Transpilation: Reverse-Engineering Quantum Compiler Optimization Passes from Circuit Snapshots](http://arxiv.org/abs/2504.19113v1)** | 2025-04-27 |  |
-| **[A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual Machine in a Meta-Tracing Compiler Framework](http://arxiv.org/abs/2504.17460v2)** | 2025-04-26 | <details><summary>ECOOP...</summary><p>ECOOP 2025. Updated metadata and fixed the layout of figures and listings</p></details> |
 
