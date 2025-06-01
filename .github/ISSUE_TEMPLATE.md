@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - May 26, 2025
+title: Latest 15 Papers - June 02, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -34,12 +34,12 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
 | **[Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation](http://arxiv.org/abs/2505.12668v1)** | 2025-05-19 |  |
 | **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
 | **[The Incredible Shrinking Context... in a Decompiler Near You](http://arxiv.org/abs/2409.11157v2)** | 2025-04-17 | <details><summary>Full ...</summary><p>Full version of ISSTA 2025 paper</p></details> |
 | **[DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search](http://arxiv.org/abs/2504.08310v1)** | 2025-04-11 |  |
 | **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v2)** | 2025-03-29 |  |
-| **[Control Flow-Augmented Decompiler based on Large Language Model](http://arxiv.org/abs/2503.07215v1)** | 2025-03-10 |  |
 | **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
 | **[Idioms: Neural Decompilation With Joint Code and Type Prediction](http://arxiv.org/abs/2502.04536v1)** | 2025-02-06 |  |
 | **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
@@ -53,6 +53,12 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
+| **[KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads](http://arxiv.org/abs/2505.21661v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted to OSDI 2025</p></details> |
+| **[JITScope: Interactive Visualization of JIT Compiler IR Transformations](http://arxiv.org/abs/2505.21599v1)** | 2025-05-27 | 5 pages, 4 figures |
+| **[LEGO-Compiler: Enhancing Neural Compilation Through Translation Composability](http://arxiv.org/abs/2505.20356v1)** | 2025-05-26 | <details><summary>30 pa...</summary><p>30 pages, 8 figures, 4 tables. Preprint. Under review</p></details> |
+| **[Algorithmic Language Models with Neurally Compiled Libraries](http://arxiv.org/abs/2407.04899v2)** | 2025-05-24 |  |
+| **[Breaking Down Quantum Compilation: Profiling and Identifying Costly Passes](http://arxiv.org/abs/2504.15141v2)** | 2025-05-23 | 6 pages, 5 figures |
 | **[Compile-Time Fully Homomorphic Encryption of Vectors: Eliminating Online Encryption via Algebraic Basis Synthesis](http://arxiv.org/abs/2505.12582v2)** | 2025-05-22 |  |
 | **[Genesis: A Compiler Framework for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers](http://arxiv.org/abs/2505.13683v1)** | 2025-05-19 | <details><summary>To ap...</summary><p>To appear in ISCA 2025</p></details> |
 | **[Physics-Aware Compilation for Parallel Quantum Circuit Execution on Neutral Atom Arrays](http://arxiv.org/abs/2505.13049v1)** | 2025-05-19 |  |
@@ -62,10 +68,4 @@ labels: documentation
 | **[Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations](http://arxiv.org/abs/2505.07711v1)** | 2025-05-12 | <details><summary>7 pag...</summary><p>7 pages, 2 tables and 3 figures</p></details> |
 | **[LOOPer: A Learned Automatic Code Optimizer For Polyhedral Compilers](http://arxiv.org/abs/2403.11522v3)** | 2025-05-11 |  |
 | **[Pseudo-Boolean d-DNNF Compilation for Expressive Feature Modeling Constructs](http://arxiv.org/abs/2505.05976v1)** | 2025-05-09 |  |
-| **[Quantum strategies, error bounds, optimality, and duality gaps for multiplayer XOR, $\mathrm{XOR}^{*}$, compiled XOR, $\mathrm{XOR}^{*}$, and strong parallel repetiton of XOR, $\mathrm{XOR}^{*}$, and FFL games](http://arxiv.org/abs/2505.06322v1)** | 2025-05-09 | <details><summary>140 p...</summary><p>140 pages, 24 figures. A 5-series presentation discussing several themes of this work is at: https://m.youtube.com/playlist?list=PL3rTBtU0TK_DEFrUY_h-ZX4KLBKcuaF92. Related topics of discussion are at: https://www.youtube.com/watch?v=4uhOTIPJwrU, https://www.youtube.com/watch?v=_YxFLMFZdPA, https://www.youtube.com/watch?v=bFSI6PIt6xI, https://www.youtube.com/watch?v=iBKo_aSgaoE</p></details> |
-| **[CompileAgent: Automated Real-World Repo-Level Compilation with Tool-Integrated LLM-based Agent System](http://arxiv.org/abs/2505.04254v1)** | 2025-05-07 | 12 pages, 4 figures |
-| **[An Empirical Study on the Performance and Energy Usage of Compiled Python Code](http://arxiv.org/abs/2505.02346v1)** | 2025-05-05 |  |
-| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v2)** | 2025-05-04 |  |
-| **[Morello: Compiling Fast Neural Networks with Dynamic Programming and Spatial Compression](http://arxiv.org/abs/2505.01637v1)** | 2025-05-03 | 13 pages, 2 figures |
-| **[Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs](http://arxiv.org/abs/2504.20291v1)** | 2025-04-28 |  |
 
