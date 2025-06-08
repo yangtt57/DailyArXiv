@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 02, 2025
+title: Latest 15 Papers - June 09, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -53,6 +53,12 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Can Large Language Models Understand Intermediate Representations in Compilers?](http://arxiv.org/abs/2502.06854v2)** | 2025-06-05 |  |
+| **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v3)** | 2025-06-05 |  |
+| **[Solsmith: Solidity Random Program Generator for Compiler Testing](http://arxiv.org/abs/2506.03909v1)** | 2025-06-04 | 11 pages, 12 figures |
+| **[VecTrans: Enhancing Compiler Auto-Vectorization through LLM-Assisted Code Transformations](http://arxiv.org/abs/2503.19449v3)** | 2025-06-04 |  |
+| **[Improving compiler support for SIMD offload using Arm Streaming SVE](http://arxiv.org/abs/2506.02233v1)** | 2025-06-02 |  |
+| **[Compiler Optimization via LLM Reasoning for Efficient Model Serving](http://arxiv.org/abs/2506.01374v1)** | 2025-06-02 |  |
 | **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
 | **[KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads](http://arxiv.org/abs/2505.21661v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted to OSDI 2025</p></details> |
 | **[JITScope: Interactive Visualization of JIT Compiler IR Transformations](http://arxiv.org/abs/2505.21599v1)** | 2025-05-27 | 5 pages, 4 figures |
@@ -62,10 +68,4 @@ labels: documentation
 | **[Compile-Time Fully Homomorphic Encryption of Vectors: Eliminating Online Encryption via Algebraic Basis Synthesis](http://arxiv.org/abs/2505.12582v2)** | 2025-05-22 |  |
 | **[Genesis: A Compiler Framework for Hamiltonian Simulation on Hybrid CV-DV Quantum Computers](http://arxiv.org/abs/2505.13683v1)** | 2025-05-19 | <details><summary>To ap...</summary><p>To appear in ISCA 2025</p></details> |
 | **[Physics-Aware Compilation for Parallel Quantum Circuit Execution on Neutral Atom Arrays](http://arxiv.org/abs/2505.13049v1)** | 2025-05-19 |  |
-| **[Neuro-Symbolic Query Compiler](http://arxiv.org/abs/2505.11932v1)** | 2025-05-17 | <details><summary>Findi...</summary><p>Findings of ACL2025, codes are available at this url: https://github.com/YuyaoZhangQAQ/Query_Compiler</p></details> |
-| **[SEGA-DCIM: Design Space Exploration-Guided Automatic Digital CIM Compiler with Multiple Precision Support](http://arxiv.org/abs/2505.09451v1)** | 2025-05-14 |  |
-| **[Grouptuner: Efficient Group-Aware Compiler Auto-tuning](http://arxiv.org/abs/2505.08598v1)** | 2025-05-13 | <details><summary>The f...</summary><p>The final version of this paper is going to appear in the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'25), June 16-17, 2025, Seoul, Republic of Korea</p></details> |
-| **[Circuit Partitioning Using Large Language Models for Quantum Compilation and Simulations](http://arxiv.org/abs/2505.07711v1)** | 2025-05-12 | <details><summary>7 pag...</summary><p>7 pages, 2 tables and 3 figures</p></details> |
-| **[LOOPer: A Learned Automatic Code Optimizer For Polyhedral Compilers](http://arxiv.org/abs/2403.11522v3)** | 2025-05-11 |  |
-| **[Pseudo-Boolean d-DNNF Compilation for Expressive Feature Modeling Constructs](http://arxiv.org/abs/2505.05976v1)** | 2025-05-09 |  |
 
