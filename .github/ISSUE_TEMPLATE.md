@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 16, 2025
+title: Latest 15 Papers - June 23, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Using LLMs for Security Advisory Investigations: How Far Are We?](http://arxiv.org/abs/2506.13161v1)** | 2025-06-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 8 tables, conference paper</p></details> |
 | **[SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories](http://arxiv.org/abs/2504.21205v1)** | 2025-04-29 |  |
 | **[Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](http://arxiv.org/abs/2407.00978v2)** | 2024-12-09 | 13 pages, 7 figures |
 | **[PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)](http://arxiv.org/abs/2409.12699v1)** | 2024-09-19 | <details><summary>15 pa...</summary><p>15 pages, 19 figures, CCS 2024</p></details> |
@@ -34,6 +35,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Idioms: Neural Decompilation With Joint Code and Type Definition Prediction](http://arxiv.org/abs/2502.04536v2)** | 2025-06-17 |  |
 | **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](http://arxiv.org/abs/2506.10125v1)** | 2025-06-11 |  |
 | **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
 | **[Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation](http://arxiv.org/abs/2505.12668v1)** | 2025-05-19 |  |
@@ -42,7 +44,6 @@ labels: documentation
 | **[DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search](http://arxiv.org/abs/2504.08310v1)** | 2025-04-11 |  |
 | **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v2)** | 2025-03-29 |  |
 | **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
-| **[Idioms: Neural Decompilation With Joint Code and Type Prediction](http://arxiv.org/abs/2502.04536v1)** | 2025-02-06 |  |
 | **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
 | **[Fast, Fine-Grained Equivalence Checking for Neural Decompilers](http://arxiv.org/abs/2501.04811v1)** | 2025-01-08 |  |
@@ -53,19 +54,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Novel Compiler Transformation for Fast Sparse Matrix Multiplication in GPUs](http://arxiv.org/abs/2506.15174v1)** | 2025-06-18 |  |
+| **[IDOL: Improved Different Optimization Levels Testing for Solidity Compilers](http://arxiv.org/abs/2506.12760v1)** | 2025-06-15 | <details><summary>Accep...</summary><p>Accepted by QRS 2025 (Fast Abstracts track)</p></details> |
+| **[CompilerGPT: Leveraging Large Language Models for Analyzing and Acting on Compiler Optimization Reports](http://arxiv.org/abs/2506.06227v2)** | 2025-06-12 | C3PO at ISC HPC 2025 |
 | **[Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](http://arxiv.org/abs/2409.07870v2)** | 2025-06-12 | 11 pages, 12 figures |
 | **[HPCTransCompile: An AI Compiler Generated Dataset for High-Performance CUDA Transpilation and LLM Preliminary Exploration](http://arxiv.org/abs/2506.10401v1)** | 2025-06-12 |  |
 | **[CompilerDream: Learning a Compiler World Model for General Code Optimization](http://arxiv.org/abs/2404.16077v3)** | 2025-06-12 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream</p></details> |
 | **[An FPGA Compiler for On-the-Fly Adaptive CNN Deployment and Reconfiguration](http://arxiv.org/abs/2504.08534v3)** | 2025-06-11 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems</p></details> |
 | **[CHOSEN: Compilation to Hardware Optimization Stack for Efficient Vision Transformer Inference](http://arxiv.org/abs/2407.12736v4)** | 2025-06-10 |  |
 | **[Linguine: A Natural-Language Programming Language with Formal Semantics and a Clean Compiler Pipeline](http://arxiv.org/abs/2506.08396v1)** | 2025-06-10 |  |
-| **[CompilerGPT: Leveraging Large Language Models for Analyzing and Acting on Compiler Optimization Reports](http://arxiv.org/abs/2506.06227v1)** | 2025-06-06 | C3PO at ISC HPC 2025 |
 | **[Can Large Language Models Understand Intermediate Representations in Compilers?](http://arxiv.org/abs/2502.06854v2)** | 2025-06-05 |  |
 | **[Triton-distributed: Programming Overlapping Kernels on Distributed AI Systems with the Triton Compiler](http://arxiv.org/abs/2504.19442v3)** | 2025-06-05 |  |
 | **[Solsmith: Solidity Random Program Generator for Compiler Testing](http://arxiv.org/abs/2506.03909v1)** | 2025-06-04 | 11 pages, 12 figures |
 | **[VecTrans: Enhancing Compiler Auto-Vectorization through LLM-Assisted Code Transformations](http://arxiv.org/abs/2503.19449v3)** | 2025-06-04 |  |
 | **[Improving compiler support for SIMD offload using Arm Streaming SVE](http://arxiv.org/abs/2506.02233v1)** | 2025-06-02 |  |
 | **[Compiler Optimization via LLM Reasoning for Efficient Model Serving](http://arxiv.org/abs/2506.01374v1)** | 2025-06-02 |  |
-| **[TPDE: A Fast Adaptable Compiler Back-End Framework](http://arxiv.org/abs/2505.22610v1)** | 2025-05-28 | 23 pages, 10 figures |
-| **[KPerfIR: Towards an Open and Compiler-centric Ecosystem for GPU Kernel Performance Tooling on Modern AI Workloads](http://arxiv.org/abs/2505.21661v1)** | 2025-05-27 | <details><summary>Accep...</summary><p>Accepted to OSDI 2025</p></details> |
 
