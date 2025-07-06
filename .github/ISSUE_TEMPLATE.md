@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 30, 2025
+title: Latest 15 Papers - July 07, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -54,6 +54,11 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual Machine in a Meta-Tracing Compiler Framework](http://arxiv.org/abs/2504.17460v3)** | 2025-07-03 | <details><summary>ECOOP...</summary><p>ECOOP 2025. Fixed DOI</p></details> |
+| **[MGC: A Compiler Framework Exploiting Compositional Blindness in Aligned LLMs for Malware Generation](http://arxiv.org/abs/2507.02057v1)** | 2025-07-02 |  |
+| **[Efficient Gate Reordering for Distributed Quantum Compiling in Data Centers](http://arxiv.org/abs/2507.01090v1)** | 2025-07-01 |  |
+| **[Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR](http://arxiv.org/abs/2506.23407v1)** | 2025-06-29 |  |
+| **[On the Feasibility of Deduplicating Compiler Bugs with Bisection](http://arxiv.org/abs/2506.23281v1)** | 2025-06-29 |  |
 | **[Quantum strategies, error bounds, optimality, and duality gaps for multiplayer XOR, $\mathrm{XOR}^{*}$, compiled XOR, $\mathrm{XOR}^{*}$, and strong parallel repetiton of XOR, $\mathrm{XOR}^{*}$, and FFL games](http://arxiv.org/abs/2505.06322v2)** | 2025-06-25 | <details><summary>Templ...</summary><p>Template version (207 pages). A 5-series presentation discussing several themes of this work is at: https://m.youtube.com/playlist?list=PL3rTBtU0TK_DEFrUY_h-ZX4KLBKcuaF92. Related topics of discussion are at: https://www.youtube.com/watch?v=4uhOTIPJwrU, https://www.youtube.com/watch?v=_YxFLMFZdPA, https://www.youtube.com/watch?v=bFSI6PIt6xI, https://www.youtube.com/watch?v=iBKo_aSgaoE</p></details> |
 | **[Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch](http://arxiv.org/abs/2506.20513v1)** | 2025-06-25 |  |
 | **[GroupTuner: Efficient Group-Aware Compiler Auto-Tuning](http://arxiv.org/abs/2505.08598v2)** | 2025-06-24 | <details><summary>The f...</summary><p>The final version of this paper is going to appear in the ACM SIGPLAN/SIGBED International Conference on Languages, Compilers, and Tools for Embedded Systems (LCTES'25), June 16-17, 2025, Seoul, Republic of Korea</p></details> |
@@ -64,9 +69,4 @@ labels: documentation
 | **[WAMI: Compilation to WebAssembly through MLIR without Losing Abstraction](http://arxiv.org/abs/2506.16048v1)** | 2025-06-19 |  |
 | **[Mixed-Signal Quantum Circuit Design for Option Pricing Using Design Compiler](http://arxiv.org/abs/2506.15936v1)** | 2025-06-19 |  |
 | **[A System Level Compiler for Massively-Parallel, Spatial, Dataflow Architectures](http://arxiv.org/abs/2506.15875v1)** | 2025-06-18 | <details><summary>26 pa...</summary><p>26 pages, 5 figures, 14 listings</p></details> |
-| **[Compilation, Optimization, Error Mitigation, and Machine Learning in Quantum Algorithms](http://arxiv.org/abs/2506.15760v1)** | 2025-06-18 |  |
-| **[A Novel Compiler Transformation for Fast Sparse Matrix Multiplication in GPUs](http://arxiv.org/abs/2506.15174v1)** | 2025-06-18 |  |
-| **[IDOL: Improved Different Optimization Levels Testing for Solidity Compilers](http://arxiv.org/abs/2506.12760v1)** | 2025-06-15 | <details><summary>Accep...</summary><p>Accepted by QRS 2025 (Fast Abstracts track)</p></details> |
-| **[CompilerGPT: Leveraging Large Language Models for Analyzing and Acting on Compiler Optimization Reports](http://arxiv.org/abs/2506.06227v2)** | 2025-06-12 | C3PO at ISC HPC 2025 |
-| **[Weaver: A Retargetable Compiler Framework for FPQA Quantum Architectures](http://arxiv.org/abs/2409.07870v2)** | 2025-06-12 | 11 pages, 12 figures |
 
