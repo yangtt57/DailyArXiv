@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 14, 2025
+title: Latest 15 Papers - July 21, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -54,7 +54,14 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation](http://arxiv.org/abs/2507.07031v1)** | 2025-07-09 | 16 pages, 2 figures |
+| **[Designing quantum chemistry algorithms with Just-In-Time compilation](http://arxiv.org/abs/2507.09772v2)** | 2025-07-17 | 10 pages, 7 figures |
+| **[Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR](http://arxiv.org/abs/2506.23407v2)** | 2025-07-16 |  |
+| **[Bounding the asymptotic quantum value of all multipartite compiled non-local games](http://arxiv.org/abs/2507.12408v1)** | 2025-07-16 | 74 pages, 14 figures |
+| **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v3)** | 2025-07-16 | ITP'25 final version |
+| **[Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques](http://arxiv.org/abs/2507.11506v1)** | 2025-07-15 | <details><summary>This ...</summary><p>This paper is accepted at the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</p></details> |
+| **[OpenGCRAM: An Open-Source Gain Cell Compiler Enabling Design-Space Exploration for AI Workloads](http://arxiv.org/abs/2507.10849v1)** | 2025-07-14 |  |
+| **[BeePL: Correct-by-compilation kernel extensions](http://arxiv.org/abs/2507.09883v1)** | 2025-07-14 | 45 pages, 18 figures |
+| **[ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation](http://arxiv.org/abs/2507.07031v2)** | 2025-07-10 | 16 pages, 2 figures |
 | **[Finding Compiler Bugs through Cross-Language Code Generator and Differential Testing](http://arxiv.org/abs/2507.06584v1)** | 2025-07-09 | <details><summary>The 4...</summary><p>The 40th ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)</p></details> |
 | **[Pyrosome: Verified Compilation for Modular Metatheory](http://arxiv.org/abs/2507.06360v1)** | 2025-07-08 |  |
 | **[Fun with flags: How Compilers Break and Fix Constant-Time Code](http://arxiv.org/abs/2507.06112v1)** | 2025-07-08 | 11 pages |
@@ -62,11 +69,4 @@ labels: documentation
 | **[RVISmith: Fuzzing Compilers for RVV Intrinsics](http://arxiv.org/abs/2507.03773v1)** | 2025-07-04 | <details><summary>To ap...</summary><p>To appear in ACM CCS 2025</p></details> |
 | **[A bound on the quantum value of all compiled nonlocal games](http://arxiv.org/abs/2408.06711v3)** | 2025-07-04 | <details><summary>v3: 4...</summary><p>v3: 44 pages, 1 figure, extended introduction and added citations to related works</p></details> |
 | **[HPCTransCompile: An AI Compiler Generated Dataset for High-Performance CUDA Transpilation and LLM Preliminary Exploration](http://arxiv.org/abs/2506.10401v2)** | 2025-07-04 |  |
-| **[A Lightweight Method for Generating Multi-Tier JIT Compilation Virtual Machine in a Meta-Tracing Compiler Framework](http://arxiv.org/abs/2504.17460v3)** | 2025-07-03 | <details><summary>ECOOP...</summary><p>ECOOP 2025. Fixed DOI</p></details> |
-| **[MGC: A Compiler Framework Exploiting Compositional Blindness in Aligned LLMs for Malware Generation](http://arxiv.org/abs/2507.02057v1)** | 2025-07-02 |  |
-| **[Efficient Gate Reordering for Distributed Quantum Compiling in Data Centers](http://arxiv.org/abs/2507.01090v1)** | 2025-07-01 |  |
-| **[Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR](http://arxiv.org/abs/2506.23407v1)** | 2025-06-29 |  |
-| **[On the Feasibility of Deduplicating Compiler Bugs with Bisection](http://arxiv.org/abs/2506.23281v1)** | 2025-06-29 |  |
-| **[Quantum strategies, error bounds, optimality, and duality gaps for multiplayer XOR, $\mathrm{XOR}^{*}$, compiled XOR, $\mathrm{XOR}^{*}$, and strong parallel repetiton of XOR, $\mathrm{XOR}^{*}$, and FFL games](http://arxiv.org/abs/2505.06322v2)** | 2025-06-25 | <details><summary>Templ...</summary><p>Template version (207 pages). A 5-series presentation discussing several themes of this work is at: https://m.youtube.com/playlist?list=PL3rTBtU0TK_DEFrUY_h-ZX4KLBKcuaF92. Related topics of discussion are at: https://www.youtube.com/watch?v=4uhOTIPJwrU, https://www.youtube.com/watch?v=_YxFLMFZdPA, https://www.youtube.com/watch?v=bFSI6PIt6xI, https://www.youtube.com/watch?v=iBKo_aSgaoE</p></details> |
-| **[Fast ground penetrating radar dual-parameter full waveform inversion method accelerated by hybrid compilation of CUDA kernel function and PyTorch](http://arxiv.org/abs/2506.20513v1)** | 2025-06-25 |  |
 
