@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 21, 2025
+title: Latest 15 Papers - July 28, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -54,6 +54,11 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Encrypted-State Quantum Compilation Scheme Based on Quantum Circuit Obfuscation](http://arxiv.org/abs/2507.17589v1)** | 2025-07-23 |  |
+| **[Seed&Steer: Guiding Large Language Models with Compilable Prefix and Branch Signals for Unit Test Generation](http://arxiv.org/abs/2507.17271v1)** | 2025-07-23 |  |
+| **[Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy](http://arxiv.org/abs/2507.17006v1)** | 2025-07-22 | <details><summary>41 pa...</summary><p>41 pages, 1 figure; comments welcome. We refer to Cui, Falor, Natarajan, and Zhang for an independent parallel work on the same topic</p></details> |
+| **[Enhancing Compiler Optimization Efficiency through Grammatical Decompositions of Control-Flow Graphs](http://arxiv.org/abs/2507.16660v1)** | 2025-07-22 |  |
+| **[NPUEval: Optimizing NPU Kernels with LLMs and Open Source Compilers](http://arxiv.org/abs/2507.14403v1)** | 2025-07-18 |  |
 | **[Designing quantum chemistry algorithms with Just-In-Time compilation](http://arxiv.org/abs/2507.09772v2)** | 2025-07-17 | 10 pages, 7 figures |
 | **[Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR](http://arxiv.org/abs/2506.23407v2)** | 2025-07-16 |  |
 | **[Bounding the asymptotic quantum value of all multipartite compiled non-local games](http://arxiv.org/abs/2507.12408v1)** | 2025-07-16 | 74 pages, 14 figures |
@@ -64,9 +69,4 @@ labels: documentation
 | **[ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation](http://arxiv.org/abs/2507.07031v2)** | 2025-07-10 | 16 pages, 2 figures |
 | **[Finding Compiler Bugs through Cross-Language Code Generator and Differential Testing](http://arxiv.org/abs/2507.06584v1)** | 2025-07-09 | <details><summary>The 4...</summary><p>The 40th ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)</p></details> |
 | **[Pyrosome: Verified Compilation for Modular Metatheory](http://arxiv.org/abs/2507.06360v1)** | 2025-07-08 |  |
-| **[Fun with flags: How Compilers Break and Fix Constant-Time Code](http://arxiv.org/abs/2507.06112v1)** | 2025-07-08 | 11 pages |
-| **[A High-Level Compiler Integration Approach for Deep Learning Accelerators Supporting Abstraction and Optimization](http://arxiv.org/abs/2507.04828v1)** | 2025-07-07 |  |
-| **[RVISmith: Fuzzing Compilers for RVV Intrinsics](http://arxiv.org/abs/2507.03773v1)** | 2025-07-04 | <details><summary>To ap...</summary><p>To appear in ACM CCS 2025</p></details> |
-| **[A bound on the quantum value of all compiled nonlocal games](http://arxiv.org/abs/2408.06711v3)** | 2025-07-04 | <details><summary>v3: 4...</summary><p>v3: 44 pages, 1 figure, extended introduction and added citations to related works</p></details> |
-| **[HPCTransCompile: An AI Compiler Generated Dataset for High-Performance CUDA Transpilation and LLM Preliminary Exploration](http://arxiv.org/abs/2506.10401v2)** | 2025-07-04 |  |
 
