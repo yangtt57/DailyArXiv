@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 28, 2025
+title: Latest 15 Papers - August 04, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,6 +35,8 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges](http://arxiv.org/abs/2507.18792v1)** | 2025-07-24 |  |
+| **[CodableLLM: Automating Decompiled and Source Code Mapping for LLM Dataset Generation](http://arxiv.org/abs/2507.22066v1)** | 2025-07-02 |  |
 | **[Decompiling Smart Contracts with a Large Language Model](http://arxiv.org/abs/2506.19624v1)** | 2025-06-24 |  |
 | **[Idioms: Neural Decompilation With Joint Code and Type Definition Prediction](http://arxiv.org/abs/2502.04536v2)** | 2025-06-17 |  |
 | **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](http://arxiv.org/abs/2506.10125v1)** | 2025-06-11 |  |
@@ -48,25 +50,23 @@ labels: documentation
 | **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
 | **[Fast, Fine-Grained Equivalence Checking for Neural Decompilers](http://arxiv.org/abs/2501.04811v1)** | 2025-01-08 |  |
-| **[Enhancing Reverse Engineering: Investigating and Benchmarking Large Language Models for Vulnerability Analysis in Decompiled Binaries](http://arxiv.org/abs/2411.04981v1)** | 2024-11-07 |  |
-| **[Is This the Same Code? A Comprehensive Study of Decompilation Techniques for WebAssembly Binaries](http://arxiv.org/abs/2411.02278v1)** | 2024-11-04 | <details><summary>Secur...</summary><p>SecureComm'24: Proceedings of the 20th EAI International Conference on Security and Privacy in Communication Networks</p></details> |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Designing quantum chemistry algorithms with just-in-time compilation](http://arxiv.org/abs/2507.09772v4)** | 2025-07-30 | 10 pages, 7 figures |
+| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v1)** | 2025-07-29 |  |
+| **[A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications](http://arxiv.org/abs/2507.20055v1)** | 2025-07-26 |  |
+| **[Mut4All: Fuzzing Compilers via LLM-Synthesized Mutators Learned from Bug Reports](http://arxiv.org/abs/2507.19275v1)** | 2025-07-25 |  |
+| **[Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges](http://arxiv.org/abs/2507.18792v1)** | 2025-07-24 |  |
 | **[Encrypted-State Quantum Compilation Scheme Based on Quantum Circuit Obfuscation](http://arxiv.org/abs/2507.17589v1)** | 2025-07-23 |  |
 | **[Seed&Steer: Guiding Large Language Models with Compilable Prefix and Branch Signals for Unit Test Generation](http://arxiv.org/abs/2507.17271v1)** | 2025-07-23 |  |
 | **[Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy](http://arxiv.org/abs/2507.17006v1)** | 2025-07-22 | <details><summary>41 pa...</summary><p>41 pages, 1 figure; comments welcome. We refer to Cui, Falor, Natarajan, and Zhang for an independent parallel work on the same topic</p></details> |
 | **[Enhancing Compiler Optimization Efficiency through Grammatical Decompositions of Control-Flow Graphs](http://arxiv.org/abs/2507.16660v1)** | 2025-07-22 |  |
 | **[NPUEval: Optimizing NPU Kernels with LLMs and Open Source Compilers](http://arxiv.org/abs/2507.14403v1)** | 2025-07-18 |  |
-| **[Designing quantum chemistry algorithms with Just-In-Time compilation](http://arxiv.org/abs/2507.09772v2)** | 2025-07-17 | 10 pages, 7 figures |
 | **[Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR](http://arxiv.org/abs/2506.23407v2)** | 2025-07-16 |  |
 | **[Bounding the asymptotic quantum value of all multipartite compiled non-local games](http://arxiv.org/abs/2507.12408v1)** | 2025-07-16 | 74 pages, 14 figures |
 | **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v3)** | 2025-07-16 | ITP'25 final version |
 | **[Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques](http://arxiv.org/abs/2507.11506v1)** | 2025-07-15 | <details><summary>This ...</summary><p>This paper is accepted at the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</p></details> |
 | **[OpenGCRAM: An Open-Source Gain Cell Compiler Enabling Design-Space Exploration for AI Workloads](http://arxiv.org/abs/2507.10849v1)** | 2025-07-14 |  |
-| **[BeePL: Correct-by-compilation kernel extensions](http://arxiv.org/abs/2507.09883v1)** | 2025-07-14 | 45 pages, 18 figures |
-| **[ZKTorch: Compiling ML Inference to Zero-Knowledge Proofs via Parallel Proof Accumulation](http://arxiv.org/abs/2507.07031v2)** | 2025-07-10 | 16 pages, 2 figures |
-| **[Finding Compiler Bugs through Cross-Language Code Generator and Differential Testing](http://arxiv.org/abs/2507.06584v1)** | 2025-07-09 | <details><summary>The 4...</summary><p>The 40th ACM SIGPLAN International Conference on Object-Oriented Programming, Systems, Languages, and Applications (OOPSLA)</p></details> |
-| **[Pyrosome: Verified Compilation for Modular Metatheory](http://arxiv.org/abs/2507.06360v1)** | 2025-07-08 |  |
 
