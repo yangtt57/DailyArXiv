@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 04, 2025
+title: Latest 15 Papers - August 11, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -54,6 +54,11 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Raqlet: Cross-Paradigm Compilation for Recursive Queries](http://arxiv.org/abs/2508.03978v1)** | 2025-08-06 |  |
+| **[Compositional Quantum Control Flow with Efficient Compilation in Qunity](http://arxiv.org/abs/2508.02857v1)** | 2025-08-04 | 88 pages, 30 figures |
+| **[An MLIR-based Compilation Framework for Control Flow Management on CGRAs](http://arxiv.org/abs/2508.02167v1)** | 2025-08-04 |  |
+| **[Efficient compilation and execution of synchronous programs via type-state programming](http://arxiv.org/abs/2508.01199v1)** | 2025-08-02 |  |
+| **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v2)** | 2025-08-01 | 12 pages, 11 figures |
 | **[Designing quantum chemistry algorithms with just-in-time compilation](http://arxiv.org/abs/2507.09772v4)** | 2025-07-30 | 10 pages, 7 figures |
 | **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v1)** | 2025-07-29 |  |
 | **[A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications](http://arxiv.org/abs/2507.20055v1)** | 2025-07-26 |  |
@@ -64,9 +69,4 @@ labels: documentation
 | **[Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy](http://arxiv.org/abs/2507.17006v1)** | 2025-07-22 | <details><summary>41 pa...</summary><p>41 pages, 1 figure; comments welcome. We refer to Cui, Falor, Natarajan, and Zhang for an independent parallel work on the same topic</p></details> |
 | **[Enhancing Compiler Optimization Efficiency through Grammatical Decompositions of Control-Flow Graphs](http://arxiv.org/abs/2507.16660v1)** | 2025-07-22 |  |
 | **[NPUEval: Optimizing NPU Kernels with LLMs and Open Source Compilers](http://arxiv.org/abs/2507.14403v1)** | 2025-07-18 |  |
-| **[Compiling a Q# Subset to QASM 3.0 in TypeScript via a JSON Based IR](http://arxiv.org/abs/2506.23407v2)** | 2025-07-16 |  |
-| **[Bounding the asymptotic quantum value of all multipartite compiled non-local games](http://arxiv.org/abs/2507.12408v1)** | 2025-07-16 | 74 pages, 14 figures |
-| **[Nanopass Back-Translation of Call-Return Trees for Mechanized Secure Compilation Proofs](http://arxiv.org/abs/2503.19609v3)** | 2025-07-16 | ITP'25 final version |
-| **[Elk: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques](http://arxiv.org/abs/2507.11506v1)** | 2025-07-15 | <details><summary>This ...</summary><p>This paper is accepted at the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</p></details> |
-| **[OpenGCRAM: An Open-Source Gain Cell Compiler Enabling Design-Space Exploration for AI Workloads](http://arxiv.org/abs/2507.10849v1)** | 2025-07-14 |  |
 
