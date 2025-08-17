@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 11, 2025
+title: Latest 15 Papers - August 18, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -54,6 +54,9 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generating Compilers for Qubit Mapping and Routing](http://arxiv.org/abs/2508.10781v1)** | 2025-08-14 |  |
+| **[Bridging Solidity Evolution Gaps: An LLM-Enhanced Approach for Smart Contract Compilation Error Resolution](http://arxiv.org/abs/2508.10517v1)** | 2025-08-14 | <details><summary>Inter...</summary><p>International Conference on Software Maintenance and Evolution (ICSME) 2025</p></details> |
+| **[A Planning Compilation to Reason about Goal Achievement at Planning Time](http://arxiv.org/abs/2503.09545v2)** | 2025-08-11 |  |
 | **[Raqlet: Cross-Paradigm Compilation for Recursive Queries](http://arxiv.org/abs/2508.03978v1)** | 2025-08-06 |  |
 | **[Compositional Quantum Control Flow with Efficient Compilation in Qunity](http://arxiv.org/abs/2508.02857v1)** | 2025-08-04 | 88 pages, 30 figures |
 | **[An MLIR-based Compilation Framework for Control Flow Management on CGRAs](http://arxiv.org/abs/2508.02167v1)** | 2025-08-04 |  |
@@ -66,7 +69,4 @@ labels: documentation
 | **[Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges](http://arxiv.org/abs/2507.18792v1)** | 2025-07-24 |  |
 | **[Encrypted-State Quantum Compilation Scheme Based on Quantum Circuit Obfuscation](http://arxiv.org/abs/2507.17589v1)** | 2025-07-23 |  |
 | **[Seed&Steer: Guiding Large Language Models with Compilable Prefix and Branch Signals for Unit Test Generation](http://arxiv.org/abs/2507.17271v1)** | 2025-07-23 |  |
-| **[Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy](http://arxiv.org/abs/2507.17006v1)** | 2025-07-22 | <details><summary>41 pa...</summary><p>41 pages, 1 figure; comments welcome. We refer to Cui, Falor, Natarajan, and Zhang for an independent parallel work on the same topic</p></details> |
-| **[Enhancing Compiler Optimization Efficiency through Grammatical Decompositions of Control-Flow Graphs](http://arxiv.org/abs/2507.16660v1)** | 2025-07-22 |  |
-| **[NPUEval: Optimizing NPU Kernels with LLMs and Open Source Compilers](http://arxiv.org/abs/2507.14403v1)** | 2025-07-18 |  |
 
