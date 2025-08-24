@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 18, 2025
+title: Latest 15 Papers - August 25, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,11 +35,11 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](http://arxiv.org/abs/2506.10125v2)** | 2025-08-15 |  |
 | **[Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges](http://arxiv.org/abs/2507.18792v1)** | 2025-07-24 |  |
 | **[CodableLLM: Automating Decompiled and Source Code Mapping for LLM Dataset Generation](http://arxiv.org/abs/2507.22066v1)** | 2025-07-02 |  |
 | **[Decompiling Smart Contracts with a Large Language Model](http://arxiv.org/abs/2506.19624v1)** | 2025-06-24 |  |
 | **[Idioms: Neural Decompilation With Joint Code and Type Definition Prediction](http://arxiv.org/abs/2502.04536v2)** | 2025-06-17 |  |
-| **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](http://arxiv.org/abs/2506.10125v1)** | 2025-06-11 |  |
 | **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
 | **[Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation](http://arxiv.org/abs/2505.12668v1)** | 2025-05-19 |  |
 | **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
@@ -54,6 +54,11 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing Compilation for Distributed Quantum Computing via Clustering and Annealing](http://arxiv.org/abs/2508.15267v1)** | 2025-08-21 |  |
+| **[HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents](http://arxiv.org/abs/2508.14751v1)** | 2025-08-20 | 42 pages |
+| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
+| **[Certified Compilation based on Gödel Numbers](http://arxiv.org/abs/2508.12054v1)** | 2025-08-16 | 32 pages, 19 figures |
+| **[HEIR: A Universal Compiler for Homomorphic Encryption](http://arxiv.org/abs/2508.11095v1)** | 2025-08-14 |  |
 | **[Generating Compilers for Qubit Mapping and Routing](http://arxiv.org/abs/2508.10781v1)** | 2025-08-14 |  |
 | **[Bridging Solidity Evolution Gaps: An LLM-Enhanced Approach for Smart Contract Compilation Error Resolution](http://arxiv.org/abs/2508.10517v1)** | 2025-08-14 | <details><summary>Inter...</summary><p>International Conference on Software Maintenance and Evolution (ICSME) 2025</p></details> |
 | **[A Planning Compilation to Reason about Goal Achievement at Planning Time](http://arxiv.org/abs/2503.09545v2)** | 2025-08-11 |  |
@@ -63,10 +68,5 @@ labels: documentation
 | **[Efficient compilation and execution of synchronous programs via type-state programming](http://arxiv.org/abs/2508.01199v1)** | 2025-08-02 |  |
 | **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v2)** | 2025-08-01 | 12 pages, 11 figures |
 | **[Designing quantum chemistry algorithms with just-in-time compilation](http://arxiv.org/abs/2507.09772v4)** | 2025-07-30 | 10 pages, 7 figures |
-| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v1)** | 2025-07-29 |  |
 | **[A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications](http://arxiv.org/abs/2507.20055v1)** | 2025-07-26 |  |
-| **[Mut4All: Fuzzing Compilers via LLM-Synthesized Mutators Learned from Bug Reports](http://arxiv.org/abs/2507.19275v1)** | 2025-07-25 |  |
-| **[Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges](http://arxiv.org/abs/2507.18792v1)** | 2025-07-24 |  |
-| **[Encrypted-State Quantum Compilation Scheme Based on Quantum Circuit Obfuscation](http://arxiv.org/abs/2507.17589v1)** | 2025-07-23 |  |
-| **[Seed&Steer: Guiding Large Language Models with Compilable Prefix and Branch Signals for Unit Test Generation](http://arxiv.org/abs/2507.17271v1)** | 2025-07-23 |  |
 
