@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 25, 2025
+title: Latest 15 Papers - September 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -54,6 +54,9 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Interleaving Large Language Models for Compiler Testing](http://arxiv.org/abs/2508.18955v1)** | 2025-08-26 |  |
+| **[Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization](http://arxiv.org/abs/2508.17713v1)** | 2025-08-25 |  |
+| **[Evaluating Compiler Optimization Impacts on zkVM Performance](http://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
 | **[Optimizing Compilation for Distributed Quantum Computing via Clustering and Annealing](http://arxiv.org/abs/2508.15267v1)** | 2025-08-21 |  |
 | **[HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents](http://arxiv.org/abs/2508.14751v1)** | 2025-08-20 | 42 pages |
 | **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
@@ -66,7 +69,4 @@ labels: documentation
 | **[Compositional Quantum Control Flow with Efficient Compilation in Qunity](http://arxiv.org/abs/2508.02857v1)** | 2025-08-04 | 88 pages, 30 figures |
 | **[An MLIR-based Compilation Framework for Control Flow Management on CGRAs](http://arxiv.org/abs/2508.02167v1)** | 2025-08-04 |  |
 | **[Efficient compilation and execution of synchronous programs via type-state programming](http://arxiv.org/abs/2508.01199v1)** | 2025-08-02 |  |
-| **[Lattice Surgery Compilation Beyond the Surface Code](http://arxiv.org/abs/2504.10591v2)** | 2025-08-01 | 12 pages, 11 figures |
-| **[Designing quantum chemistry algorithms with just-in-time compilation](http://arxiv.org/abs/2507.09772v4)** | 2025-07-30 | 10 pages, 7 figures |
-| **[A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications](http://arxiv.org/abs/2507.20055v1)** | 2025-07-26 |  |
 
