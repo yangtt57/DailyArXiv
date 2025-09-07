@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 01, 2025
+title: Latest 15 Papers - September 08, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -54,6 +54,9 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compositional Quantum Control Flow with Efficient Compilation in Qunity](http://arxiv.org/abs/2508.02857v2)** | 2025-09-03 | 89 pages, 29 figures |
+| **[Breaking Bad: How Compilers Break Constant-Time Implementations](http://arxiv.org/abs/2410.13489v2)** | 2025-09-02 |  |
+| **[LLM-Based Program Generation for Triggering Numerical Inconsistencies Across Compilers](http://arxiv.org/abs/2509.00256v1)** | 2025-08-29 |  |
 | **[Interleaving Large Language Models for Compiler Testing](http://arxiv.org/abs/2508.18955v1)** | 2025-08-26 |  |
 | **[Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization](http://arxiv.org/abs/2508.17713v1)** | 2025-08-25 |  |
 | **[Evaluating Compiler Optimization Impacts on zkVM Performance](http://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
@@ -66,7 +69,4 @@ labels: documentation
 | **[Bridging Solidity Evolution Gaps: An LLM-Enhanced Approach for Smart Contract Compilation Error Resolution](http://arxiv.org/abs/2508.10517v1)** | 2025-08-14 | <details><summary>Inter...</summary><p>International Conference on Software Maintenance and Evolution (ICSME) 2025</p></details> |
 | **[A Planning Compilation to Reason about Goal Achievement at Planning Time](http://arxiv.org/abs/2503.09545v2)** | 2025-08-11 |  |
 | **[Raqlet: Cross-Paradigm Compilation for Recursive Queries](http://arxiv.org/abs/2508.03978v1)** | 2025-08-06 |  |
-| **[Compositional Quantum Control Flow with Efficient Compilation in Qunity](http://arxiv.org/abs/2508.02857v1)** | 2025-08-04 | 88 pages, 30 figures |
-| **[An MLIR-based Compilation Framework for Control Flow Management on CGRAs](http://arxiv.org/abs/2508.02167v1)** | 2025-08-04 |  |
-| **[Efficient compilation and execution of synchronous programs via type-state programming](http://arxiv.org/abs/2508.01199v1)** | 2025-08-02 |  |
 
