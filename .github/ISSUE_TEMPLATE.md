@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 08, 2025
+title: Latest 15 Papers - September 15, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](http://arxiv.org/abs/2509.06402v1)** | 2025-09-08 |  |
 | **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](http://arxiv.org/abs/2506.10125v2)** | 2025-08-15 |  |
 | **[Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges](http://arxiv.org/abs/2507.18792v1)** | 2025-07-24 |  |
 | **[CodableLLM: Automating Decompiled and Source Code Mapping for LLM Dataset Generation](http://arxiv.org/abs/2507.22066v1)** | 2025-07-02 |  |
@@ -49,11 +50,12 @@ labels: documentation
 | **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
 | **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
-| **[Fast, Fine-Grained Equivalence Checking for Neural Decompilers](http://arxiv.org/abs/2501.04811v1)** | 2025-01-08 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](http://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
+| **[ELK: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques](http://arxiv.org/abs/2507.11506v2)** | 2025-09-08 | <details><summary>This ...</summary><p>This paper is accepted at the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</p></details> |
 | **[Compositional Quantum Control Flow with Efficient Compilation in Qunity](http://arxiv.org/abs/2508.02857v2)** | 2025-09-03 | 89 pages, 29 figures |
 | **[Breaking Bad: How Compilers Break Constant-Time Implementations](http://arxiv.org/abs/2410.13489v2)** | 2025-09-02 |  |
 | **[LLM-Based Program Generation for Triggering Numerical Inconsistencies Across Compilers](http://arxiv.org/abs/2509.00256v1)** | 2025-08-29 |  |
@@ -67,6 +69,4 @@ labels: documentation
 | **[HEIR: A Universal Compiler for Homomorphic Encryption](http://arxiv.org/abs/2508.11095v1)** | 2025-08-14 |  |
 | **[Generating Compilers for Qubit Mapping and Routing](http://arxiv.org/abs/2508.10781v1)** | 2025-08-14 |  |
 | **[Bridging Solidity Evolution Gaps: An LLM-Enhanced Approach for Smart Contract Compilation Error Resolution](http://arxiv.org/abs/2508.10517v1)** | 2025-08-14 | <details><summary>Inter...</summary><p>International Conference on Software Maintenance and Evolution (ICSME) 2025</p></details> |
-| **[A Planning Compilation to Reason about Goal Achievement at Planning Time](http://arxiv.org/abs/2503.09545v2)** | 2025-08-11 |  |
-| **[Raqlet: Cross-Paradigm Compilation for Recursive Queries](http://arxiv.org/abs/2508.03978v1)** | 2025-08-06 |  |
 
