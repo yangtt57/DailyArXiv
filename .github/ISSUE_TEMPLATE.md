@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 15, 2025
+title: Latest 15 Papers - September 22, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -35,6 +35,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
 | **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](http://arxiv.org/abs/2509.06402v1)** | 2025-09-08 |  |
 | **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](http://arxiv.org/abs/2506.10125v2)** | 2025-08-15 |  |
 | **[Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges](http://arxiv.org/abs/2507.18792v1)** | 2025-07-24 |  |
@@ -49,11 +50,15 @@ labels: documentation
 | **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v2)** | 2025-03-29 |  |
 | **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
 | **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
-| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v1)** | 2025-01-15 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[eIQ Neutron: Redefining Edge-AI Inference with Integrated NPU and Compiler Innovations](http://arxiv.org/abs/2509.14388v1)** | 2025-09-17 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Computers</p></details> |
+| **[Efficient Compilation of Algorithms into Compact Linear Programs](http://arxiv.org/abs/2509.13006v1)** | 2025-09-16 | <details><summary>Preli...</summary><p>Preliminary version will appear in CASCON 2025</p></details> |
+| **[Your Compiler is Backdooring Your Model: Understanding and Exploiting Compilation Inconsistency Vulnerabilities in Deep Learning Compilers](http://arxiv.org/abs/2509.11173v2)** | 2025-09-16 |  |
+| **[Encrypted-state quantum compilation scheme based on quantum circuit obfuscation for quantum cloud platforms](http://arxiv.org/abs/2507.17589v2)** | 2025-09-15 |  |
+| **[Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs](http://arxiv.org/abs/2504.20291v2)** | 2025-09-11 |  |
 | **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](http://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
 | **[ELK: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques](http://arxiv.org/abs/2507.11506v2)** | 2025-09-08 | <details><summary>This ...</summary><p>This paper is accepted at the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</p></details> |
 | **[Compositional Quantum Control Flow with Efficient Compilation in Qunity](http://arxiv.org/abs/2508.02857v2)** | 2025-09-03 | 89 pages, 29 figures |
@@ -64,9 +69,4 @@ labels: documentation
 | **[Evaluating Compiler Optimization Impacts on zkVM Performance](http://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
 | **[Optimizing Compilation for Distributed Quantum Computing via Clustering and Annealing](http://arxiv.org/abs/2508.15267v1)** | 2025-08-21 |  |
 | **[HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents](http://arxiv.org/abs/2508.14751v1)** | 2025-08-20 | 42 pages |
-| **[LLM4VV: Evaluating Cutting-Edge LLMs for Generation and Evaluation of Directive-Based Parallel Programming Model Compiler Tests](http://arxiv.org/abs/2507.21447v2)** | 2025-08-19 |  |
-| **[Certified Compilation based on Gödel Numbers](http://arxiv.org/abs/2508.12054v1)** | 2025-08-16 | 32 pages, 19 figures |
-| **[HEIR: A Universal Compiler for Homomorphic Encryption](http://arxiv.org/abs/2508.11095v1)** | 2025-08-14 |  |
-| **[Generating Compilers for Qubit Mapping and Routing](http://arxiv.org/abs/2508.10781v1)** | 2025-08-14 |  |
-| **[Bridging Solidity Evolution Gaps: An LLM-Enhanced Approach for Smart Contract Compilation Error Resolution](http://arxiv.org/abs/2508.10517v1)** | 2025-08-14 | <details><summary>Inter...</summary><p>International Conference on Software Maintenance and Evolution (ICSME) 2025</p></details> |
 
