@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 22, 2025
+title: Latest 15 Papers - September 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLMs as verification oracles for Solidity](http://arxiv.org/abs/2509.19153v1)** | 2025-09-23 |  |
 | **[Using LLMs for Security Advisory Investigations: How Far Are We?](http://arxiv.org/abs/2506.13161v1)** | 2025-06-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 8 tables, conference paper</p></details> |
 | **[SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories](http://arxiv.org/abs/2504.21205v1)** | 2025-04-29 |  |
 | **[Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](http://arxiv.org/abs/2407.00978v2)** | 2024-12-09 | 13 pages, 7 figures |
@@ -54,19 +55,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Verified Compiler for Quantum Simulation](http://arxiv.org/abs/2509.18583v2)** | 2025-09-24 |  |
+| **[Compilation as Multi-Language Semantics](http://arxiv.org/abs/2509.19613v1)** | 2025-09-23 |  |
+| **[Macro-embedding Compiler Intermediate Languages in Racket](http://arxiv.org/abs/2509.19607v1)** | 2025-09-23 |  |
+| **[Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers](http://arxiv.org/abs/2508.17713v2)** | 2025-09-23 |  |
+| **[Tempo: Compiled Dynamic Deep Learning with Symbolic Dependence Graphs](http://arxiv.org/abs/2501.05408v2)** | 2025-09-22 | <details><summary>17 pa...</summary><p>17 pages, 24 figures, 3 bibliography pages</p></details> |
+| **[Designing quantum chemistry algorithms with just-in-time compilation](http://arxiv.org/abs/2507.09772v5)** | 2025-09-20 | 19 pages, 7 figures |
+| **[LightCode: Compiling LLM Inference for Photonic-Electronic Systems](http://arxiv.org/abs/2509.16443v1)** | 2025-09-19 | 9 pages, 8 figures |
+| **[CCrepairBench: A High-Fidelity Benchmark and Reinforcement Learning Framework for C++ Compilation Repair](http://arxiv.org/abs/2509.15690v1)** | 2025-09-19 |  |
+| **[An MLIR-Based Compilation Framework for Control Flow Management on Coarse Grained Reconfigurable Arrays](http://arxiv.org/abs/2508.02167v2)** | 2025-09-19 |  |
 | **[eIQ Neutron: Redefining Edge-AI Inference with Integrated NPU and Compiler Innovations](http://arxiv.org/abs/2509.14388v1)** | 2025-09-17 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Computers</p></details> |
 | **[Efficient Compilation of Algorithms into Compact Linear Programs](http://arxiv.org/abs/2509.13006v1)** | 2025-09-16 | <details><summary>Preli...</summary><p>Preliminary version will appear in CASCON 2025</p></details> |
 | **[Your Compiler is Backdooring Your Model: Understanding and Exploiting Compilation Inconsistency Vulnerabilities in Deep Learning Compilers](http://arxiv.org/abs/2509.11173v2)** | 2025-09-16 |  |
 | **[Encrypted-state quantum compilation scheme based on quantum circuit obfuscation for quantum cloud platforms](http://arxiv.org/abs/2507.17589v2)** | 2025-09-15 |  |
 | **[Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs](http://arxiv.org/abs/2504.20291v2)** | 2025-09-11 |  |
 | **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](http://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
-| **[ELK: Exploring the Efficiency of Inter-core Connected AI Chips with Deep Learning Compiler Techniques](http://arxiv.org/abs/2507.11506v2)** | 2025-09-08 | <details><summary>This ...</summary><p>This paper is accepted at the 58th IEEE/ACM International Symposium on Microarchitecture (MICRO'25)</p></details> |
-| **[Compositional Quantum Control Flow with Efficient Compilation in Qunity](http://arxiv.org/abs/2508.02857v2)** | 2025-09-03 | 89 pages, 29 figures |
-| **[Breaking Bad: How Compilers Break Constant-Time Implementations](http://arxiv.org/abs/2410.13489v2)** | 2025-09-02 |  |
-| **[LLM-Based Program Generation for Triggering Numerical Inconsistencies Across Compilers](http://arxiv.org/abs/2509.00256v1)** | 2025-08-29 |  |
-| **[Interleaving Large Language Models for Compiler Testing](http://arxiv.org/abs/2508.18955v1)** | 2025-08-26 |  |
-| **[Code Difference Guided Fuzzing for FPGA Logic Synthesis Compilers via Bayesian Optimization](http://arxiv.org/abs/2508.17713v1)** | 2025-08-25 |  |
-| **[Evaluating Compiler Optimization Impacts on zkVM Performance](http://arxiv.org/abs/2508.17518v1)** | 2025-08-24 |  |
-| **[Optimizing Compilation for Distributed Quantum Computing via Clustering and Annealing](http://arxiv.org/abs/2508.15267v1)** | 2025-08-21 |  |
-| **[HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents](http://arxiv.org/abs/2508.14751v1)** | 2025-08-20 | 42 pages |
 
