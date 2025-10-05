@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 29, 2025
+title: Latest 15 Papers - October 06, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Binary Code Similarity Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Beyond Embeddings: Interpretable Feature Extraction for Binary Code Similarity](http://arxiv.org/abs/2509.23449v1)** | 2025-09-27 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, submitted to USENIX Security '26</p></details> |
 | **[Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models](http://arxiv.org/abs/2506.05430v1)** | 2025-06-05 | 12 pages, 3 figures |
 | **[BinCoFer: Three-Stage Purification for Effective C/C++ Binary Third-Party Library Detection](http://arxiv.org/abs/2504.19551v1)** | 2025-04-28 | <details><summary>Accep...</summary><p>Accept by Journel of Systems & Software</p></details> |
 | **[ReGraph: A Tool for Binary Similarity Identification](http://arxiv.org/abs/2504.16219v1)** | 2025-04-22 |  |
@@ -21,7 +22,6 @@ labels: documentation
 | **[kTrans: Knowledge-Aware Transformer for Binary Code Embedding](http://arxiv.org/abs/2308.12659v1)** | 2023-08-24 |  |
 | **[Binary Code Similarity Detection](http://arxiv.org/abs/2308.02992v1)** | 2023-08-06 | <details><summary>4 pag...</summary><p>4 pages, conference paper</p></details> |
 | **[FastBCSD: Fast and Efficient Neural Network for Binary Code Similarity Detection](http://arxiv.org/abs/2306.14168v1)** | 2023-06-25 |  |
-| **[Asteria-Pro: Enhancing Deep-Learning Based Binary Code Similarity Detection by Incorporating Domain Knowledge](http://arxiv.org/abs/2301.00511v2)** | 2023-05-22 | <details><summary>arXiv...</summary><p>arXiv admin note: text overlap with arXiv:2108.06082</p></details> |
 
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
@@ -36,6 +36,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SK2Decompile: LLM-based Two-Phase Binary Decompilation from Skeleton to Skin](http://arxiv.org/abs/2509.22114v1)** | 2025-09-26 |  |
 | **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
 | **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](http://arxiv.org/abs/2509.06402v1)** | 2025-09-08 |  |
 | **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](http://arxiv.org/abs/2506.10125v2)** | 2025-08-15 |  |
@@ -50,12 +51,16 @@ labels: documentation
 | **[DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search](http://arxiv.org/abs/2504.08310v1)** | 2025-04-11 |  |
 | **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v2)** | 2025-03-29 |  |
 | **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
-| **[SuiGPT MAD: Move AI Decompiler to Improve Transparency and Auditability on Non-Open-Source Blockchain Smart Contract](http://arxiv.org/abs/2410.15275v2)** | 2025-01-31 | <details><summary>Paper...</summary><p>Paper accepted at ACM The Web Conference 2025</p></details> |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[A Verified Compiler for Quantum Simulation](http://arxiv.org/abs/2509.18583v2)** | 2025-09-24 |  |
+| **[The CoCompiler: DSL Lifting via Relational Compilation](http://arxiv.org/abs/2510.00210v1)** | 2025-09-30 | <details><summary>To be...</summary><p>To be published in miniKanren 2025. 14 pages, 10 figures</p></details> |
+| **[LAPIS: A Performance Portable, High Productivity Compiler Framework](http://arxiv.org/abs/2509.25605v1)** | 2025-09-30 | <details><summary>14 pa...</summary><p>14 pages (10 excluding references and appendices). 5 figures</p></details> |
+| **[Quantitative quantum soundness for all multipartite compiled nonlocal games](http://arxiv.org/abs/2509.25145v1)** | 2025-09-29 | <details><summary>30+4 ...</summary><p>30+4 pages, 2 figures, comments welcome!</p></details> |
+| **[BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software](http://arxiv.org/abs/2509.25248v1)** | 2025-09-27 |  |
+| **[Compiling by Proving: Language-Agnostic Automatic Optimization from Formal Semantics](http://arxiv.org/abs/2509.21793v1)** | 2025-09-26 |  |
+| **[A Verified Compiler for Quantum Simulation](http://arxiv.org/abs/2509.18583v3)** | 2025-09-26 |  |
 | **[Compilation as Multi-Language Semantics](http://arxiv.org/abs/2509.19613v1)** | 2025-09-23 |  |
 | **[Macro-embedding Compiler Intermediate Languages in Racket](http://arxiv.org/abs/2509.19607v1)** | 2025-09-23 |  |
 | **[Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers](http://arxiv.org/abs/2508.17713v2)** | 2025-09-23 |  |
@@ -65,9 +70,4 @@ labels: documentation
 | **[CCrepairBench: A High-Fidelity Benchmark and Reinforcement Learning Framework for C++ Compilation Repair](http://arxiv.org/abs/2509.15690v1)** | 2025-09-19 |  |
 | **[An MLIR-Based Compilation Framework for Control Flow Management on Coarse Grained Reconfigurable Arrays](http://arxiv.org/abs/2508.02167v2)** | 2025-09-19 |  |
 | **[eIQ Neutron: Redefining Edge-AI Inference with Integrated NPU and Compiler Innovations](http://arxiv.org/abs/2509.14388v1)** | 2025-09-17 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Computers</p></details> |
-| **[Efficient Compilation of Algorithms into Compact Linear Programs](http://arxiv.org/abs/2509.13006v1)** | 2025-09-16 | <details><summary>Preli...</summary><p>Preliminary version will appear in CASCON 2025</p></details> |
-| **[Your Compiler is Backdooring Your Model: Understanding and Exploiting Compilation Inconsistency Vulnerabilities in Deep Learning Compilers](http://arxiv.org/abs/2509.11173v2)** | 2025-09-16 |  |
-| **[Encrypted-state quantum compilation scheme based on quantum circuit obfuscation for quantum cloud platforms](http://arxiv.org/abs/2507.17589v2)** | 2025-09-15 |  |
-| **[Quantum Gate Decomposition: A Study of Compilation Time vs. Execution Time Trade-offs](http://arxiv.org/abs/2504.20291v2)** | 2025-09-11 |  |
-| **[Towards Verified Compilation of Floating-point Optimization in Scientific Computing Programs](http://arxiv.org/abs/2509.09019v1)** | 2025-09-10 |  |
 
