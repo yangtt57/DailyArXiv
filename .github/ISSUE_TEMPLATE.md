@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 06, 2025
+title: Latest 15 Papers - October 13, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance](http://arxiv.org/abs/2510.05524v1)** | 2025-10-07 |  |
 | **[LLMs as verification oracles for Solidity](http://arxiv.org/abs/2509.19153v1)** | 2025-09-23 |  |
 | **[Using LLMs for Security Advisory Investigations: How Far Are We?](http://arxiv.org/abs/2506.13161v1)** | 2025-06-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 8 tables, conference paper</p></details> |
 | **[SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories](http://arxiv.org/abs/2504.21205v1)** | 2025-04-29 |  |
@@ -55,7 +56,12 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[The CoCompiler: DSL Lifting via Relational Compilation](http://arxiv.org/abs/2510.00210v1)** | 2025-09-30 | <details><summary>To be...</summary><p>To be published in miniKanren 2025. 14 pages, 10 figures</p></details> |
+| **[Compiling Any $\mathsf{MIP}^{*}$ into a (Succinct) Classical Interactive Argument](http://arxiv.org/abs/2510.08495v1)** | 2025-10-09 |  |
+| **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
+| **[VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?](http://arxiv.org/abs/2411.10979v4)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Tempo: Compiled Dynamic Deep Learning with Symbolic Dependence Graphs](http://arxiv.org/abs/2501.05408v3)** | 2025-10-08 | <details><summary>17 pa...</summary><p>17 pages, 24 figures, 3 bibliography pages</p></details> |
+| **[Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness](http://arxiv.org/abs/2501.09061v2)** | 2025-10-05 | 20 pages, 15 figures |
+| **[The CoCompiler: DSL Lifting via Relational Compilation](http://arxiv.org/abs/2510.00210v2)** | 2025-10-02 | <details><summary>To be...</summary><p>To be published in miniKanren 2025. 14 pages, 10 figures</p></details> |
 | **[LAPIS: A Performance Portable, High Productivity Compiler Framework](http://arxiv.org/abs/2509.25605v1)** | 2025-09-30 | <details><summary>14 pa...</summary><p>14 pages (10 excluding references and appendices). 5 figures</p></details> |
 | **[Quantitative quantum soundness for all multipartite compiled nonlocal games](http://arxiv.org/abs/2509.25145v1)** | 2025-09-29 | <details><summary>30+4 ...</summary><p>30+4 pages, 2 figures, comments welcome!</p></details> |
 | **[BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software](http://arxiv.org/abs/2509.25248v1)** | 2025-09-27 |  |
@@ -64,10 +70,5 @@ labels: documentation
 | **[Compilation as Multi-Language Semantics](http://arxiv.org/abs/2509.19613v1)** | 2025-09-23 |  |
 | **[Macro-embedding Compiler Intermediate Languages in Racket](http://arxiv.org/abs/2509.19607v1)** | 2025-09-23 |  |
 | **[Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers](http://arxiv.org/abs/2508.17713v2)** | 2025-09-23 |  |
-| **[Tempo: Compiled Dynamic Deep Learning with Symbolic Dependence Graphs](http://arxiv.org/abs/2501.05408v2)** | 2025-09-22 | <details><summary>17 pa...</summary><p>17 pages, 24 figures, 3 bibliography pages</p></details> |
 | **[Designing quantum chemistry algorithms with just-in-time compilation](http://arxiv.org/abs/2507.09772v5)** | 2025-09-20 | 19 pages, 7 figures |
-| **[LightCode: Compiling LLM Inference for Photonic-Electronic Systems](http://arxiv.org/abs/2509.16443v1)** | 2025-09-19 | 9 pages, 8 figures |
-| **[CCrepairBench: A High-Fidelity Benchmark and Reinforcement Learning Framework for C++ Compilation Repair](http://arxiv.org/abs/2509.15690v1)** | 2025-09-19 |  |
-| **[An MLIR-Based Compilation Framework for Control Flow Management on Coarse Grained Reconfigurable Arrays](http://arxiv.org/abs/2508.02167v2)** | 2025-09-19 |  |
-| **[eIQ Neutron: Redefining Edge-AI Inference with Integrated NPU and Compiler Innovations](http://arxiv.org/abs/2509.14388v1)** | 2025-09-17 | <details><summary>Submi...</summary><p>Submitted to IEEE Transactions on Computers</p></details> |
 
