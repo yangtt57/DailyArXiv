@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 13, 2025
+title: Latest 15 Papers - October 20, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -37,6 +37,8 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
+| **[Decompiling for Constant-Time Analysis](http://arxiv.org/abs/2501.04183v3)** | 2025-10-14 |  |
 | **[SK2Decompile: LLM-based Two-Phase Binary Decompilation from Skeleton to Skin](http://arxiv.org/abs/2509.22114v1)** | 2025-09-26 |  |
 | **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
 | **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](http://arxiv.org/abs/2509.06402v1)** | 2025-09-08 |  |
@@ -50,25 +52,23 @@ labels: documentation
 | **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
 | **[The Incredible Shrinking Context... in a Decompiler Near You](http://arxiv.org/abs/2409.11157v2)** | 2025-04-17 | <details><summary>Full ...</summary><p>Full version of ISSTA 2025 paper</p></details> |
 | **[DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search](http://arxiv.org/abs/2504.08310v1)** | 2025-04-11 |  |
-| **[Can Neural Decompilation Assist Vulnerability Prediction on Binary Code?](http://arxiv.org/abs/2412.07538v2)** | 2025-03-29 |  |
-| **[ReF Decompile: Relabeling and Function Call Enhanced Decompile](http://arxiv.org/abs/2502.12221v1)** | 2025-02-17 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](http://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
+| **[Bounding the asymptotic quantum value of all multipartite compiled non-local games](http://arxiv.org/abs/2507.12408v2)** | 2025-10-15 | <details><summary>74 pa...</summary><p>74 pages, 14 figures. Typos corrected</p></details> |
+| **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
+| **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
+| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
+| **[Isolating Compiler Bugs through Compilation Steps Analysis](http://arxiv.org/abs/2510.13128v1)** | 2025-10-15 |  |
+| **[Quantum Circuit Synthesis and Compilation Optimization: Overview and Prospects](http://arxiv.org/abs/2407.00736v2)** | 2025-10-14 |  |
+| **[AwareCompiler: Agentic Context-Aware Compiler Optimization via a Synergistic Knowledge-Data Driven Framework](http://arxiv.org/abs/2510.11759v1)** | 2025-10-13 |  |
+| **[LOOPerSet: A Large-Scale Dataset for Data-Driven Polyhedral Compiler Optimization](http://arxiv.org/abs/2510.10209v1)** | 2025-10-11 |  |
+| **[End-to-end Compositional Verification of Program Safety through Verified and Verifying Compilation](http://arxiv.org/abs/2510.10015v1)** | 2025-10-11 |  |
+| **[ACT: Automatically Generating Compiler Backends from Tensor Accelerator ISA Descriptions](http://arxiv.org/abs/2510.09932v1)** | 2025-10-11 |  |
 | **[Compiling Any $\mathsf{MIP}^{*}$ into a (Succinct) Classical Interactive Argument](http://arxiv.org/abs/2510.08495v1)** | 2025-10-09 |  |
 | **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
 | **[VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?](http://arxiv.org/abs/2411.10979v4)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
 | **[Tempo: Compiled Dynamic Deep Learning with Symbolic Dependence Graphs](http://arxiv.org/abs/2501.05408v3)** | 2025-10-08 | <details><summary>17 pa...</summary><p>17 pages, 24 figures, 3 bibliography pages</p></details> |
-| **[Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness](http://arxiv.org/abs/2501.09061v2)** | 2025-10-05 | 20 pages, 15 figures |
-| **[The CoCompiler: DSL Lifting via Relational Compilation](http://arxiv.org/abs/2510.00210v2)** | 2025-10-02 | <details><summary>To be...</summary><p>To be published in miniKanren 2025. 14 pages, 10 figures</p></details> |
-| **[LAPIS: A Performance Portable, High Productivity Compiler Framework](http://arxiv.org/abs/2509.25605v1)** | 2025-09-30 | <details><summary>14 pa...</summary><p>14 pages (10 excluding references and appendices). 5 figures</p></details> |
-| **[Quantitative quantum soundness for all multipartite compiled nonlocal games](http://arxiv.org/abs/2509.25145v1)** | 2025-09-29 | <details><summary>30+4 ...</summary><p>30+4 pages, 2 figures, comments welcome!</p></details> |
-| **[BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software](http://arxiv.org/abs/2509.25248v1)** | 2025-09-27 |  |
-| **[Compiling by Proving: Language-Agnostic Automatic Optimization from Formal Semantics](http://arxiv.org/abs/2509.21793v1)** | 2025-09-26 |  |
-| **[A Verified Compiler for Quantum Simulation](http://arxiv.org/abs/2509.18583v3)** | 2025-09-26 |  |
-| **[Compilation as Multi-Language Semantics](http://arxiv.org/abs/2509.19613v1)** | 2025-09-23 |  |
-| **[Macro-embedding Compiler Intermediate Languages in Racket](http://arxiv.org/abs/2509.19607v1)** | 2025-09-23 |  |
-| **[Structural Mutation Based Differential Testing for FPGA Logic Synthesis Compilers](http://arxiv.org/abs/2508.17713v2)** | 2025-09-23 |  |
-| **[Designing quantum chemistry algorithms with just-in-time compilation](http://arxiv.org/abs/2507.09772v5)** | 2025-09-20 | 19 pages, 7 figures |
 
