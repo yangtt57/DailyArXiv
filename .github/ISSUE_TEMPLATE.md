@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 20, 2025
+title: Latest 15 Papers - October 27, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[RESCUE: Retrieval Augmented Secure Code Generation](http://arxiv.org/abs/2510.18204v1)** | 2025-10-21 |  |
 | **[KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance](http://arxiv.org/abs/2510.05524v1)** | 2025-10-07 |  |
 | **[LLMs as verification oracles for Solidity](http://arxiv.org/abs/2509.19153v1)** | 2025-09-23 |  |
 | **[Using LLMs for Security Advisory Investigations: How Far Are We?](http://arxiv.org/abs/2506.13161v1)** | 2025-06-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 8 tables, conference paper</p></details> |
@@ -37,6 +38,8 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](http://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
+| **[Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation](http://arxiv.org/abs/2505.12668v2)** | 2025-10-19 |  |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
 | **[Decompiling for Constant-Time Analysis](http://arxiv.org/abs/2501.04183v3)** | 2025-10-14 |  |
 | **[SK2Decompile: LLM-based Two-Phase Binary Decompilation from Skeleton to Skin](http://arxiv.org/abs/2509.22114v1)** | 2025-09-26 |  |
@@ -48,14 +51,15 @@ labels: documentation
 | **[Decompiling Smart Contracts with a Large Language Model](http://arxiv.org/abs/2506.19624v1)** | 2025-06-24 |  |
 | **[Idioms: Neural Decompilation With Joint Code and Type Definition Prediction](http://arxiv.org/abs/2502.04536v2)** | 2025-06-17 |  |
 | **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
-| **[Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation](http://arxiv.org/abs/2505.12668v1)** | 2025-05-19 |  |
 | **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
 | **[The Incredible Shrinking Context... in a Decompiler Near You](http://arxiv.org/abs/2409.11157v2)** | 2025-04-17 | <details><summary>Full ...</summary><p>Full version of ISSTA 2025 paper</p></details> |
-| **[DeQompile: quantum circuit decompilation using genetic programming for explainable quantum architecture search](http://arxiv.org/abs/2504.08310v1)** | 2025-04-11 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compiling the Mimosa programming language to RTOS tasks](http://arxiv.org/abs/2510.20547v1)** | 2025-10-23 |  |
+| **[CipherGuard: Compiler-aided Mitigation against Ciphertext Side-channel Attacks](http://arxiv.org/abs/2502.13401v2)** | 2025-10-23 |  |
+| **[Compiling Any $\mathsf{MIP}^{*}$ into a (Succinct) Classical Interactive Argument](http://arxiv.org/abs/2510.08495v2)** | 2025-10-20 | <details><summary>Added...</summary><p>Added reference to concurrent work</p></details> |
 | **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](http://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
 | **[Bounding the asymptotic quantum value of all multipartite compiled non-local games](http://arxiv.org/abs/2507.12408v2)** | 2025-10-15 | <details><summary>74 pa...</summary><p>74 pages, 14 figures. Typos corrected</p></details> |
 | **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
@@ -67,8 +71,5 @@ labels: documentation
 | **[LOOPerSet: A Large-Scale Dataset for Data-Driven Polyhedral Compiler Optimization](http://arxiv.org/abs/2510.10209v1)** | 2025-10-11 |  |
 | **[End-to-end Compositional Verification of Program Safety through Verified and Verifying Compilation](http://arxiv.org/abs/2510.10015v1)** | 2025-10-11 |  |
 | **[ACT: Automatically Generating Compiler Backends from Tensor Accelerator ISA Descriptions](http://arxiv.org/abs/2510.09932v1)** | 2025-10-11 |  |
-| **[Compiling Any $\mathsf{MIP}^{*}$ into a (Succinct) Classical Interactive Argument](http://arxiv.org/abs/2510.08495v1)** | 2025-10-09 |  |
 | **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
-| **[VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?](http://arxiv.org/abs/2411.10979v4)** | 2025-10-08 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
-| **[Tempo: Compiled Dynamic Deep Learning with Symbolic Dependence Graphs](http://arxiv.org/abs/2501.05408v3)** | 2025-10-08 | <details><summary>17 pa...</summary><p>17 pages, 24 figures, 3 bibliography pages</p></details> |
 
