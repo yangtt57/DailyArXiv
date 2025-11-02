@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 27, 2025
+title: Latest 15 Papers - November 03, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -57,6 +57,12 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Generating Compilers for Qubit Mapping and Routing](http://arxiv.org/abs/2508.10781v2)** | 2025-10-29 |  |
+| **[The CoCompiler: DSL Lifting via Relational Compilation](http://arxiv.org/abs/2510.00210v3)** | 2025-10-28 | <details><summary>Publi...</summary><p>Published in miniKanren 2025. 14 pages, 10 figures</p></details> |
+| **[GraphNet: A Large-Scale Computational Graph Dataset for Tensor Compiler Research](http://arxiv.org/abs/2510.24035v1)** | 2025-10-28 |  |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](http://arxiv.org/abs/2506.01374v2)** | 2025-10-27 | NeurIPS 2025 |
+| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](http://arxiv.org/abs/2510.24799v1)** | 2025-10-27 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
+| **[Your Compiler is Backdooring Your Model: Understanding and Exploiting Compilation Inconsistency Vulnerabilities in Deep Learning Compilers](http://arxiv.org/abs/2509.11173v3)** | 2025-10-27 | <details><summary>This ...</summary><p>This paper is accepted to IEEE S&P 2026, the code is available at https://github.com/SeekingDream/DLCompilerAttack</p></details> |
 | **[Compiling the Mimosa programming language to RTOS tasks](http://arxiv.org/abs/2510.20547v1)** | 2025-10-23 |  |
 | **[CipherGuard: Compiler-aided Mitigation against Ciphertext Side-channel Attacks](http://arxiv.org/abs/2502.13401v2)** | 2025-10-23 |  |
 | **[Compiling Any $\mathsf{MIP}^{*}$ into a (Succinct) Classical Interactive Argument](http://arxiv.org/abs/2510.08495v2)** | 2025-10-20 | <details><summary>Added...</summary><p>Added reference to concurrent work</p></details> |
@@ -66,10 +72,4 @@ labels: documentation
 | **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
 | **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
 | **[Isolating Compiler Bugs through Compilation Steps Analysis](http://arxiv.org/abs/2510.13128v1)** | 2025-10-15 |  |
-| **[Quantum Circuit Synthesis and Compilation Optimization: Overview and Prospects](http://arxiv.org/abs/2407.00736v2)** | 2025-10-14 |  |
-| **[AwareCompiler: Agentic Context-Aware Compiler Optimization via a Synergistic Knowledge-Data Driven Framework](http://arxiv.org/abs/2510.11759v1)** | 2025-10-13 |  |
-| **[LOOPerSet: A Large-Scale Dataset for Data-Driven Polyhedral Compiler Optimization](http://arxiv.org/abs/2510.10209v1)** | 2025-10-11 |  |
-| **[End-to-end Compositional Verification of Program Safety through Verified and Verifying Compilation](http://arxiv.org/abs/2510.10015v1)** | 2025-10-11 |  |
-| **[ACT: Automatically Generating Compiler Backends from Tensor Accelerator ISA Descriptions](http://arxiv.org/abs/2510.09932v1)** | 2025-10-11 |  |
-| **[Bug Histories as Sources of Compiler Fuzzing Mutators](http://arxiv.org/abs/2510.07834v1)** | 2025-10-09 |  |
 
