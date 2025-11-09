@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 03, 2025
+title: Latest 15 Papers - November 10, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -30,7 +30,6 @@ labels: documentation
 | **[KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance](http://arxiv.org/abs/2510.05524v1)** | 2025-10-07 |  |
 | **[LLMs as verification oracles for Solidity](http://arxiv.org/abs/2509.19153v1)** | 2025-09-23 |  |
 | **[Using LLMs for Security Advisory Investigations: How Far Are We?](http://arxiv.org/abs/2506.13161v1)** | 2025-06-16 | <details><summary>6 pag...</summary><p>6 pages, 6 figures, 8 tables, conference paper</p></details> |
-| **[SecRepoBench: Benchmarking LLMs for Secure Code Generation in Real-World Repositories](http://arxiv.org/abs/2504.21205v1)** | 2025-04-29 |  |
 | **[Hybrid RAG-empowered Multi-modal LLM for Secure Data Management in Internet of Medical Things: A Diffusion-based Contract Approach](http://arxiv.org/abs/2407.00978v2)** | 2024-12-09 | 13 pages, 7 figures |
 | **[PromSec: Prompt Optimization for Secure Generation of Functional Source Code with Large Language Models (LLMs)](http://arxiv.org/abs/2409.12699v1)** | 2024-09-19 | <details><summary>15 pa...</summary><p>15 pages, 19 figures, CCS 2024</p></details> |
 | **[SEvenLLM: Benchmarking, Eliciting, and Enhancing Abilities of Large Language Models in Cyber Threat Intelligence](http://arxiv.org/abs/2405.03446v2)** | 2024-06-03 |  |
@@ -38,13 +37,14 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Context-Guided Decompilation: A Step Towards Re-executability](http://arxiv.org/abs/2511.01763v1)** | 2025-11-03 |  |
+| **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](http://arxiv.org/abs/2509.06402v2)** | 2025-11-03 |  |
 | **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](http://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
 | **[Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation](http://arxiv.org/abs/2505.12668v2)** | 2025-10-19 |  |
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](http://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
 | **[Decompiling for Constant-Time Analysis](http://arxiv.org/abs/2501.04183v3)** | 2025-10-14 |  |
 | **[SK2Decompile: LLM-based Two-Phase Binary Decompilation from Skeleton to Skin](http://arxiv.org/abs/2509.22114v1)** | 2025-09-26 |  |
 | **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](http://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
-| **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](http://arxiv.org/abs/2509.06402v1)** | 2025-09-08 |  |
 | **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](http://arxiv.org/abs/2506.10125v2)** | 2025-08-15 |  |
 | **[Decompiling Rust: An Empirical Study of Compiler Optimizations and Reverse Engineering Challenges](http://arxiv.org/abs/2507.18792v1)** | 2025-07-24 |  |
 | **[CodableLLM: Automating Decompiled and Source Code Mapping for LLM Dataset Generation](http://arxiv.org/abs/2507.22066v1)** | 2025-07-02 |  |
@@ -52,11 +52,13 @@ labels: documentation
 | **[Idioms: Neural Decompilation With Joint Code and Type Definition Prediction](http://arxiv.org/abs/2502.04536v2)** | 2025-06-17 |  |
 | **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](http://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
 | **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](http://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
-| **[The Incredible Shrinking Context... in a Decompiler Near You](http://arxiv.org/abs/2409.11157v2)** | 2025-04-17 | <details><summary>Full ...</summary><p>Full version of ISSTA 2025 paper</p></details> |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Exploring the Feasibility of End-to-End Large Language Model as a Compiler](http://arxiv.org/abs/2511.04132v1)** | 2025-11-06 | <details><summary>This ...</summary><p>This work has been accepted by IJCNN 2025 and submitted to the IEEE for publication</p></details> |
+| **[Flashlight: PyTorch Compiler Extensions to Accelerate Attention Variants](http://arxiv.org/abs/2511.02043v2)** | 2025-11-06 | <details><summary>Submi...</summary><p>Submitted to MLSys 2026</p></details> |
+| **[Cobble: Compiling Block Encodings for Quantum Computational Linear Algebra](http://arxiv.org/abs/2511.01736v1)** | 2025-11-03 | 20 pages, 12 figures |
 | **[Generating Compilers for Qubit Mapping and Routing](http://arxiv.org/abs/2508.10781v2)** | 2025-10-29 |  |
 | **[The CoCompiler: DSL Lifting via Relational Compilation](http://arxiv.org/abs/2510.00210v3)** | 2025-10-28 | <details><summary>Publi...</summary><p>Published in miniKanren 2025. 14 pages, 10 figures</p></details> |
 | **[GraphNet: A Large-Scale Computational Graph Dataset for Tensor Compiler Research](http://arxiv.org/abs/2510.24035v1)** | 2025-10-28 |  |
@@ -69,7 +71,4 @@ labels: documentation
 | **[A Hybrid, Knowledge-Guided Evolutionary Framework for Personalized Compiler Auto-Tuning](http://arxiv.org/abs/2510.14292v1)** | 2025-10-16 |  |
 | **[Bounding the asymptotic quantum value of all multipartite compiled non-local games](http://arxiv.org/abs/2507.12408v2)** | 2025-10-15 | <details><summary>74 pa...</summary><p>74 pages, 14 figures. Typos corrected</p></details> |
 | **[Auto-repair without test cases: How LLMs fix compilation errors in large industrial embedded code](http://arxiv.org/abs/2510.13575v1)** | 2025-10-15 | <details><summary>9 pag...</summary><p>9 pages, 4 figures, conference: 2025 28th Euromicro Conference on Digital System Design (DSD)</p></details> |
-| **[Synergy-Guided Compiler Auto-Tuning of Nested LLVM Pass Pipelines](http://arxiv.org/abs/2510.13184v1)** | 2025-10-15 |  |
-| **[GRACE: Globally-Seeded Representation-Aware Cluster-Specific Evolution for Compiler Auto-Tuning](http://arxiv.org/abs/2510.13176v1)** | 2025-10-15 |  |
-| **[Isolating Compiler Bugs through Compilation Steps Analysis](http://arxiv.org/abs/2510.13128v1)** | 2025-10-15 |  |
 
