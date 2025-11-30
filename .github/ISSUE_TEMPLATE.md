@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - November 24, 2025
+title: Latest 15 Papers - December 01, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,21 +26,21 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Securing Smart Contract Languages with a Unified Agentic Framework for Vulnerability Repair in Solidity and Move](https://arxiv.org/abs/2502.18515v2)** | 2025-11-20 |  |
-| **[False Sense of Security: Why Probing-based Malicious Input Detection Fails to Generalize](https://arxiv.org/abs/2509.03888v2)** | 2025-11-20 | <details><summary>Withd...</summary><p>Withdrawn due to identified errors in the experimental procedure</p></details> |
-| **[Beyond Code Similarity: Benchmarking the Plausibility, Efficiency, and Complexity of LLM-Generated Smart Contracts](https://arxiv.org/abs/2511.16224v1)** | 2025-11-20 | 20 pages |
-| **[PSM: Prompt Sensitivity Minimization via LLM-Guided Black-Box Optimization](https://arxiv.org/abs/2511.16209v1)** | 2025-11-20 |  |
-| **[Do Not Merge My Model! Safeguarding Open-Source LLMs Against Unauthorized Model Merging](https://arxiv.org/abs/2511.10712v2)** | 2025-11-20 | <details><summary>Accep...</summary><p>Accepted by AAAI 2026 Conference</p></details> |
-| **[Domain-constrained Synthesis of Inconsistent Key Aspects in Textual Vulnerability Descriptions](https://arxiv.org/abs/2511.16123v1)** | 2025-11-20 |  |
-| **[LightDefense: A Lightweight Uncertainty-Driven Defense against Jailbreaks via Shifted Token Distribution](https://arxiv.org/abs/2504.01533v2)** | 2025-11-20 |  |
-| **[Detecting Sleeper Agents in Large Language Models via Semantic Drift Analysis](https://arxiv.org/abs/2511.15992v1)** | 2025-11-20 | <details><summary>7 pag...</summary><p>7 pages, 3 figures, 1 table</p></details> |
-| **[Small Language Models for Phishing Website Detection: Cost, Performance, and Privacy Trade-Offs](https://arxiv.org/abs/2511.15434v1)** | 2025-11-19 |  |
-| **[Trustworthy GenAI over 6G: Integrated Applications and Security Frameworks](https://arxiv.org/abs/2511.15206v1)** | 2025-11-19 | <details><summary>8 pag...</summary><p>8 pages, 5 figures. Submitted for publication</p></details> |
-| **[Taxonomy, Evaluation and Exploitation of IPI-Centric LLM Agent Defense Frameworks](https://arxiv.org/abs/2511.15203v1)** | 2025-11-19 |  |
-| **[Confidential Prompting: Privacy-preserving LLM Inference on Cloud](https://arxiv.org/abs/2409.19134v5)** | 2025-11-19 |  |
-| **[Eguard: Defending LLM Embeddings Against Inversion Attacks via Text Mutual Information Optimization](https://arxiv.org/abs/2411.05034v2)** | 2025-11-19 |  |
-| **[From Topology to Behavioral Semantics: Enhancing BGP Security by Understanding BGP's Language with LLMs](https://arxiv.org/abs/2511.14467v1)** | 2025-11-18 | 18 pages, 10 figures |
-| **[CoSense-LLM: Semantics at the Edge with Cost- and Uncertainty-Aware Cloud-Edge Cooperation](https://arxiv.org/abs/2510.19670v3)** | 2025-11-18 | 19 pages,8 figures |
+| **[Safety Control of Service Robots with LLMs and Embodied Knowledge Graphs](https://arxiv.org/abs/2405.17846v2)** | 2025-11-26 |  |
+| **[Constructing and Benchmarking: a Labeled Email Dataset for Text-Based Phishing and Spam Detection Framework](https://arxiv.org/abs/2511.21448v1)** | 2025-11-26 |  |
+| **[Attack via Overfitting: 10-shot Benign Fine-tuning to Jailbreak LLMs](https://arxiv.org/abs/2510.02833v4)** | 2025-11-26 | <details><summary>Publi...</summary><p>Published as a conference paper at NeurIPS 2025</p></details> |
+| **[5G Network Automation Using Local Large Language Models and Retrieval-Augmented Generation](https://arxiv.org/abs/2511.21084v1)** | 2025-11-26 | <details><summary>4 pag...</summary><p>4 pages, 1 figure, demonstrated on 6G Summit Abu Dhabi</p></details> |
+| **[A Survey on Inference Engines for Large Language Models: Perspectives on Optimization and Efficiency](https://arxiv.org/abs/2505.01658v3)** | 2025-11-26 | <details><summary>Under...</summary><p>Under review; 106 pages; 46 figures</p></details> |
+| **[Special-Character Adversarial Attacks on Open-Source Language Model](https://arxiv.org/abs/2508.14070v2)** | 2025-11-25 |  |
+| **[Supporting Students in Navigating LLM-Generated Insecure Code](https://arxiv.org/abs/2511.20878v1)** | 2025-11-25 | 7 pages |
+| **[Jailbreaking and Mitigation of Vulnerabilities in Large Language Models](https://arxiv.org/abs/2410.15236v3)** | 2025-11-25 |  |
+| **[Securing Large Language Models: Addressing Bias, Misinformation, and Prompt Attacks](https://arxiv.org/abs/2409.08087v3)** | 2025-11-25 | 17 pages, 1 figure |
+| **[Can LLMs Make (Personalized) Access Control Decisions?](https://arxiv.org/abs/2511.20284v1)** | 2025-11-25 |  |
+| **[BiasJailbreak:Analyzing Ethical Biases and Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2410.13334v5)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted as a workshop paper at AAAI 2026</p></details> |
+| **[VULSOLVER: Vulnerability Detection via LLM-Driven Constraint Solving](https://arxiv.org/abs/2509.00882v5)** | 2025-11-25 |  |
+| **[Mind Your Server: A Systematic Study of Parasitic Toolchain Attacks on the MCP Ecosystem](https://arxiv.org/abs/2509.06572v2)** | 2025-11-25 |  |
+| **[CodeFuse-CommitEval: Towards Benchmarking LLM's Power on Commit Message and Code Change Inconsistency Detection](https://arxiv.org/abs/2511.19875v1)** | 2025-11-25 |  |
+| **[DUALGUAGE: Automated Joint Security-Functionality Benchmarking for Secure Code Generation](https://arxiv.org/abs/2511.20709v1)** | 2025-11-24 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Bombyx: OpenCilk Compilation for FPGA Hardware Acceleration](https://arxiv.org/abs/2511.21346v1)** | 2025-11-26 |  |
+| **[Compilation of Generalized Matrix Chains with Symbolic Sizes](https://arxiv.org/abs/2511.20198v1)** | 2025-11-25 | 15 pages, 6 figures |
+| **[VidComposition: Can MLLMs Analyze Compositions in Compiled Videos?](https://arxiv.org/abs/2411.10979v5)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted to CVPR 2025</p></details> |
+| **[Understanding Accelerator Compilers via Performance Profiling](https://arxiv.org/abs/2511.19764v1)** | 2025-11-24 |  |
+| **[CrypTorch: PyTorch-based Auto-tuning Compiler for Machine Learning with Multi-party Computation](https://arxiv.org/abs/2511.19711v1)** | 2025-11-24 | <details><summary>28 pa...</summary><p>28 pages, 17 figures. Submitted to PLDI 2026</p></details> |
+| **[Agint: Agentic Graph Compilation for Software Engineering Agents](https://arxiv.org/abs/2511.19635v1)** | 2025-11-24 | <details><summary>18 pa...</summary><p>18 pages, 5 figures, NeurIPS 2025: Deep Learning for Code in the Agentic Era</p></details> |
+| **[TICAL: Trusted and Integrity-protected Compilation of AppLications](https://arxiv.org/abs/2511.17070v2)** | 2025-11-24 | <details><summary>19th ...</summary><p>19th European Dependable Computing Conference (EDCC) 2024</p></details> |
+| **[Optimization-Aware Test Generation for Deep Learning Compilers](https://arxiv.org/abs/2511.18918v1)** | 2025-11-24 | <details><summary>This ...</summary><p>This paper has been accpected by ICSE 2026</p></details> |
+| **[Bounded Exhaustive Random Program Generation for Testing Solidity Compilers](https://arxiv.org/abs/2503.20332v6)** | 2025-11-23 |  |
 | **[A Tensor Compiler for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v1)** | 2025-11-19 |  |
 | **[M, Toolchain and Language for Reusable Model Compilation](https://arxiv.org/abs/2511.15257v1)** | 2025-11-19 |  |
 | **[Modular Compilation for Quantum Chiplet Architectures](https://arxiv.org/abs/2501.08478v4)** | 2025-11-19 |  |
 | **[Compiling Set Queries into Work-Efficient Tree Traversals](https://arxiv.org/abs/2511.15000v1)** | 2025-11-19 |  |
 | **[Compiling to recurrent neurons](https://arxiv.org/abs/2511.14953v1)** | 2025-11-18 |  |
 | **[Compiling to linear neurons](https://arxiv.org/abs/2511.13769v1)** | 2025-11-14 |  |
-| **[Library Liberation: Competitive Performance Matmul Through Compiler-composed Nanokernels](https://arxiv.org/abs/2511.13764v1)** | 2025-11-14 |  |
-| **[The Jasmin Compiler Preserves Cryptographic Security](https://arxiv.org/abs/2511.11292v1)** | 2025-11-14 |  |
-| **[A Compilation Framework for Quantum Circuits with Mid-Circuit Measurement Error Awareness](https://arxiv.org/abs/2511.10921v1)** | 2025-11-14 | 8 pages, 7 figures |
-| **[Inside VOLT: Designing an Open-Source GPU Compiler](https://arxiv.org/abs/2511.13751v1)** | 2025-11-13 | <details><summary>11 pa...</summary><p>11 pages, 10 figures, two tables, two algorithms</p></details> |
-| **[Two Constraint Compilation Methods for Lifted Planning](https://arxiv.org/abs/2511.10164v1)** | 2025-11-13 |  |
-| **[Cyclotron: Compilation of Recurrences to Distributed and Systolic Architectures](https://arxiv.org/abs/2511.09987v1)** | 2025-11-13 |  |
-| **[ReQISC: A Reconfigurable Quantum Computer Microarchitecture and Compiler Co-Design](https://arxiv.org/abs/2511.06746v1)** | 2025-11-10 | <details><summary>12 pa...</summary><p>12 pages, 14 figures, with appendices</p></details> |
-| **[Flashlight: PyTorch Compiler Extensions to Accelerate Attention Variants](https://arxiv.org/abs/2511.02043v3)** | 2025-11-07 |  |
-| **[Security Evaluation of Quantum Circuit Split Compilation under an Oracle-Guided Attack](https://arxiv.org/abs/2511.04842v1)** | 2025-11-06 |  |
 
