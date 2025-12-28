@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 22, 2025
+title: Latest 15 Papers - December 29, 2025
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,7 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents](https://arxiv.org/abs/2512.21250v1)** | 2025-12-24 |  |
 | **[Large Language Models as a (Bad) Security Norm in the Context of Regulation and Compliance](https://arxiv.org/abs/2512.16419v1)** | 2025-12-18 | <details><summary>20 pa...</summary><p>20 pages, presented at Information Law and Policy Centre Annual Conference 2024 at the Institute of Advanced Study, University of London</p></details> |
 | **[Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks](https://arxiv.org/abs/2512.09485v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted by IEEE JSAC. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Distillability of LLM Security Logic: Predicting Attack Success Rate of Outline Filling Attack via Ranking Regression](https://arxiv.org/abs/2511.22044v1)** | 2025-11-27 |  |
@@ -40,7 +41,6 @@ labels: documentation
 | **[S3C2 Summit 2025-03: Industry Secure Supply Chain Summit](https://arxiv.org/abs/2510.24920v1)** | 2025-10-28 |  |
 | **[SoK: Taxonomy and Evaluation of Prompt Security in Large Language Models](https://arxiv.org/abs/2510.15476v2)** | 2025-10-21 |  |
 | **[RESCUE: Retrieval Augmented Secure Code Generation](https://arxiv.org/abs/2510.18204v1)** | 2025-10-21 |  |
-| **[KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance](https://arxiv.org/abs/2510.05524v1)** | 2025-10-07 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,8 +64,12 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779v3)** | 2025-12-22 |  |
+| **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
+| **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](https://arxiv.org/abs/2409.11068v2)** | 2025-12-20 |  |
+| **[Understanding Typing-Related Bugs in Solidity Compiler](https://arxiv.org/abs/2512.18182v1)** | 2025-12-20 | 37 pages, 8 figures |
+| **[Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](https://arxiv.org/abs/2512.18021v1)** | 2025-12-19 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
 | **[Using a Sledgehammer to Crack a Nut? Revisiting Automated Compiler Fault Isolation](https://arxiv.org/abs/2512.16335v1)** | 2025-12-18 | Accepted at ICSE'26 |
-| **[PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779v2)** | 2025-12-17 |  |
 | **[Search Smarter, Not Harder: A Scalable, High-Quality Zoned Neutral Atom Compiler](https://arxiv.org/abs/2512.13790v1)** | 2025-12-15 | 7 pages, 8 figures |
 | **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v4)** | 2025-12-12 | NeurIPS 2025 |
 | **[Theoretical Foundations of GPU-Native Compilation for Rapid Code Iteration](https://arxiv.org/abs/2512.11200v1)** | 2025-12-12 | 9 pages , 2 tables |
@@ -75,8 +79,4 @@ labels: documentation
 | **[From PyTorch to Calyx: An Open-Source Compiler Toolchain for ML Accelerators](https://arxiv.org/abs/2512.06177v1)** | 2025-12-05 | 5 pages, 3 figures |
 | **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
 | **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
-| **[Compiler-supported reduced precision and AoS-SoA transformations for heterogeneous hardware](https://arxiv.org/abs/2512.05516v1)** | 2025-12-05 |  |
-| **[Verified VCG and Verified Compiler for Dafny](https://arxiv.org/abs/2512.05262v1)** | 2025-12-04 | <details><summary>16 pa...</summary><p>16 pages, 4 figures. To be published in CPP 2026. For mechanization, see https://github.com/CakeML/cakeml/tree/751ecd45c16b11ee0c3fd1280be7a6d798b5c457/compiler/dafny</p></details> |
-| **[Targeted Testing of Compiler Optimizations via Grammar-Level Composition Styles](https://arxiv.org/abs/2512.04344v1)** | 2025-12-04 |  |
-| **[Exploiting Movable Logical Qubits for Lattice Surgery Compilation](https://arxiv.org/abs/2512.04169v1)** | 2025-12-03 |  |
 
