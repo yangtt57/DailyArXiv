@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - December 29, 2025
+title: Latest 15 Papers - January 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HERO-Sign: Hierarchical Tuning and Efficient Compiler-Time GPU Optimizations for SPHINCS+ Signature Generation](https://arxiv.org/abs/2512.23969v1)** | 2025-12-30 | <details><summary>accep...</summary><p>accepted by HPCA 2026</p></details> |
+| **[Compiling Gradual Types with Evidence](https://arxiv.org/abs/2512.22684v1)** | 2025-12-27 | Submitted to TOPLAS |
+| **[LOOPerSet: A Large-Scale Dataset for Data-Driven Polyhedral Compiler Optimization](https://arxiv.org/abs/2510.10209v2)** | 2025-12-27 |  |
+| **[LOOPer: A Learned Automatic Code Optimizer For Polyhedral Compilers](https://arxiv.org/abs/2403.11522v4)** | 2025-12-27 |  |
+| **[Isolating Compiler Faults via Multiple Pairs of Adversarial Compilation Configurations](https://arxiv.org/abs/2512.22538v1)** | 2025-12-27 | <details><summary>Accep...</summary><p>Accepted at ACM TOSEM</p></details> |
+| **[LLM4FP: LLM-Based Program Generation for Triggering Floating-Point Inconsistencies Across Compilers](https://arxiv.org/abs/2509.00256v2)** | 2025-12-27 |  |
+| **[nncase: An End-to-End Compiler for Efficient LLM Deployment on Heterogeneous Storage Architectures](https://arxiv.org/abs/2512.21571v1)** | 2025-12-25 |  |
 | **[PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779v3)** | 2025-12-22 |  |
+| **[Mirage Persistent Kernel: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://arxiv.org/abs/2512.22219v1)** | 2025-12-22 |  |
 | **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
 | **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](https://arxiv.org/abs/2409.11068v2)** | 2025-12-20 |  |
 | **[Understanding Typing-Related Bugs in Solidity Compiler](https://arxiv.org/abs/2512.18182v1)** | 2025-12-20 | 37 pages, 8 figures |
 | **[Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](https://arxiv.org/abs/2512.18021v1)** | 2025-12-19 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
 | **[Using a Sledgehammer to Crack a Nut? Revisiting Automated Compiler Fault Isolation](https://arxiv.org/abs/2512.16335v1)** | 2025-12-18 | Accepted at ICSE'26 |
-| **[Search Smarter, Not Harder: A Scalable, High-Quality Zoned Neutral Atom Compiler](https://arxiv.org/abs/2512.13790v1)** | 2025-12-15 | 7 pages, 8 figures |
-| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v4)** | 2025-12-12 | NeurIPS 2025 |
-| **[Theoretical Foundations of GPU-Native Compilation for Rapid Code Iteration](https://arxiv.org/abs/2512.11200v1)** | 2025-12-12 | 9 pages , 2 tables |
-| **[Efficient Gate Reordering for Distributed Quantum Compiling in Data Centers](https://arxiv.org/abs/2507.01090v2)** | 2025-12-11 |  |
-| **[Towards an Oracle for Binary Decomposition Under Compilation Variance](https://arxiv.org/abs/2506.19425v2)** | 2025-12-09 |  |
-| **[Mind The Gap: Quantifying Mechanistic Gaps in Algorithmic Reasoning via Neural Compilation](https://arxiv.org/abs/2505.18623v2)** | 2025-12-06 |  |
-| **[From PyTorch to Calyx: An Open-Source Compiler Toolchain for ML Accelerators](https://arxiv.org/abs/2512.06177v1)** | 2025-12-05 | 5 pages, 3 figures |
-| **[Bootstrapping Fuzzers for Compilers of Low-Resource Language Dialects Using Language Models](https://arxiv.org/abs/2512.05887v1)** | 2025-12-05 |  |
-| **[Compiling Away the Overhead of Race Detection](https://arxiv.org/abs/2512.05555v1)** | 2025-12-05 | 35 pages |
+| **[TL: Automatic End-to-End Compiler of Tile-Based Languages for Spatial Dataflow Architectures](https://arxiv.org/abs/2512.22168v1)** | 2025-12-17 |  |
 
