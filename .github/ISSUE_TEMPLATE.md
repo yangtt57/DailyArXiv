@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 05, 2026
+title: Latest 15 Papers - January 12, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification](https://arxiv.org/abs/2601.02624v1)** | 2026-01-06 | 6 pages |
+| **[Improving LLM-Assisted Secure Code Generation through Retrieval-Augmented-Generation and Multi-Tool Feedback](https://arxiv.org/abs/2601.00509v1)** | 2026-01-01 |  |
 | **[CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents](https://arxiv.org/abs/2512.21250v1)** | 2025-12-24 |  |
 | **[Large Language Models as a (Bad) Security Norm in the Context of Regulation and Compliance](https://arxiv.org/abs/2512.16419v1)** | 2025-12-18 | <details><summary>20 pa...</summary><p>20 pages, presented at Information Law and Policy Centre Annual Conference 2024 at the Institute of Advanced Study, University of London</p></details> |
 | **[Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks](https://arxiv.org/abs/2512.09485v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted by IEEE JSAC. This work has been submitted to the IEEE for possible publication</p></details> |
@@ -39,8 +41,6 @@ labels: documentation
 | **[From Model to Breach: Towards Actionable LLM-Generated Vulnerabilities Reporting](https://arxiv.org/abs/2511.04538v1)** | 2025-11-06 |  |
 | **[On The Dangers of Poisoned LLMs In Security Automation](https://arxiv.org/abs/2511.02600v1)** | 2025-11-04 | 5 pages, 1 figure |
 | **[S3C2 Summit 2025-03: Industry Secure Supply Chain Summit](https://arxiv.org/abs/2510.24920v1)** | 2025-10-28 |  |
-| **[SoK: Taxonomy and Evaluation of Prompt Security in Large Language Models](https://arxiv.org/abs/2510.15476v2)** | 2025-10-21 |  |
-| **[RESCUE: Retrieval Augmented Secure Code Generation](https://arxiv.org/abs/2510.18204v1)** | 2025-10-21 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,10 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AP2O-Coder: Adaptively Progressive Preference Optimization for Reducing Compilation and Runtime Errors in LLM-Generated Code](https://arxiv.org/abs/2510.02393v4)** | 2026-01-08 | Accepted by AAAI2026 |
+| **[Variance Computation for Weighted Model Counting with Knowledge Compilation Approach](https://arxiv.org/abs/2601.03523v1)** | 2026-01-07 | <details><summary>25 pa...</summary><p>25 pages; accepted for AAAI 2026 main track</p></details> |
+| **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
+| **[The New Compiler Stack: A Survey on the Synergy of LLMs and Compilers](https://arxiv.org/abs/2601.02045v1)** | 2026-01-05 | <details><summary>Accep...</summary><p>Accepted by CCF Transactions on High Performance Computing</p></details> |
 | **[HERO-Sign: Hierarchical Tuning and Efficient Compiler-Time GPU Optimizations for SPHINCS+ Signature Generation](https://arxiv.org/abs/2512.23969v1)** | 2025-12-30 | <details><summary>accep...</summary><p>accepted by HPCA 2026</p></details> |
 | **[Compiling Gradual Types with Evidence](https://arxiv.org/abs/2512.22684v1)** | 2025-12-27 | Submitted to TOPLAS |
 | **[LOOPerSet: A Large-Scale Dataset for Data-Driven Polyhedral Compiler Optimization](https://arxiv.org/abs/2510.10209v2)** | 2025-12-27 |  |
@@ -75,8 +79,4 @@ labels: documentation
 | **[Mirage Persistent Kernel: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://arxiv.org/abs/2512.22219v1)** | 2025-12-22 |  |
 | **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
 | **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](https://arxiv.org/abs/2409.11068v2)** | 2025-12-20 |  |
-| **[Understanding Typing-Related Bugs in Solidity Compiler](https://arxiv.org/abs/2512.18182v1)** | 2025-12-20 | 37 pages, 8 figures |
-| **[Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](https://arxiv.org/abs/2512.18021v1)** | 2025-12-19 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 2 tables</p></details> |
-| **[Using a Sledgehammer to Crack a Nut? Revisiting Automated Compiler Fault Isolation](https://arxiv.org/abs/2512.16335v1)** | 2025-12-18 | Accepted at ICSE'26 |
-| **[TL: Automatic End-to-End Compiler of Tile-Based Languages for Spatial Dataflow Architectures](https://arxiv.org/abs/2512.22168v1)** | 2025-12-17 |  |
 
