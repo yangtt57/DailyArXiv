@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - January 12, 2026
+title: Latest 15 Papers - January 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,10 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Safe-FedLLM: Delving into the Safety of Federated Large Language Models](https://arxiv.org/abs/2601.07177v1)** | 2026-01-12 |  |
+| **[CHASE: LLM Agents for Dissecting Malicious PyPI Packages](https://arxiv.org/abs/2601.06838v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted for publication and presented at the 2nd IEEE International Conference on AI-powered Software (AIware 2025). 10 pages, 3 figures</p></details> |
+| **[Lightweight Yet Secure: Secure Scripting Language Generation via Lightweight LLMs](https://arxiv.org/abs/2601.06419v1)** | 2026-01-10 | <details><summary>19 pa...</summary><p>19 pages,8 figures,conference</p></details> |
+| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
 | **[LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification](https://arxiv.org/abs/2601.02624v1)** | 2026-01-06 | 6 pages |
 | **[Improving LLM-Assisted Secure Code Generation through Retrieval-Augmented-Generation and Multi-Tool Feedback](https://arxiv.org/abs/2601.00509v1)** | 2026-01-01 |  |
 | **[CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents](https://arxiv.org/abs/2512.21250v1)** | 2025-12-24 |  |
@@ -37,14 +41,11 @@ labels: documentation
 | **[Secure-Instruct: An Automated Pipeline for Synthesizing Instruction-Tuning Datasets Using LLMs for Secure Code Generation](https://arxiv.org/abs/2510.07189v2)** | 2025-11-22 |  |
 | **[GenSIaC: Toward Security-Aware Infrastructure-as-Code Generation with Large Language Models](https://arxiv.org/abs/2511.12385v1)** | 2025-11-15 |  |
 | **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v1)** | 2025-11-12 |  |
-| **[ReflecSched: Solving Dynamic Flexible Job-Shop Scheduling via LLM-Powered Hierarchical Reflection](https://arxiv.org/abs/2508.01724v2)** | 2025-11-11 |  |
-| **[From Model to Breach: Towards Actionable LLM-Generated Vulnerabilities Reporting](https://arxiv.org/abs/2511.04538v1)** | 2025-11-06 |  |
-| **[On The Dangers of Poisoned LLMs In Security Automation](https://arxiv.org/abs/2511.02600v1)** | 2025-11-04 | 5 pages, 1 figure |
-| **[S3C2 Summit 2025-03: Industry Secure Supply Chain Summit](https://arxiv.org/abs/2510.24920v1)** | 2025-10-28 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[A Decompilation-Driven Framework for Malware Detection with Large Language Models](https://arxiv.org/abs/2601.09035v1)** | 2026-01-14 | <details><summary>6 pag...</summary><p>6 pages, published in 2025 IEMCON</p></details> |
 | **[Context-Guided Decompilation: A Step Towards Re-executability](https://arxiv.org/abs/2511.01763v1)** | 2025-11-03 |  |
 | **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](https://arxiv.org/abs/2509.06402v2)** | 2025-11-03 |  |
 | **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](https://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
@@ -59,11 +60,12 @@ labels: documentation
 | **[Decompiling Smart Contracts with a Large Language Model](https://arxiv.org/abs/2506.19624v1)** | 2025-06-24 |  |
 | **[Idioms: Neural Decompilation With Joint Code and Type Definition Prediction](https://arxiv.org/abs/2502.04536v2)** | 2025-06-17 |  |
 | **[The CodeInverter Suite: Control-Flow and Data-Mapping Augmented Binary Decompilation with LLMs](https://arxiv.org/abs/2503.07215v2)** | 2025-05-26 |  |
-| **[DecompileBench: A Comprehensive Benchmark for Evaluating Decompilers in Real-World Scenarios](https://arxiv.org/abs/2505.11340v1)** | 2025-05-16 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Optimizing compilation of error correction codes for 2xN quantum dot arrays and its NP-hardness](https://arxiv.org/abs/2501.09061v3)** | 2026-01-13 | <details><summary>20 pa...</summary><p>20 pages, 15 figures. Phys. Rev. Research - Accepted on 12 January, 2026</p></details> |
+| **[LUT-Compiled Kolmogorov-Arnold Networks for Lightweight DoS Detection on IoT Edge Devices](https://arxiv.org/abs/2601.08044v1)** | 2026-01-12 |  |
 | **[AP2O-Coder: Adaptively Progressive Preference Optimization for Reducing Compilation and Runtime Errors in LLM-Generated Code](https://arxiv.org/abs/2510.02393v4)** | 2026-01-08 | Accepted by AAAI2026 |
 | **[Variance Computation for Weighted Model Counting with Knowledge Compilation Approach](https://arxiv.org/abs/2601.03523v1)** | 2026-01-07 | <details><summary>25 pa...</summary><p>25 pages; accepted for AAAI 2026 main track</p></details> |
 | **[MLIR-Smith: A Novel Random Program Generator for Evaluating Compiler Pipelines](https://arxiv.org/abs/2601.02218v1)** | 2026-01-05 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[nncase: An End-to-End Compiler for Efficient LLM Deployment on Heterogeneous Storage Architectures](https://arxiv.org/abs/2512.21571v1)** | 2025-12-25 |  |
 | **[PyGraph: Robust Compiler Support for CUDA Graphs in PyTorch](https://arxiv.org/abs/2503.19779v3)** | 2025-12-22 |  |
 | **[Mirage Persistent Kernel: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://arxiv.org/abs/2512.22219v1)** | 2025-12-22 |  |
-| **[Small Language Models as Compiler Experts: Auto-Parallelization for Heterogeneous Systems](https://arxiv.org/abs/2512.19250v1)** | 2025-12-22 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2025 ML for Systems Workshop</p></details> |
-| **[A Reinforcement Learning Environment for Automatic Code Optimization in the MLIR Compiler](https://arxiv.org/abs/2409.11068v2)** | 2025-12-20 |  |
 
