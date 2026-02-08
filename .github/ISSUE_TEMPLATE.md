@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 02, 2026
+title: Latest 15 Papers - February 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Persistent Human Feedback, LLMs, and Static Analyzers for Secure Code Generation and Vulnerability Detection](https://arxiv.org/abs/2602.05868v1)** | 2026-02-05 |  |
+| **[Can Developers rely on LLMs for Secure IaC Development?](https://arxiv.org/abs/2602.03648v1)** | 2026-02-03 |  |
 | **[LLM Jailbreak Detection for (Almost) Free!](https://arxiv.org/abs/2509.14558v2)** | 2026-01-23 | <details><summary>EMNLP...</summary><p>EMNLP 2025 (Findings) https://aclanthology.org/2025.findings-emnlp.309/</p></details> |
 | **[ReflecSched: Solving Dynamic Flexible Job-Shop Scheduling via LLM-Powered Hierarchical Reflection](https://arxiv.org/abs/2508.01724v3)** | 2026-01-19 |  |
 | **[Vendor-Aware Industrial Agents: RAG-Enhanced LLMs for Secure On-Premise PLC Code Generation](https://arxiv.org/abs/2511.09122v2)** | 2026-01-16 | ICIT2026 |
@@ -39,13 +41,11 @@ labels: documentation
 | **[Large Language Models as a (Bad) Security Norm in the Context of Regulation and Compliance](https://arxiv.org/abs/2512.16419v1)** | 2025-12-18 | <details><summary>20 pa...</summary><p>20 pages, presented at Information Law and Policy Centre Annual Conference 2024 at the Institute of Advanced Study, University of London</p></details> |
 | **[Advancing LLM-Based Security Automation with Customized Group Relative Policy Optimization for Zero-Touch Networks](https://arxiv.org/abs/2512.09485v1)** | 2025-12-10 | <details><summary>Accep...</summary><p>Accepted by IEEE JSAC. This work has been submitted to the IEEE for possible publication</p></details> |
 | **[Distillability of LLM Security Logic: Predicting Attack Success Rate of Outline Filling Attack via Ranking Regression](https://arxiv.org/abs/2511.22044v1)** | 2025-11-27 |  |
-| **[BiasJailbreak:Analyzing Ethical Biases and Jailbreak Vulnerabilities in Large Language Models](https://arxiv.org/abs/2410.13334v5)** | 2025-11-25 | <details><summary>Accep...</summary><p>Accepted as a workshop paper at AAAI 2026</p></details> |
-| **[Conversational LLMs Simplify Secure Clinical Data Access, Understanding, and Analysis](https://arxiv.org/abs/2507.01053v3)** | 2025-11-23 | 16 pages, 4 figures |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[HELIOS: Hierarchical Graph Abstraction for Structure-Aware LLM Decompilation](https://arxiv.org/abs/2601.14598v1)** | 2026-01-21 |  |
+| **[HELIOS: Hierarchical Graph Abstraction for Structure-Aware LLM Decompilation](https://arxiv.org/abs/2601.14598v2)** | 2026-01-31 |  |
 | **[A Decompilation-Driven Framework for Malware Detection with Large Language Models](https://arxiv.org/abs/2601.09035v1)** | 2026-01-14 | <details><summary>6 pag...</summary><p>6 pages, published in 2025 IEMCON</p></details> |
 | **[Context-Guided Decompilation: A Step Towards Re-executability](https://arxiv.org/abs/2511.01763v1)** | 2025-11-03 |  |
 | **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](https://arxiv.org/abs/2509.06402v2)** | 2025-11-03 |  |
@@ -64,7 +64,14 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mixed-Precision Training and Compilation for RRAM-based Computing-in-Memory Accelerators](https://arxiv.org/abs/2601.21737v1)** | 2026-01-29 |  |
+| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v5)** | 2026-02-04 | NeurIPS 2025 |
+| **[From Separate Compilation to Sound Language Composition](https://arxiv.org/abs/2602.03777v1)** | 2026-02-03 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 5 Listing</p></details> |
+| **[Ontology-to-tools compilation for executable semantic constraint enforcement in LLM agents](https://arxiv.org/abs/2602.03439v1)** | 2026-02-03 |  |
+| **[Learning to Repair Lean Proofs from Compiler Feedback](https://arxiv.org/abs/2602.02990v1)** | 2026-02-03 | 15 pages, 6 figures |
+| **[Compiling Quantum Regular Language States](https://arxiv.org/abs/2602.02698v1)** | 2026-02-02 | <details><summary>Code ...</summary><p>Code available at https://github.com/reinisirmejs/RLSComp</p></details> |
+| **[Optimizing Tensor Train Decomposition in DNNs for RISC-V Architectures Using Design Space Exploration and Compiler Optimizations](https://arxiv.org/abs/2602.01996v1)** | 2026-02-02 | <details><summary>36 pa...</summary><p>36 pages, 16 figures, this is the author-accepted version of the article published in ACM Transactions on Embedded Computing Systems (TECS), Vol. 24, No. 6</p></details> |
+| **[COLT: Lightweight Multi-LLM Collaboration through Shared MCTS Reasoning for Model Compilation](https://arxiv.org/abs/2602.01935v1)** | 2026-02-02 |  |
+| **[Mixed-Precision Training and Compilation for RRAM-based Computing-in-Memory Accelerators](https://arxiv.org/abs/2601.21737v2)** | 2026-01-30 | <details><summary>PREPR...</summary><p>PREPRINT - Accepted for publication at the Design, Automation & Test in Europe Conference & Exhibition (DATE), April 20-22, 2026, in Verona, Italy</p></details> |
 | **[Axe: A Simple Unified Layout Abstraction for Machine Learning Compilers](https://arxiv.org/abs/2601.19092v2)** | 2026-01-28 |  |
 | **[Magellan: Autonomous Discovery of Novel Compiler Optimization Heuristics with AlphaEvolve](https://arxiv.org/abs/2601.21096v1)** | 2026-01-28 | <details><summary>Accep...</summary><p>Accepted to C4ML@CGO'26</p></details> |
 | **[Hexcute: A Compiler Framework for Automating Layout Synthesis in GPU Programs](https://arxiv.org/abs/2504.16214v3)** | 2026-01-28 | 19 pages, 27 figures |
@@ -72,11 +79,4 @@ labels: documentation
 | **[BugLens: Leveraging Bisection for Lightweight Compiler Bug Deduplication](https://arxiv.org/abs/2506.23281v2)** | 2026-01-27 |  |
 | **[KeyMemRT Compiler and Runtime: Unlocking Memory-Scalable FHE](https://arxiv.org/abs/2601.18445v1)** | 2026-01-26 |  |
 | **[FuseFlow: A Fusion-Centric Compilation Framework for Sparse Deep Learning on Streaming Dataflow](https://arxiv.org/abs/2511.04768v2)** | 2026-01-25 |  |
-| **[Grammar-Aware Literate Generative Mathematical Programming with Compiler-in-the-Loop](https://arxiv.org/abs/2601.17670v1)** | 2026-01-25 | 18 pages, 10 figures |
-| **[Data-driven Test Generation for Fuzzing AI Compiler](https://arxiv.org/abs/2601.17450v1)** | 2026-01-24 | <details><summary>This ...</summary><p>This paper has been accepted by ICSE 2026 Doctoral Symposium track</p></details> |
-| **[Investigating Retargetability Claims for Quantum Compilers](https://arxiv.org/abs/2601.16779v1)** | 2026-01-23 | <details><summary>This ...</summary><p>This paper was submitted and accepted at the at the Q-STAV 2026</p></details> |
-| **[Variability-Aware Detection and Repair of Compilation Errors Using Foundation Models in Configurable Systems](https://arxiv.org/abs/2601.16755v1)** | 2026-01-23 |  |
-| **[From LLMs to Agents in Programming: The Impact of Providing an LLM with a Compiler](https://arxiv.org/abs/2601.12146v2)** | 2026-01-23 |  |
-| **[Prioritizing Configuration Relevance via Compiler-Based Refined Feature Ranking](https://arxiv.org/abs/2601.16008v1)** | 2026-01-22 | 29 pages 4 figures |
-| **[Evaluating Compiler Optimization Impacts on zkVM Performance](https://arxiv.org/abs/2508.17518v2)** | 2026-01-22 |  |
 
