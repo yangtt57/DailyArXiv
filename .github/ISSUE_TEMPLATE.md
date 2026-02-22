@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 16, 2026
+title: Latest 15 Papers - February 23, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Binary Code Similarity Detection
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Fool Me If You Can: On the Robustness of Binary Code Similarity Detection Models against Semantics-preserving Transformations](https://arxiv.org/abs/2602.12681v1)** | 2026-02-13 | <details><summary>23 pa...</summary><p>23 pages, 9 figures, 5 tables. The paper has been accepted by The ACM International Conference on the Foundations of Software Engineering (FSE 2026)</p></details> |
 | **[Nova: Generative Language Models for Assembly Code with Hierarchical Attention and Contrastive Learning](https://arxiv.org/abs/2311.13721v7)** | 2025-11-11 | <details><summary>Publi...</summary><p>Published as a conference paper at ICLR 2025</p></details> |
 | **[Beyond Embeddings: Interpretable Feature Extraction for Binary Code Similarity](https://arxiv.org/abs/2509.23449v1)** | 2025-09-27 | <details><summary>17 pa...</summary><p>17 pages, 7 figures, submitted to USENIX Security '26</p></details> |
 | **[Explainer-guided Targeted Adversarial Attacks against Binary Code Similarity Detection Models](https://arxiv.org/abs/2506.05430v1)** | 2025-06-05 | 12 pages, 3 figures |
@@ -21,7 +22,6 @@ labels: documentation
 | **[SimCLF: A Simple Contrastive Learning Framework for Function-level Binary Embeddings](https://arxiv.org/abs/2209.02442v2)** | 2023-12-26 |  |
 | **[kTrans: Knowledge-Aware Transformer for Binary Code Embedding](https://arxiv.org/abs/2308.12659v1)** | 2023-08-24 |  |
 | **[Binary Code Similarity Detection](https://arxiv.org/abs/2308.02992v1)** | 2023-08-06 | <details><summary>4 pag...</summary><p>4 pages, conference paper</p></details> |
-| **[FastBCSD: Fast and Efficient Neural Network for Binary Code Similarity Detection](https://arxiv.org/abs/2306.14168v1)** | 2023-06-25 |  |
 
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,13 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Compiling Quantum Lambda-Terms into Circuits via the Geometry of Interaction](https://arxiv.org/abs/2602.17482v1)** | 2026-02-19 |  |
+| **[Policy Compiler for Secure Agentic Systems](https://arxiv.org/abs/2602.16708v2)** | 2026-02-19 |  |
+| **[DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training](https://arxiv.org/abs/2504.09983v2)** | 2026-02-19 | 14 pages, 10 figures |
+| **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
+| **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v2)** | 2026-02-17 | <details><summary>Versi...</summary><p>Version 2: Submitted for a possible publication in 2026</p></details> |
+| **[Physics-Aware RIS Codebook Compilation for Near-Field Beam Focusing under Mutual Coupling and Specular Reflections](https://arxiv.org/abs/2601.12982v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted for presentation in IEEE International Conference on Communications (IEEE ICC 2026)</p></details> |
+| **[ARC: Compiling Hundreds of Requirement Scenarios into A Runnable Web System](https://arxiv.org/abs/2602.13723v1)** | 2026-02-14 |  |
 | **[Verifiable Provenance of Software Artifacts with Zero-Knowledge Compilation](https://arxiv.org/abs/2602.11887v1)** | 2026-02-12 |  |
 | **[Compiler-Guided Inference-Time Adaptation: Improving GPT-5 Programming Performance in Idris](https://arxiv.org/abs/2602.11481v1)** | 2026-02-12 |  |
 | **[Compiling High-Level Neural Network Specifications into VNN-LIB Queries](https://arxiv.org/abs/2402.01353v2)** | 2026-02-12 |  |
@@ -72,11 +79,4 @@ labels: documentation
 | **[ZipFlow: a Compiler-based Framework to Unleash Compressed Data Movement for Modern GPUs](https://arxiv.org/abs/2602.08190v1)** | 2026-02-09 |  |
 | **[Still Manual? Automated Linter Configuration via DSL-Based LLM Compilation of Coding Standards](https://arxiv.org/abs/2602.07783v1)** | 2026-02-08 | Accepted By FSE2026 |
 | **[RustCompCert: A Verified and Verifying Compiler for a Sequential Subset of Rust](https://arxiv.org/abs/2602.07455v1)** | 2026-02-07 | <details><summary>Submi...</summary><p>Submitted to Rust Verify 2026</p></details> |
-| **[Mut4All: Fuzzing Compilers via LLM-Synthesized Mutators Learned from Bug Reports](https://arxiv.org/abs/2507.19275v2)** | 2026-02-06 |  |
-| **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v1)** | 2026-02-05 | <details><summary>Versi...</summary><p>Version 1- Submitted for a possible publication in 2026</p></details> |
-| **[REASONING COMPILER: LLM-Guided Optimizations for Efficient Model Serving](https://arxiv.org/abs/2506.01374v5)** | 2026-02-04 | NeurIPS 2025 |
-| **[From Separate Compilation to Sound Language Composition](https://arxiv.org/abs/2602.03777v1)** | 2026-02-03 | <details><summary>43 pa...</summary><p>43 pages, 1 figure, 5 Listing</p></details> |
-| **[Ontology-to-tools compilation for executable semantic constraint enforcement in LLM agents](https://arxiv.org/abs/2602.03439v1)** | 2026-02-03 |  |
-| **[Learning to Repair Lean Proofs from Compiler Feedback](https://arxiv.org/abs/2602.02990v1)** | 2026-02-03 | 15 pages, 6 figures |
-| **[Compiling Quantum Regular Language States](https://arxiv.org/abs/2602.02698v1)** | 2026-02-02 | <details><summary>Code ...</summary><p>Code available at https://github.com/reinisirmejs/RLSComp</p></details> |
 
