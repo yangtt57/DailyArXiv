@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - February 23, 2026
+title: Latest 15 Papers - March 02, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments](https://arxiv.org/abs/2602.19450v1)** | 2026-02-23 |  |
+| **[LLM Scalability Risk for Agentic-AI and Model Supply Chain Security](https://arxiv.org/abs/2602.19021v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted for publication in Journal of Computer Information Systems (2026). DOI: 10.1080/08874417.2026.2624670</p></details> |
 | **[GoodVibe: Security-by-Vibe for LLM-Based Code Generation](https://arxiv.org/abs/2602.10778v1)** | 2026-02-11 |  |
 | **[CyberExplorer: Benchmarking LLM Offensive Security Capabilities in a Real-World Attacking Simulation Environment](https://arxiv.org/abs/2602.08023v2)** | 2026-02-10 |  |
 | **[Persistent Human Feedback, LLMs, and Static Analyzers for Secure Code Generation and Vulnerability Detection](https://arxiv.org/abs/2602.05868v1)** | 2026-02-05 |  |
@@ -39,8 +41,6 @@ labels: documentation
 | **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
 | **[LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification](https://arxiv.org/abs/2601.02624v1)** | 2026-01-06 | 6 pages |
 | **[Improving LLM-Assisted Secure Code Generation through Retrieval-Augmented-Generation and Multi-Tool Feedback](https://arxiv.org/abs/2601.00509v1)** | 2026-01-01 |  |
-| **[CoTDeceptor:Adversarial Code Obfuscation Against CoT-Enhanced LLM Code Agents](https://arxiv.org/abs/2512.21250v1)** | 2025-12-24 |  |
-| **[Large Language Models as a (Bad) Security Norm in the Context of Regulation and Compliance](https://arxiv.org/abs/2512.16419v1)** | 2025-12-18 | <details><summary>20 pa...</summary><p>20 pages, presented at Information Law and Policy Centre Annual Conference 2024 at the Institute of Advanced Study, University of London</p></details> |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,6 +64,13 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler](https://arxiv.org/abs/2602.21278v1)** | 2026-02-24 |  |
+| **[PhantomRun: Auto Repair of Compilation Errors in Embedded Open Source Software](https://arxiv.org/abs/2602.20284v1)** | 2026-02-23 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, Mining Software Repositories 2026 (MSR 2026) , Rio de Janeiro, Brazil, 13-14 April 2026</p></details> |
+| **[Machine-Generated, Machine-Checked Proofs for a Verified Compiler (Experience Report)](https://arxiv.org/abs/2602.20082v1)** | 2026-02-23 |  |
+| **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
+| **[Analyzing Latency Hiding and Parallelism in an MLIR-based AI Kernel Compiler](https://arxiv.org/abs/2602.20204v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at MLBench workshop as part of ASPLOS'26</p></details> |
+| **[DoAtlas-1: A Causal Compilation Paradigm for Clinical AI](https://arxiv.org/abs/2602.19158v1)** | 2026-02-22 |  |
+| **[Two Constraint Compilation Methods for Lifted Planning](https://arxiv.org/abs/2511.10164v2)** | 2026-02-20 |  |
 | **[Compiling Quantum Lambda-Terms into Circuits via the Geometry of Interaction](https://arxiv.org/abs/2602.17482v1)** | 2026-02-19 |  |
 | **[Policy Compiler for Secure Agentic Systems](https://arxiv.org/abs/2602.16708v2)** | 2026-02-19 |  |
 | **[DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training](https://arxiv.org/abs/2504.09983v2)** | 2026-02-19 | 14 pages, 10 figures |
@@ -72,11 +79,4 @@ labels: documentation
 | **[Physics-Aware RIS Codebook Compilation for Near-Field Beam Focusing under Mutual Coupling and Specular Reflections](https://arxiv.org/abs/2601.12982v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted for presentation in IEEE International Conference on Communications (IEEE ICC 2026)</p></details> |
 | **[ARC: Compiling Hundreds of Requirement Scenarios into A Runnable Web System](https://arxiv.org/abs/2602.13723v1)** | 2026-02-14 |  |
 | **[Verifiable Provenance of Software Artifacts with Zero-Knowledge Compilation](https://arxiv.org/abs/2602.11887v1)** | 2026-02-12 |  |
-| **[Compiler-Guided Inference-Time Adaptation: Improving GPT-5 Programming Performance in Idris](https://arxiv.org/abs/2602.11481v1)** | 2026-02-12 |  |
-| **[Compiling High-Level Neural Network Specifications into VNN-LIB Queries](https://arxiv.org/abs/2402.01353v2)** | 2026-02-12 |  |
-| **[Compiler-Assisted Speculative Sampling for Accelerated LLM Inference on Heterogeneous Edge Devices](https://arxiv.org/abs/2602.08060v2)** | 2026-02-10 | <details><summary>Accep...</summary><p>Accepted to AccML@HiPEAC 2026</p></details> |
-| **[CompilerKV: Risk-Adaptive KV Compression via Offline Experience Compilation](https://arxiv.org/abs/2602.08686v1)** | 2026-02-09 |  |
-| **[ZipFlow: a Compiler-based Framework to Unleash Compressed Data Movement for Modern GPUs](https://arxiv.org/abs/2602.08190v1)** | 2026-02-09 |  |
-| **[Still Manual? Automated Linter Configuration via DSL-Based LLM Compilation of Coding Standards](https://arxiv.org/abs/2602.07783v1)** | 2026-02-08 | Accepted By FSE2026 |
-| **[RustCompCert: A Verified and Verifying Compiler for a Sequential Subset of Rust](https://arxiv.org/abs/2602.07455v1)** | 2026-02-07 | <details><summary>Submi...</summary><p>Submitted to Rust Verify 2026</p></details> |
 
