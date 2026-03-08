@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 02, 2026
+title: Latest 15 Papers - March 09, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -64,6 +64,8 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LaTeX Compilation: Challenges in the Era of LLMs](https://arxiv.org/abs/2603.02873v2)** | 2026-03-04 | 25 pages, 12 figures |
+| **[Capstone: Power-Capped Pipelining for Coarse-Grained Reconfigurable Array Compilers](https://arxiv.org/abs/2603.00909v1)** | 2026-03-01 |  |
 | **[Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler](https://arxiv.org/abs/2602.21278v1)** | 2026-02-24 |  |
 | **[PhantomRun: Auto Repair of Compilation Errors in Embedded Open Source Software](https://arxiv.org/abs/2602.20284v1)** | 2026-02-23 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, Mining Software Repositories 2026 (MSR 2026) , Rio de Janeiro, Brazil, 13-14 April 2026</p></details> |
 | **[Machine-Generated, Machine-Checked Proofs for a Verified Compiler (Experience Report)](https://arxiv.org/abs/2602.20082v1)** | 2026-02-23 |  |
@@ -77,6 +79,4 @@ labels: documentation
 | **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
 | **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v2)** | 2026-02-17 | <details><summary>Versi...</summary><p>Version 2: Submitted for a possible publication in 2026</p></details> |
 | **[Physics-Aware RIS Codebook Compilation for Near-Field Beam Focusing under Mutual Coupling and Specular Reflections](https://arxiv.org/abs/2601.12982v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted for presentation in IEEE International Conference on Communications (IEEE ICC 2026)</p></details> |
-| **[ARC: Compiling Hundreds of Requirement Scenarios into A Runnable Web System](https://arxiv.org/abs/2602.13723v1)** | 2026-02-14 |  |
-| **[Verifiable Provenance of Software Artifacts with Zero-Knowledge Compilation](https://arxiv.org/abs/2602.11887v1)** | 2026-02-12 |  |
 
