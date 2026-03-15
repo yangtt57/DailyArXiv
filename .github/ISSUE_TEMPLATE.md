@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - March 09, 2026
+title: Latest 15 Papers - March 16, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation](https://arxiv.org/abs/2603.10072v1)** | 2026-03-10 |  |
+| **[Before You Hand Over the Wheel: Evaluating LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.06422v1)** | 2026-03-06 |  |
+| **[SecureRAG-RTL: A Retrieval-Augmented, Multi-Agent, Zero-Shot LLM-Driven Framework for Hardware Vulnerability Detection](https://arxiv.org/abs/2603.05689v1)** | 2026-03-05 |  |
 | **[Red-Teaming Claude Opus and ChatGPT-based Security Advisors for Trusted Execution Environments](https://arxiv.org/abs/2602.19450v1)** | 2026-02-23 |  |
 | **[LLM Scalability Risk for Agentic-AI and Model Supply Chain Security](https://arxiv.org/abs/2602.19021v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted for publication in Journal of Computer Information Systems (2026). DOI: 10.1080/08874417.2026.2624670</p></details> |
 | **[GoodVibe: Security-by-Vibe for LLM-Based Code Generation](https://arxiv.org/abs/2602.10778v1)** | 2026-02-11 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Safe-FedLLM: Delving into the Safety of Federated Large Language Models](https://arxiv.org/abs/2601.07177v1)** | 2026-01-12 |  |
 | **[CHASE: LLM Agents for Dissecting Malicious PyPI Packages](https://arxiv.org/abs/2601.06838v1)** | 2026-01-11 | <details><summary>Accep...</summary><p>Accepted for publication and presented at the 2nd IEEE International Conference on AI-powered Software (AIware 2025). 10 pages, 3 figures</p></details> |
 | **[Lightweight Yet Secure: Secure Scripting Language Generation via Lightweight LLMs](https://arxiv.org/abs/2601.06419v1)** | 2026-01-10 | <details><summary>19 pa...</summary><p>19 pages,8 figures,conference</p></details> |
-| **[LLMs as verification oracles for Solidity](https://arxiv.org/abs/2509.19153v2)** | 2026-01-09 |  |
-| **[LAsset: An LLM-assisted Security Asset Identification Framework for System-on-Chip (SoC) Verification](https://arxiv.org/abs/2601.02624v1)** | 2026-01-06 | 6 pages |
-| **[Improving LLM-Assisted Secure Code Generation through Retrieval-Augmented-Generation and Multi-Tool Feedback](https://arxiv.org/abs/2601.00509v1)** | 2026-01-01 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,7 +64,14 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[LaTeX Compilation: Challenges in the Era of LLMs](https://arxiv.org/abs/2603.02873v2)** | 2026-03-04 | 25 pages, 12 figures |
+| **[Compiling Temporal Numeric Planning into Discrete PDDL+: Extended Version](https://arxiv.org/abs/2603.12188v1)** | 2026-03-12 | <details><summary>This ...</summary><p>This paper is an extended version of the homonymous appearing in the ICAPS 2026 proceedings. This version provides the proofs and addidional explanations of the compilation</p></details> |
+| **[Compiler.next: A Search-Based Compiler to Power the AI-Native Future of Software Engineering](https://arxiv.org/abs/2510.24799v2)** | 2026-03-11 | <details><summary>31 pa...</summary><p>31 pages, 5 figures, submitted to ACM Transactions on Software Engineering and Methodology</p></details> |
+| **[LaTeX Compilation: Challenges in the Era of LLMs](https://arxiv.org/abs/2603.02873v4)** | 2026-03-11 | 25 pages, 12 figures |
+| **[PolyBlocks: A Compiler Infrastructure for AI Chips and Programming Frameworks](https://arxiv.org/abs/2603.06731v2)** | 2026-03-10 | <details><summary>Fixed...</summary><p>Fixed the "Acknowledgments" section that was missing phrases</p></details> |
+| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v1)** | 2026-03-10 | <details><summary>18 pa...</summary><p>18 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
+| **[Test-Driven AI Agent Definition (TDAD): Compiling Tool-Using Agents from Behavioral Specifications](https://arxiv.org/abs/2603.08806v1)** | 2026-03-09 | <details><summary>9 pag...</summary><p>9 pages, 2 figures, open benchmark at https://github.com/f-labs-io/tdad-paper-code</p></details> |
+| **[AI-Assisted Curation of Conference Scholarship: Compiling, Structuring, and Analyzing Two Decades of Presentations at the Society for Social Work and Research](https://arxiv.org/abs/2603.06814v1)** | 2026-03-06 |  |
+| **[Understanding and Finding JIT Compiler Performance Bugs](https://arxiv.org/abs/2603.06551v1)** | 2026-03-06 | <details><summary>Accep...</summary><p>Accepted to OOPSLA 2026</p></details> |
 | **[Capstone: Power-Capped Pipelining for Coarse-Grained Reconfigurable Array Compilers](https://arxiv.org/abs/2603.00909v1)** | 2026-03-01 |  |
 | **[Heterogeneous Memory Design Exploration for AI Accelerators with a Gain Cell Memory Compiler](https://arxiv.org/abs/2602.21278v1)** | 2026-02-24 |  |
 | **[PhantomRun: Auto Repair of Compilation Errors in Embedded Open Source Software](https://arxiv.org/abs/2602.20284v1)** | 2026-02-23 | <details><summary>13 pa...</summary><p>13 pages, 5 figures, Mining Software Repositories 2026 (MSR 2026) , Rio de Janeiro, Brazil, 13-14 April 2026</p></details> |
@@ -72,11 +79,4 @@ labels: documentation
 | **[Hexagon-MLIR: An AI Compilation Stack For Qualcomm's Neural Processing Units (NPUs)](https://arxiv.org/abs/2602.19762v1)** | 2026-02-23 |  |
 | **[Analyzing Latency Hiding and Parallelism in an MLIR-based AI Kernel Compiler](https://arxiv.org/abs/2602.20204v1)** | 2026-02-22 | <details><summary>Accep...</summary><p>Accepted at MLBench workshop as part of ASPLOS'26</p></details> |
 | **[DoAtlas-1: A Causal Compilation Paradigm for Clinical AI](https://arxiv.org/abs/2602.19158v1)** | 2026-02-22 |  |
-| **[Two Constraint Compilation Methods for Lifted Planning](https://arxiv.org/abs/2511.10164v2)** | 2026-02-20 |  |
-| **[Compiling Quantum Lambda-Terms into Circuits via the Geometry of Interaction](https://arxiv.org/abs/2602.17482v1)** | 2026-02-19 |  |
-| **[Policy Compiler for Secure Agentic Systems](https://arxiv.org/abs/2602.16708v2)** | 2026-02-19 |  |
-| **[DeepCompile: A Compiler-Driven Approach to Optimizing Distributed Deep Learning Training](https://arxiv.org/abs/2504.09983v2)** | 2026-02-19 | 14 pages, 10 figures |
-| **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v1)** | 2026-02-18 |  |
-| **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v2)** | 2026-02-17 | <details><summary>Versi...</summary><p>Version 2: Submitted for a possible publication in 2026</p></details> |
-| **[Physics-Aware RIS Codebook Compilation for Near-Field Beam Focusing under Mutual Coupling and Specular Reflections](https://arxiv.org/abs/2601.12982v2)** | 2026-02-16 | <details><summary>Accep...</summary><p>Accepted for presentation in IEEE International Conference on Communications (IEEE ICC 2026)</p></details> |
 
