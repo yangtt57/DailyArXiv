@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 20, 2026
+title: Latest 15 Papers - April 27, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v2)** | 2026-04-23 |  |
+| **[Towards Secure Logging: Characterizing and Benchmarking Logging Code Security Issues with LLMs](https://arxiv.org/abs/2604.20211v1)** | 2026-04-22 | <details><summary>Accep...</summary><p>Accepted at FSE 2026 Research Papers Track</p></details> |
 | **[RealVuln: Benchmarking Rule-Based, General-Purpose LLM, and Security-Specialized Scanners on Real-World Code](https://arxiv.org/abs/2604.13764v1)** | 2026-04-15 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 4 tables. Code and data: https://github.com/kolega-ai/Real-Vuln-Benchmark. Dashboard: https://realvuln.kolega.dev/</p></details> |
 | **[KEO: Knowledge Extraction on OMIn via Knowledge Graphs and RAG for Safety-Critical Aviation Maintenance](https://arxiv.org/abs/2510.05524v2)** | 2026-04-08 |  |
 | **[SentinelSphere: Integrating AI-Powered Real-Time Threat Detection with Cybersecurity Awareness Training](https://arxiv.org/abs/2604.06900v1)** | 2026-04-08 | 21 |
@@ -38,9 +40,7 @@ labels: documentation
 | **[Are AI-assisted Development Tools Immune to Prompt Injection?](https://arxiv.org/abs/2603.21642v1)** | 2026-03-23 |  |
 | **[Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196v2)** | 2026-03-20 |  |
 | **[A Framework for Formalizing LLM Agent Security](https://arxiv.org/abs/2603.19469v1)** | 2026-03-19 |  |
-| **[Measuring and Exploiting Confirmation Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v1)** | 2026-03-19 |  |
 | **[RESCUE: Retrieval Augmented Secure Code Generation](https://arxiv.org/abs/2510.18204v2)** | 2026-03-16 | <details><summary>Accep...</summary><p>Accepted to ICLR'2026</p></details> |
-| **[Why LLMs Fail: A Failure Analysis and Partial Success Measurement for Automated Security Patch Generation](https://arxiv.org/abs/2603.10072v1)** | 2026-03-10 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLM StructCore: Schema-Guided Reasoning Condensation and Deterministic Compilation](https://arxiv.org/abs/2604.20560v1)** | 2026-04-22 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 5 tables. Preprint of a paper accepted to the Third Workshop on Patient-oriented Language Processing (CL4Health), co-located with LREC-COLING 2026</p></details> |
+| **[Going MLIR-native: Demonstrating a Future for DSL compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v1)** | 2026-04-21 | 17 pages, 5 figures |
+| **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
+| **[Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel](https://arxiv.org/abs/2604.13327v2)** | 2026-04-21 | <details><summary>16 pa...</summary><p>16 pages. 18 figures. accepted in MLSys 2026. References corrected</p></details> |
+| **[Flint: Compiler Enabled Cluster-Free Design Space Exploration for Distributed ML](https://arxiv.org/abs/2604.17550v1)** | 2026-04-19 |  |
+| **[The Program Hypergraph: Multi-Way Relational Structure for Geometric Algebra, Spatial Compute, and Physics-Aware Compilation](https://arxiv.org/abs/2603.17627v3)** | 2026-04-19 | <details><summary>31 pa...</summary><p>31 pages, 1 figure, 2 tables</p></details> |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v5)** | 2026-04-19 | <details><summary>29 pa...</summary><p>29 pages, 8 tables, 3 appendices with extended examples</p></details> |
+| **[Compiling Deterministic Structure into SLM Harnesses](https://arxiv.org/abs/2604.17450v1)** | 2026-04-19 |  |
+| **[Layer-wise MoE Routing Locality under Shared-Prefix Code Generation: Token-Identity Decomposition and Compile-Equivalent Fork Redundancy](https://arxiv.org/abs/2604.17182v1)** | 2026-04-19 |  |
+| **[Shift schema drift left: policy-aware compile-time contracts for typed JVM and Spark pipelines](https://arxiv.org/abs/2604.16986v1)** | 2026-04-18 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table. Mechanism artifact paper with reproducible benchmarks. Code at https://github.com/vim89/compile-time-data-contracts</p></details> |
+| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v2)** | 2026-04-17 |  |
 | **[HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization](https://arxiv.org/abs/2604.15041v1)** | 2026-04-16 |  |
 | **[SkillDroid: Compile Once, Reuse Forever](https://arxiv.org/abs/2604.14872v1)** | 2026-04-16 |  |
 | **[Nautilus: An Auto-Scheduling Tensor Compiler for Efficient Tiled GPU Kernels](https://arxiv.org/abs/2604.14825v1)** | 2026-04-16 |  |
 | **[AI Coding Agents Need Better Compiler Remarks](https://arxiv.org/abs/2604.13927v1)** | 2026-04-15 | <details><summary>3 pag...</summary><p>3 pages, 1 figure, 2 tables, Presented at Workshop on Co-Design for Agentic and Multimodal AI (CoDAIM) 2026</p></details> |
-| **[Variance Computation for Weighted Model Counting with Knowledge Compilation Approach](https://arxiv.org/abs/2601.03523v2)** | 2026-04-15 | <details><summary>25 pa...</summary><p>25 pages; accepted for AAAI 2026 main track</p></details> |
-| **[Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel](https://arxiv.org/abs/2604.13327v1)** | 2026-04-14 | <details><summary>16 pa...</summary><p>16 pages. 18 figures. accepted in MLSys 2026</p></details> |
-| **[CODO: An Automated Compiler for Comprehensive Dataflow Optimization](https://arxiv.org/abs/2604.12618v1)** | 2026-04-14 | <details><summary>Accep...</summary><p>Accepted by ISCA 2026</p></details> |
-| **[Compiling Activation Steering into Weights via Null-Space Constraints for Stealthy Backdoors](https://arxiv.org/abs/2604.12359v1)** | 2026-04-14 | <details><summary>ACL 2...</summary><p>ACL 2026 Main Conference</p></details> |
-| **[The Program Hypergraph: Multi-Way Relational Structure for Geometric Algebra, Spatial Compute, and Physics-Aware Compilation](https://arxiv.org/abs/2603.17627v2)** | 2026-04-13 | <details><summary>29 pa...</summary><p>29 pages, 1 figure, 2 tables</p></details> |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v4)** | 2026-04-13 | <details><summary>29 pa...</summary><p>29 pages, 8 tables, 3 appendices with extended examples</p></details> |
-| **[Compiler Framework for Directional Transport in Zoned Neutral Atom Systems with AOD Assistance: A Hybrid Remote CZ Approach](https://arxiv.org/abs/2604.11000v1)** | 2026-04-13 | <details><summary>Accep...</summary><p>Accepted to Design Automation Conference (DAC) 2026</p></details> |
-| **[A Benchmark and Multi-Agent System for Instruction-driven Cinematic Video Compilation](https://arxiv.org/abs/2604.10456v1)** | 2026-04-12 |  |
-| **[Demystifying the Silence of Correctness Bugs in PyTorch Compiler](https://arxiv.org/abs/2604.08720v1)** | 2026-04-09 |  |
-| **[Validated Intent Compilation for Constrained Routing in LEO Mega-Constellations](https://arxiv.org/abs/2604.07264v1)** | 2026-04-08 | 9 pages, 2 figures |
-| **[Agentic Compilation: Mitigating the LLM Rerun Crisis for Minimized-Inference-Cost Web Automation](https://arxiv.org/abs/2604.09718v1)** | 2026-04-08 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables</p></details> |
 
