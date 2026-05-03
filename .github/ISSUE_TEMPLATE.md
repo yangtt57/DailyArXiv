@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - April 27, 2026
+title: Latest 15 Papers - May 04, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Constraint-Guided Multi-Agent Decompilation for Executable Binary Recovery](https://arxiv.org/abs/2604.23940v1)** | 2026-04-27 |  |
 | **[CoDe-R: Refining Decompiler Output with LLMs via Rationale Guidance and Adaptive Inference](https://arxiv.org/abs/2604.12913v1)** | 2026-04-14 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 6 tables. Accepted by IJCNN 2026</p></details> |
 | **[Context-Guided Decompilation: A Step Towards Re-executability](https://arxiv.org/abs/2511.01763v2)** | 2026-04-12 |  |
 | **[LLM4CodeRE: Generative AI for Code Decompilation Analysis and Reverse Engineering](https://arxiv.org/abs/2604.06095v1)** | 2026-04-07 |  |
@@ -59,24 +60,23 @@ labels: documentation
 | **[Augmenting Smart Contract Decompiler Output through Fine-grained Dependency Analysis and LLM-facilitated Semantic Recovery](https://arxiv.org/abs/2501.08670v2)** | 2025-10-16 | <details><summary>This ...</summary><p>This is the author version of the article accepted for publication in IEEE Transactions on Software Engineering</p></details> |
 | **[Decompiling for Constant-Time Analysis](https://arxiv.org/abs/2501.04183v3)** | 2025-10-14 |  |
 | **[SK2Decompile: LLM-based Two-Phase Binary Decompilation from Skeleton to Skin](https://arxiv.org/abs/2509.22114v1)** | 2025-09-26 |  |
-| **[SALT4Decompile: Inferring Source-level Abstract Logic Tree for LLM-Based Binary Decompilation](https://arxiv.org/abs/2509.14646v1)** | 2025-09-18 | 13 pages, 7 figures |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoSP: Unlocking Long-Context LLM Training Via Compiler-Based Sequence Parallelism](https://arxiv.org/abs/2604.27089v1)** | 2026-04-29 | <details><summary>13 pa...</summary><p>13 pages, 9 figures, 1 table</p></details> |
+| **[Exploiting pre-optimized kernels with polyhedral transformations for CGRA compilation](https://arxiv.org/abs/2604.22297v2)** | 2026-04-28 | <details><summary>Typo ...</summary><p>Typo corrected regarding first co-authors</p></details> |
+| **[Practical Insights into Fair Comparison and Evaluation Frame for Neutral-Atom Compilers](https://arxiv.org/abs/2604.25478v1)** | 2026-04-28 | <details><summary>11 pa...</summary><p>11 pages, 2 figures, submitted to IEEE Quantum Week 2026</p></details> |
+| **[Stabilizers for Compiling Logical Circuits under Hardware Constraints](https://arxiv.org/abs/2604.25042v1)** | 2026-04-27 | 10 pages, 2 figures |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v6)** | 2026-04-27 | <details><summary>33 pa...</summary><p>33 pages, 8 tables, 3 appendices with extended examples</p></details> |
+| **[Compilation and Execution of an Embeddable YOLO-NAS on the VTA](https://arxiv.org/abs/2604.24455v1)** | 2026-04-27 |  |
+| **[Demonstrating a Future for MLIR-native DSL Compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v2)** | 2026-04-27 | 17 pages, 5 figures |
+| **[Compile-Time Tensor Shape Checking via Staged Shape-Dependent Types](https://arxiv.org/abs/2604.23807v1)** | 2026-04-26 | <details><summary>A lon...</summary><p>A long version of a conference paper to appear on ECOOP 2026</p></details> |
+| **[Compiling OpenSCENARIO 2.1 for Scenario-Based Testing in CARLA](https://arxiv.org/abs/2604.16452v2)** | 2026-04-26 |  |
+| **[Agentic Compilation: Mitigating the LLM Rerun Crisis for Minimized-Inference-Cost Web Automation](https://arxiv.org/abs/2604.09718v2)** | 2026-04-25 | <details><summary>12 pa...</summary><p>12 pages, 4 figures, 2 tables. v2: Expanded literature review and clarified architecture limitations</p></details> |
+| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v2)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[Fast GPU Linear Algebra via Compile Time Expression Fusion](https://arxiv.org/abs/2604.22242v1)** | 2026-04-24 |  |
+| **[TexOCR: Advancing Document OCR Models for Compilable Page-to-LaTeX Reconstruction](https://arxiv.org/abs/2604.22880v1)** | 2026-04-24 | <details><summary>Accep...</summary><p>Accepted by ACL 2026 Main</p></details> |
 | **[LLM StructCore: Schema-Guided Reasoning Condensation and Deterministic Compilation](https://arxiv.org/abs/2604.20560v1)** | 2026-04-22 | <details><summary>16 pa...</summary><p>16 pages, 1 figure, 5 tables. Preprint of a paper accepted to the Third Workshop on Patient-oriented Language Processing (CL4Health), co-located with LREC-COLING 2026</p></details> |
-| **[Going MLIR-native: Demonstrating a Future for DSL compilers on a NumPy-like Example](https://arxiv.org/abs/2604.19906v1)** | 2026-04-21 | 17 pages, 5 figures |
 | **[Adding Compilation Metadata To Binaries To Make Disassembly Decidable](https://arxiv.org/abs/2604.19628v1)** | 2026-04-21 | <details><summary>12 pa...</summary><p>12 pages, 5 figures, 2 tables. Submitted to QRS 2026</p></details> |
-| **[Event Tensor: A Unified Abstraction for Compiling Dynamic Megakernel](https://arxiv.org/abs/2604.13327v2)** | 2026-04-21 | <details><summary>16 pa...</summary><p>16 pages. 18 figures. accepted in MLSys 2026. References corrected</p></details> |
-| **[Flint: Compiler Enabled Cluster-Free Design Space Exploration for Distributed ML](https://arxiv.org/abs/2604.17550v1)** | 2026-04-19 |  |
-| **[The Program Hypergraph: Multi-Way Relational Structure for Geometric Algebra, Spatial Compute, and Physics-Aware Compilation](https://arxiv.org/abs/2603.17627v3)** | 2026-04-19 | <details><summary>31 pa...</summary><p>31 pages, 1 figure, 2 tables</p></details> |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v5)** | 2026-04-19 | <details><summary>29 pa...</summary><p>29 pages, 8 tables, 3 appendices with extended examples</p></details> |
-| **[Compiling Deterministic Structure into SLM Harnesses](https://arxiv.org/abs/2604.17450v1)** | 2026-04-19 |  |
-| **[Layer-wise MoE Routing Locality under Shared-Prefix Code Generation: Token-Identity Decomposition and Compile-Equivalent Fork Redundancy](https://arxiv.org/abs/2604.17182v1)** | 2026-04-19 |  |
-| **[Shift schema drift left: policy-aware compile-time contracts for typed JVM and Spark pipelines](https://arxiv.org/abs/2604.16986v1)** | 2026-04-18 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 1 table. Mechanism artifact paper with reproducible benchmarks. Code at https://github.com/vim89/compile-time-data-contracts</p></details> |
-| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v2)** | 2026-04-17 |  |
-| **[HintPilot: LLM-based Compiler Hint Synthesis for Code Optimization](https://arxiv.org/abs/2604.15041v1)** | 2026-04-16 |  |
-| **[SkillDroid: Compile Once, Reuse Forever](https://arxiv.org/abs/2604.14872v1)** | 2026-04-16 |  |
-| **[Nautilus: An Auto-Scheduling Tensor Compiler for Efficient Tiled GPU Kernels](https://arxiv.org/abs/2604.14825v1)** | 2026-04-16 |  |
-| **[AI Coding Agents Need Better Compiler Remarks](https://arxiv.org/abs/2604.13927v1)** | 2026-04-15 | <details><summary>3 pag...</summary><p>3 pages, 1 figure, 2 tables, Presented at Workshop on Co-Design for Agentic and Multimodal AI (CoDAIM) 2026</p></details> |
 
