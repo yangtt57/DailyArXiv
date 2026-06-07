@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 01, 2026
+title: Latest 15 Papers - June 08, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[LLMs for Secure Hardware Design and Related Problems: Opportunities and Challenges](https://arxiv.org/abs/2605.10807v4)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted for 2026 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</p></details> |
+| **[Benchmarking Large Language Models for Cryptanalysis and Side-Channel Vulnerabilities](https://arxiv.org/abs/2505.24621v3)** | 2026-05-31 | EMNLP'25 Findings |
+| **[GoodVibe: Security-by-Vibe for LLM-Based Code Generation](https://arxiv.org/abs/2602.10778v2)** | 2026-05-29 |  |
 | **[S3C2 Summit 2025-07: Government Secure Supply Chain Summit](https://arxiv.org/abs/2605.29140v1)** | 2026-05-27 |  |
 | **[Disentangling Adversarial Prompts: A Semantic-Graph Defense for Robust LLM Security](https://arxiv.org/abs/2605.27823v1)** | 2026-05-27 | <details><summary>Publi...</summary><p>Published in AAAI 2026</p></details> |
 | **[SEC-bench Pro: Can Language Models Solve Long-Horizon Software Security Tasks?](https://arxiv.org/abs/2605.26548v1)** | 2026-05-26 |  |
@@ -35,12 +38,9 @@ labels: documentation
 | **[Enhancing Reliability in LLM-Based Secure Code Generation](https://arxiv.org/abs/2605.24300v1)** | 2026-05-22 | <details><summary>15 pa...</summary><p>15 pages; 7 tables; 3 figures</p></details> |
 | **[Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs](https://arxiv.org/abs/2605.06669v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 9 tables</p></details> |
 | **[M3: Conversational LLMs Simplify Secure Clinical Data Access, Understanding, and Analysis](https://arxiv.org/abs/2507.01053v4)** | 2026-05-20 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 3 tables</p></details> |
-| **[LLMs for Secure Hardware Design and Related Problems: Opportunities and Challenges](https://arxiv.org/abs/2605.10807v3)** | 2026-05-20 | <details><summary>Accep...</summary><p>Accepted for 2026 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</p></details> |
 | **[FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model](https://arxiv.org/abs/2506.05640v2)** | 2026-05-19 |  |
 | **[When the Ruler is Broken: Parsing-Induced Suppression in LLM-Based Security Log Evaluation](https://arxiv.org/abs/2605.07293v1)** | 2026-05-08 |  |
 | **[Heimdallr: Characterizing and Detecting LLM-Induced Security Risks in GitHub CI Workflows](https://arxiv.org/abs/2605.05969v1)** | 2026-05-07 |  |
-| **[Retrieval-Augmented LLMs for Security Incident Analysis](https://arxiv.org/abs/2603.18196v3)** | 2026-05-04 | <details><summary>In AC...</summary><p>In ACM Conference on AI and Agentic Systems, CAIS 2026, San Jose, CA, USA</p></details> |
-| **[Self-Adaptive Multi-Agent LLM-Based Security Pattern Selection for IoT Systems](https://arxiv.org/abs/2605.00741v1)** | 2026-05-01 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[TensorBench: Benchmarking Coding Agents on a Compiler-Based Tensor Framework](https://arxiv.org/abs/2606.05570v1)** | 2026-06-04 |  |
+| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v3)** | 2026-06-03 |  |
+| **[nnAudio 2: Overcoming Dynamic Compilation Barriers and Transform Inconsistencies](https://arxiv.org/abs/2606.05394v1)** | 2026-06-03 |  |
+| **[Bridge the Last-Mile Gap to Semantic Analytics: Compiling Natural-Language Queries into Semantic Operator Pipelines](https://arxiv.org/abs/2606.04641v1)** | 2026-06-03 | <details><summary>4 fig...</summary><p>4 figures, 7 tables. Code: https://github.com/dongw-netize/NL2Pipe-Compiling-Natural-Language-Questions-into-Semantic-Operator-Pipelines</p></details> |
+| **[SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents](https://arxiv.org/abs/2605.03353v4)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted by the Agent Skills Workshop at ACM CAIS 2026. 20 pages, 6 figures. Project Homepage: https://skcc.nexa-lang.com/ Code Repo: https://github.com/Nexa-Language/Skill-Compiler/</p></details> |
+| **[ScanWeaver: Compiler-Driven Parallelization of Affine Recurrences via Associative Scan Lowering](https://arxiv.org/abs/2606.00601v1)** | 2026-05-30 | 11 pages, 1 figure |
+| **[Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling](https://arxiv.org/abs/2605.21470v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
+| **[Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs](https://arxiv.org/abs/2604.18587v2)** | 2026-05-29 |  |
+| **[Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA](https://arxiv.org/abs/2605.31064v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 ADS track</p></details> |
 | **[TraceCodec: A Compiler-Backed Neural Codec for Stateful Multi-Flow Network Traffic Traces](https://arxiv.org/abs/2605.29941v1)** | 2026-05-28 |  |
 | **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
 | **[PassNet: Scaling Large Language Models for Graph Compiler Pass Generation](https://arxiv.org/abs/2605.29357v1)** | 2026-05-28 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/PaddlePaddle/PassNet</p></details> |
 | **[Grammar-Aware Literate Generative Mathematical Programming with Compiler-in-the-Loop](https://arxiv.org/abs/2601.17670v2)** | 2026-05-28 | 18 pages, 7 figures |
 | **[Can We Formally Verify Neural PDE Surrogates? SMT Compilation of Small Fourier Neural Operators](https://arxiv.org/abs/2605.08938v2)** | 2026-05-27 |  |
 | **[Compile-Time Simplification of Classically Controlled Operations in Dynamic Circuits](https://arxiv.org/abs/2605.28439v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at ISC High Performance 2026; to appear in the IEEE Xplore proceedings</p></details> |
-| **[Native topological readout on qubit hardware: a Fibonacci-chain benchmark of measurement-compilation trade-offs](https://arxiv.org/abs/2605.25913v1)** | 2026-05-25 | <details><summary>16 pg...</summary><p>16 pgs, 8 figs, 3 tabs</p></details> |
-| **[ARC: Compiling Large Multi-Modal Requirement Documents into Runnable Software Systems](https://arxiv.org/abs/2602.13723v3)** | 2026-05-24 |  |
-| **[DCC: Data-Centric Compilation of Machine Learning Kernels for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v2)** | 2026-05-22 |  |
-| **[MileStone: A Multi-Objective Compiler Phase Ordering Framework for Graph-based IR-Level Optimization](https://arxiv.org/abs/2605.23435v1)** | 2026-05-22 |  |
-| **[A Compilation Framework for Quantum Simulation of Non-unitary Dynamics](https://arxiv.org/abs/2605.23358v1)** | 2026-05-22 | 35 pages, 15 figures |
-| **[Sutra: Tensor-Op RNNs as a Compilation Target for Vector Symbolic Architectures](https://arxiv.org/abs/2605.20919v2)** | 2026-05-21 | <details><summary>Modif...</summary><p>Modified NeurIPS submission, see AI declaration and replication materials at end of paper</p></details> |
-| **[Compiling Agentic Workflows into LLM Weights: Near-Frontier Quality at Two Orders of Magnitude Less Cost](https://arxiv.org/abs/2605.22502v1)** | 2026-05-21 | 19 pages |
-| **[The Neural Compiler: Program-to-Network Translation for Hybrid Scientific Machine Learning](https://arxiv.org/abs/2605.22498v1)** | 2026-05-21 | <details><summary>Use: ...</summary><p>Use: 21 pages, 10 figures, 10 tables. Preprint; source code available at https://github.com/sheneman/neural_compiler</p></details> |
-| **[QuCtrl-BELL: A Compiler-Driven Sub-Microsecond Feedback Control Stack for Scalable Trapped-Ion Quantum Experiments](https://arxiv.org/abs/2605.22433v1)** | 2026-05-21 | 7 pages, 6 figures |
 
