@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 08, 2026
+title: Latest 15 Papers - June 15, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,9 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749v1)** | 2026-06-09 |  |
+| **[Benchmarking and Exploring the Capabilities of LLMs for Attack Investigations](https://arxiv.org/abs/2606.10281v1)** | 2026-06-09 |  |
+| **[Data Agents Under Attack: Vulnerabilities in LLM-Driven Analytical Systems](https://arxiv.org/abs/2606.08661v1)** | 2026-06-07 |  |
 | **[LLMs for Secure Hardware Design and Related Problems: Opportunities and Challenges](https://arxiv.org/abs/2605.10807v4)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted for 2026 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</p></details> |
 | **[Benchmarking Large Language Models for Cryptanalysis and Side-Channel Vulnerabilities](https://arxiv.org/abs/2505.24621v3)** | 2026-05-31 | EMNLP'25 Findings |
 | **[GoodVibe: Security-by-Vibe for LLM-Based Code Generation](https://arxiv.org/abs/2602.10778v2)** | 2026-05-29 |  |
@@ -38,9 +41,6 @@ labels: documentation
 | **[Enhancing Reliability in LLM-Based Secure Code Generation](https://arxiv.org/abs/2605.24300v1)** | 2026-05-22 | <details><summary>15 pa...</summary><p>15 pages; 7 tables; 3 figures</p></details> |
 | **[Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs](https://arxiv.org/abs/2605.06669v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 9 tables</p></details> |
 | **[M3: Conversational LLMs Simplify Secure Clinical Data Access, Understanding, and Analysis](https://arxiv.org/abs/2507.01053v4)** | 2026-05-20 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 3 tables</p></details> |
-| **[FedShield-LLM: A Secure and Scalable Federated Fine-Tuned Large Language Model](https://arxiv.org/abs/2506.05640v2)** | 2026-05-19 |  |
-| **[When the Ruler is Broken: Parsing-Induced Suppression in LLM-Based Security Log Evaluation](https://arxiv.org/abs/2605.07293v1)** | 2026-05-08 |  |
-| **[Heimdallr: Characterizing and Detecting LLM-Induced Security Risks in GitHub CI Workflows](https://arxiv.org/abs/2605.05969v1)** | 2026-05-07 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[TensorBench: Benchmarking Coding Agents on a Compiler-Based Tensor Framework](https://arxiv.org/abs/2606.05570v1)** | 2026-06-04 |  |
-| **[Bonsai: Compiling Queries to Pruned Tree Traversals](https://arxiv.org/abs/2511.15000v3)** | 2026-06-03 |  |
-| **[nnAudio 2: Overcoming Dynamic Compilation Barriers and Transform Inconsistencies](https://arxiv.org/abs/2606.05394v1)** | 2026-06-03 |  |
-| **[Bridge the Last-Mile Gap to Semantic Analytics: Compiling Natural-Language Queries into Semantic Operator Pipelines](https://arxiv.org/abs/2606.04641v1)** | 2026-06-03 | <details><summary>4 fig...</summary><p>4 figures, 7 tables. Code: https://github.com/dongw-netize/NL2Pipe-Compiling-Natural-Language-Questions-into-Semantic-Operator-Pipelines</p></details> |
-| **[SkCC: Portable and Secure Skill Compilation for Cross-Framework LLM Agents](https://arxiv.org/abs/2605.03353v4)** | 2026-06-03 | <details><summary>Accep...</summary><p>Accepted by the Agent Skills Workshop at ACM CAIS 2026. 20 pages, 6 figures. Project Homepage: https://skcc.nexa-lang.com/ Code Repo: https://github.com/Nexa-Language/Skill-Compiler/</p></details> |
-| **[ScanWeaver: Compiler-Driven Parallelization of Affine Recurrences via Associative Scan Lowering](https://arxiv.org/abs/2606.00601v1)** | 2026-05-30 | 11 pages, 1 figure |
-| **[Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling](https://arxiv.org/abs/2605.21470v2)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted at ICML 2026</p></details> |
-| **[Compile to Compress: Boosting Formal Theorem Provers by Compiler Outputs](https://arxiv.org/abs/2604.18587v2)** | 2026-05-29 |  |
-| **[Fighting Numerical Hallucinations via Data-centric Compilation for Online Financial QA](https://arxiv.org/abs/2605.31064v1)** | 2026-05-29 | <details><summary>Accep...</summary><p>Accepted by KDD 2026 ADS track</p></details> |
-| **[TraceCodec: A Compiler-Backed Neural Codec for Stateful Multi-Flow Network Traffic Traces](https://arxiv.org/abs/2605.29941v1)** | 2026-05-28 |  |
-| **[CompilerDream: Learning a Compiler World Model for General Code Optimization](https://arxiv.org/abs/2404.16077v4)** | 2026-05-28 | <details><summary>KDD 2...</summary><p>KDD 2025 camera-ready version with extended appendix. Code is available at https://github.com/thuml/CompilerDream. This update additionally fixes an issue in Table 6 where the dataset names in three rows were ordered incorrectly</p></details> |
-| **[PassNet: Scaling Large Language Models for Graph Compiler Pass Generation](https://arxiv.org/abs/2605.29357v1)** | 2026-05-28 | <details><summary>Code ...</summary><p>Code and data available at https://github.com/PaddlePaddle/PassNet</p></details> |
-| **[Grammar-Aware Literate Generative Mathematical Programming with Compiler-in-the-Loop](https://arxiv.org/abs/2601.17670v2)** | 2026-05-28 | 18 pages, 7 figures |
-| **[Can We Formally Verify Neural PDE Surrogates? SMT Compilation of Small Fourier Neural Operators](https://arxiv.org/abs/2605.08938v2)** | 2026-05-27 |  |
-| **[Compile-Time Simplification of Classically Controlled Operations in Dynamic Circuits](https://arxiv.org/abs/2605.28439v1)** | 2026-05-27 | <details><summary>Accep...</summary><p>Accepted at ISC High Performance 2026; to appear in the IEEE Xplore proceedings</p></details> |
+| **[A Dual-Mode Faust-to-CLAP Compilation System](https://arxiv.org/abs/2606.13193v1)** | 2026-06-11 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, 1 algorithm. Presented at the International Faust Conference (IFC-26), Lyon, France, June 2026</p></details> |
+| **[Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents](https://arxiv.org/abs/2606.13174v1)** | 2026-06-11 |  |
+| **[nomp: A Framework for Building Domain Specific Compilers](https://arxiv.org/abs/2606.12650v1)** | 2026-06-10 |  |
+| **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/abs/2606.12400v1)** | 2026-06-10 | 20 pages |
+| **[nnAudio 2: Overcoming Dynamic Compilation Barriers and Transform Inconsistencies](https://arxiv.org/abs/2606.05394v2)** | 2026-06-10 |  |
+| **[MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://arxiv.org/abs/2512.22219v2)** | 2026-06-10 | 14 pages |
+| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v2)** | 2026-06-09 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
+| **[Provenance Tracking in AI Compilers through the Lens of Coalgebra](https://arxiv.org/abs/2606.10937v1)** | 2026-06-09 |  |
+| **[Anything2Skill: Compiling External Knowledge into Reusable Skills for Agents](https://arxiv.org/abs/2606.09316v2)** | 2026-06-09 |  |
+| **[Compiling Rewrite Rules to Finite-State Transducers with the Worsening Trick](https://arxiv.org/abs/2606.10059v1)** | 2026-06-08 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, tool track proceedings at CIAA 2026</p></details> |
+| **[ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies](https://arxiv.org/abs/2606.09630v1)** | 2026-06-08 | 19 pages, 7 figures |
+| **[SNN-MLIR: An MLIR Dialect for Compiling Neuromorphic SNNs from NIR to Bare-Metal C](https://arxiv.org/abs/2606.09213v1)** | 2026-06-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
+| **[Compile Once, Differentiate Everywhere: A Differentiable Meta-Circular Interpreter](https://arxiv.org/abs/2606.09930v1)** | 2026-06-07 |  |
+| **[Tensor Algebraic Property Skeletons: Amplifying Property-Based Testing for AI Compilers](https://arxiv.org/abs/2606.06747v1)** | 2026-06-04 |  |
+| **[Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection for Early Fault-Tolerant Systems](https://arxiv.org/abs/2606.07666v1)** | 2026-06-04 | <details><summary>16 pa...</summary><p>16 pages, 15 figures, Springer LNCS format. Code available at https://github.com/Sumitchongder/quantum-hw-aware-pipeline</p></details> |
 
