@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 15, 2026
+title: Latest 15 Papers - June 22, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix](https://arxiv.org/abs/2606.19474v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted for 2026 SIGIR Workshop on Vulnerabilities in Generative Systems for Information Retrieval track</p></details> |
+| **[SPARK: Security Knowledge Priming and Representation-Guided Knowledge Activation for LLM-based Secure Code Generation](https://arxiv.org/abs/2606.16244v1)** | 2026-06-15 |  |
 | **[Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749v1)** | 2026-06-09 |  |
 | **[Benchmarking and Exploring the Capabilities of LLMs for Attack Investigations](https://arxiv.org/abs/2606.10281v1)** | 2026-06-09 |  |
 | **[Data Agents Under Attack: Vulnerabilities in LLM-Driven Analytical Systems](https://arxiv.org/abs/2606.08661v1)** | 2026-06-07 |  |
@@ -39,12 +41,12 @@ labels: documentation
 | **[Poisoning the Watchtower: Prompt Injection Attacks Against LLM-Augmented Security Operations Through Adversarial Log Content](https://arxiv.org/abs/2605.24421v1)** | 2026-05-23 | 10 pages |
 | **[Reframing LLM Agent Security as an Agent-Human Interaction Problem](https://arxiv.org/abs/2605.24309v1)** | 2026-05-23 |  |
 | **[Enhancing Reliability in LLM-Based Secure Code Generation](https://arxiv.org/abs/2605.24300v1)** | 2026-05-22 | <details><summary>15 pa...</summary><p>15 pages; 7 tables; 3 figures</p></details> |
-| **[Evaluating Prompt Injection Defenses for Educational LLM Tutors: Security-Usability-Latency Trade-offs](https://arxiv.org/abs/2605.06669v2)** | 2026-05-21 | <details><summary>19 pa...</summary><p>19 pages, 4 figures, 9 tables</p></details> |
-| **[M3: Conversational LLMs Simplify Secure Clinical Data Access, Understanding, and Analysis](https://arxiv.org/abs/2507.01053v4)** | 2026-05-20 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, 3 tables</p></details> |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Multi-View Decompilation for LLM-Based Malware Classification](https://arxiv.org/abs/2606.20436v1)** | 2026-06-18 |  |
+| **[Binary Decompilation LLM with Feedback-Driven Multi-Turn Refinement](https://arxiv.org/abs/2606.16162v1)** | 2026-06-15 |  |
 | **[SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers](https://arxiv.org/abs/2605.29059v1)** | 2026-05-27 |  |
 | **[Decaf: Improving Neural Decompilation with Automatic Feedback and Search](https://arxiv.org/abs/2605.11501v1)** | 2026-05-12 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Preprint; under review. Code and models available at https://github.com/AlexShypula/decaf</p></details> |
 | **[SCRIBE: Practical Static Binary Patching via Binary-Aware Recompilation of Decompiled Code](https://arxiv.org/abs/2605.02121v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at the 11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)</p></details> |
@@ -58,25 +60,23 @@ labels: documentation
 | **[HELIOS: Hierarchical Graph Abstraction for Structure-Aware LLM Decompilation](https://arxiv.org/abs/2601.14598v2)** | 2026-01-31 |  |
 | **[A Decompilation-Driven Framework for Malware Detection with Large Language Models](https://arxiv.org/abs/2601.09035v1)** | 2026-01-14 | <details><summary>6 pag...</summary><p>6 pages, published in 2025 IEMCON</p></details> |
 | **[NeuroDeX: Unlocking Diverse Support in Decompiling Deep Neural Network Executables](https://arxiv.org/abs/2509.06402v2)** | 2025-11-03 |  |
-| **[FidelityGPT: Correcting Decompilation Distortions with Retrieval Augmented Generation](https://arxiv.org/abs/2510.19615v1)** | 2025-10-22 |  |
-| **[Decompile-Bench: Million-Scale Binary-Source Function Pairs for Real-World Binary Decompilation](https://arxiv.org/abs/2505.12668v2)** | 2025-10-19 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning](https://arxiv.org/abs/2606.20373v1)** | 2026-06-18 |  |
+| **[Tensor Algebraic Property Skeletons: Amplifying Property-Based Testing for AI Compilers](https://arxiv.org/abs/2606.06747v2)** | 2026-06-18 | <details><summary>v2 ad...</summary><p>v2 adds citations and fixes some typos</p></details> |
+| **[Finding Compiler-Platform Interaction Bugs in Deep Learning Pipelines via Cross-Layer Constraints](https://arxiv.org/abs/2606.18421v1)** | 2026-06-16 |  |
+| **[The Program Hypergraph: Multi-Way Relational Structure for Geometric Algebra, Spatial Compute, and Physics-Aware Compilation](https://arxiv.org/abs/2603.17627v4)** | 2026-06-16 | <details><summary>31 pa...</summary><p>31 pages, 1 figure, 2 tables</p></details> |
+| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v7)** | 2026-06-16 | <details><summary>33 pa...</summary><p>33 pages, 8 tables, 3 appendices with extended examples</p></details> |
+| **[ACC: Compiling Agent Trajectories for Long-Context Training](https://arxiv.org/abs/2605.21850v2)** | 2026-06-14 |  |
+| **[Unassigned Agents in Compilation-based Multi-agent Path Finding](https://arxiv.org/abs/2606.15797v1)** | 2026-06-14 |  |
+| **[Rumoca: Modelica as a Universal Algebraic Frontend via a Rust-Native Compiler](https://arxiv.org/abs/2606.14998v1)** | 2026-06-12 |  |
+| **[Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](https://arxiv.org/abs/2512.18021v3)** | 2026-06-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 2 tables</p></details> |
+| **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v3)** | 2026-06-11 | <details><summary>Versi...</summary><p>Version 3: Preprint version of the accepted work at ACM TACO 2026</p></details> |
 | **[A Dual-Mode Faust-to-CLAP Compilation System](https://arxiv.org/abs/2606.13193v1)** | 2026-06-11 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, 1 algorithm. Presented at the International Faust Conference (IFC-26), Lyon, France, June 2026</p></details> |
 | **[Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents](https://arxiv.org/abs/2606.13174v1)** | 2026-06-11 |  |
 | **[nomp: A Framework for Building Domain Specific Compilers](https://arxiv.org/abs/2606.12650v1)** | 2026-06-10 |  |
 | **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/abs/2606.12400v1)** | 2026-06-10 | 20 pages |
 | **[nnAudio 2: Overcoming Dynamic Compilation Barriers and Transform Inconsistencies](https://arxiv.org/abs/2606.05394v2)** | 2026-06-10 |  |
-| **[MPK: A Compiler and Runtime for Mega-Kernelizing Tensor Programs](https://arxiv.org/abs/2512.22219v2)** | 2026-06-10 | 14 pages |
-| **[Compiler-First State Space Duality and Portable $O(1)$ Autoregressive Caching for Inference](https://arxiv.org/abs/2603.09555v2)** | 2026-06-09 | <details><summary>21 pa...</summary><p>21 pages, 6 figures. Code available at: https://github.com/CosmoNaught/mamba2-jax</p></details> |
-| **[Provenance Tracking in AI Compilers through the Lens of Coalgebra](https://arxiv.org/abs/2606.10937v1)** | 2026-06-09 |  |
-| **[Anything2Skill: Compiling External Knowledge into Reusable Skills for Agents](https://arxiv.org/abs/2606.09316v2)** | 2026-06-09 |  |
-| **[Compiling Rewrite Rules to Finite-State Transducers with the Worsening Trick](https://arxiv.org/abs/2606.10059v1)** | 2026-06-08 | <details><summary>17 pa...</summary><p>17 pages, 6 figures, tool track proceedings at CIAA 2026</p></details> |
-| **[ReCoVLA: VLM-Guided Reward Compilation for Failure Recovery in Vision-Language-Action Policies](https://arxiv.org/abs/2606.09630v1)** | 2026-06-08 | 19 pages, 7 figures |
-| **[SNN-MLIR: An MLIR Dialect for Compiling Neuromorphic SNNs from NIR to Bare-Metal C](https://arxiv.org/abs/2606.09213v1)** | 2026-06-08 | <details><summary>8 pag...</summary><p>8 pages, 5 figures, 5 tables</p></details> |
-| **[Compile Once, Differentiate Everywhere: A Differentiable Meta-Circular Interpreter](https://arxiv.org/abs/2606.09930v1)** | 2026-06-07 |  |
-| **[Tensor Algebraic Property Skeletons: Amplifying Property-Based Testing for AI Compilers](https://arxiv.org/abs/2606.06747v1)** | 2026-06-04 |  |
-| **[Hardware-aware Low-latency Quantum Compilation with Data-driven Lightweight Error Detection for Early Fault-Tolerant Systems](https://arxiv.org/abs/2606.07666v1)** | 2026-06-04 | <details><summary>16 pa...</summary><p>16 pages, 15 figures, Springer LNCS format. Code available at https://github.com/Sumitchongder/quantum-hw-aware-pipeline</p></details> |
 
