@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - June 22, 2026
+title: Latest 15 Papers - June 29, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,13 +45,13 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[CoDe-R: Refining Decompiler Output with LLMs via Rationale Guidance and Adaptive Inference](https://arxiv.org/abs/2604.12913v2)** | 2026-06-22 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 6 tables. Accepted by IJCNN 2026</p></details> |
 | **[Multi-View Decompilation for LLM-Based Malware Classification](https://arxiv.org/abs/2606.20436v1)** | 2026-06-18 |  |
 | **[Binary Decompilation LLM with Feedback-Driven Multi-Turn Refinement](https://arxiv.org/abs/2606.16162v1)** | 2026-06-15 |  |
 | **[SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers](https://arxiv.org/abs/2605.29059v1)** | 2026-05-27 |  |
 | **[Decaf: Improving Neural Decompilation with Automatic Feedback and Search](https://arxiv.org/abs/2605.11501v1)** | 2026-05-12 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Preprint; under review. Code and models available at https://github.com/AlexShypula/decaf</p></details> |
 | **[SCRIBE: Practical Static Binary Patching via Binary-Aware Recompilation of Decompiled Code](https://arxiv.org/abs/2605.02121v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at the 11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)</p></details> |
 | **[Constraint-Guided Multi-Agent Decompilation for Executable Binary Recovery](https://arxiv.org/abs/2604.23940v2)** | 2026-05-01 |  |
-| **[CoDe-R: Refining Decompiler Output with LLMs via Rationale Guidance and Adaptive Inference](https://arxiv.org/abs/2604.12913v1)** | 2026-04-14 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 6 tables. Accepted by IJCNN 2026</p></details> |
 | **[Context-Guided Decompilation: A Step Towards Re-executability](https://arxiv.org/abs/2511.01763v2)** | 2026-04-12 |  |
 | **[LLM4CodeRE: Generative AI for Code Decompilation Analysis and Reverse Engineering](https://arxiv.org/abs/2604.06095v1)** | 2026-04-07 |  |
 | **[LLMs as Idiomatic Decompilers: Recovering High-Level Code from x86-64 Assembly for Dart](https://arxiv.org/abs/2604.02278v1)** | 2026-04-02 | <details><summary>5 pag...</summary><p>5 pages, 1 figure, 3 tables. Accepted at SANER 2026 ERA Track</p></details> |
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning](https://arxiv.org/abs/2606.20373v1)** | 2026-06-18 |  |
-| **[Tensor Algebraic Property Skeletons: Amplifying Property-Based Testing for AI Compilers](https://arxiv.org/abs/2606.06747v2)** | 2026-06-18 | <details><summary>v2 ad...</summary><p>v2 adds citations and fixes some typos</p></details> |
-| **[Finding Compiler-Platform Interaction Bugs in Deep Learning Pipelines via Cross-Layer Constraints](https://arxiv.org/abs/2606.18421v1)** | 2026-06-16 |  |
-| **[The Program Hypergraph: Multi-Way Relational Structure for Geometric Algebra, Spatial Compute, and Physics-Aware Compilation](https://arxiv.org/abs/2603.17627v4)** | 2026-06-16 | <details><summary>31 pa...</summary><p>31 pages, 1 figure, 2 tables</p></details> |
-| **[Dimensional Type Systems and Deterministic Memory Management: Design-Time Semantic Preservation in Native Compilation](https://arxiv.org/abs/2603.16437v7)** | 2026-06-16 | <details><summary>33 pa...</summary><p>33 pages, 8 tables, 3 appendices with extended examples</p></details> |
-| **[ACC: Compiling Agent Trajectories for Long-Context Training](https://arxiv.org/abs/2605.21850v2)** | 2026-06-14 |  |
-| **[Unassigned Agents in Compilation-based Multi-agent Path Finding](https://arxiv.org/abs/2606.15797v1)** | 2026-06-14 |  |
-| **[Rumoca: Modelica as a Universal Algebraic Frontend via a Rust-Native Compiler](https://arxiv.org/abs/2606.14998v1)** | 2026-06-12 |  |
-| **[Shuttling Compiler for Trapped-Ion Quantum Computers Based on Large Language Models](https://arxiv.org/abs/2512.18021v3)** | 2026-06-12 | <details><summary>18 pa...</summary><p>18 pages, 6 figures, 2 tables</p></details> |
-| **[Protean Compiler: An Agile Framework to Drive Fine-grain Phase Ordering](https://arxiv.org/abs/2602.06142v3)** | 2026-06-11 | <details><summary>Versi...</summary><p>Version 3: Preprint version of the accepted work at ACM TACO 2026</p></details> |
-| **[A Dual-Mode Faust-to-CLAP Compilation System](https://arxiv.org/abs/2606.13193v1)** | 2026-06-11 | <details><summary>4 pag...</summary><p>4 pages, 4 figures, 1 algorithm. Presented at the International Faust Conference (IFC-26), Lyon, France, June 2026</p></details> |
-| **[Getting Better at Working With You: Compiling User Corrections into Runtime Enforcement for Coding Agents](https://arxiv.org/abs/2606.13174v1)** | 2026-06-11 |  |
-| **[nomp: A Framework for Building Domain Specific Compilers](https://arxiv.org/abs/2606.12650v1)** | 2026-06-10 |  |
-| **[Doc-to-Atom: Learning to Compile and Compose Memory Atoms](https://arxiv.org/abs/2606.12400v1)** | 2026-06-10 | 20 pages |
-| **[nnAudio 2: Overcoming Dynamic Compilation Barriers and Transform Inconsistencies](https://arxiv.org/abs/2606.05394v2)** | 2026-06-10 |  |
+| **[Sutra: Tensor-Op RNNs as a Compilation Target for Vector Symbolic Architectures](https://arxiv.org/abs/2605.20919v3)** | 2026-06-25 | <details><summary>Modif...</summary><p>Modified NeurIPS submission, see AI declaration and replication materials at end of paper</p></details> |
+| **[CLIR: Liveness-Driven and Structure-Aware Fuzzing for the Cranelift Compiler](https://arxiv.org/abs/2606.26977v1)** | 2026-06-25 |  |
+| **[SKILL-DISCO: Distilling and Compiling Agent Traces into Reusable Procedural Skills](https://arxiv.org/abs/2606.26669v1)** | 2026-06-25 |  |
+| **[Compiler-Driven Approximation Tuning for Hyperdimensional Computing](https://arxiv.org/abs/2606.26547v1)** | 2026-06-25 |  |
+| **[Compiling Code LLMs into Lightweight Executables](https://arxiv.org/abs/2603.29813v3)** | 2026-06-24 | <details><summary>Accep...</summary><p>Accepted at the 34th ACM International Conference on the Foundations of Software Engineering (FSE 2026), 25 pages</p></details> |
+| **[Reading AI Model Compilation in MLIR Through the Lens of Formal Theories](https://arxiv.org/abs/2606.25244v1)** | 2026-06-24 |  |
+| **[Kops: Safely Extending the eBPF Compilation Pipeline with Native Operations](https://arxiv.org/abs/2606.24213v1)** | 2026-06-23 | <details><summary>Yushe...</summary><p>Yusheng Zheng and Zhengjie Ji contributed equally to this work</p></details> |
+| **[VeryTrace: Verifying Reasoning Traces through Compilable Formalism and Structured Verification](https://arxiv.org/abs/2606.24124v1)** | 2026-06-23 | <details><summary>Accep...</summary><p>Accepted at LM4Plan Workshop @ ICML 2026</p></details> |
+| **[Concordia: JIT-Compiled Persistent-Kernel Checkpointing for Fault-Tolerant LLM Inference](https://arxiv.org/abs/2606.23521v1)** | 2026-06-22 |  |
+| **[Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications](https://arxiv.org/abs/2606.23512v1)** | 2026-06-22 |  |
+| **[Quantitative quantum soundness for all multipartite compiled nonlocal games](https://arxiv.org/abs/2509.25145v2)** | 2026-06-22 | <details><summary>39 pa...</summary><p>39 pages, 4 figures, 2-page appendix included; comments welcome! 06/26 update: improved exposition and discussions; revised finite-level convergence/flat-optimality statements in Proposition 3.3, 3.8 and Corollary 4.4; abstract and introduction updated accordingly</p></details> |
+| **[Quantitative Quantum Soundness for Bipartite Compiled Bell Games via the Sequential NPA Hierarchy](https://arxiv.org/abs/2507.17006v2)** | 2026-06-22 | <details><summary>44 pa...</summary><p>44 pages, 1 figure, comments welcome. We refer to Cui, Falor, Natarajan, and Zhang for an independent parallel work on the same topic. 06/26 update: corrected the finite-level convergence statement in Corollary 2.9 and Theorem 3.4: finite-dimensional optimality is replaced by finite-level convergence/flat optimality; abstract and introduction updated accordingly</p></details> |
+| **[PowerFlow-DNN: Compiler-Directed Fine-Grained Power Orchestration for End-to-End Edge AI Inference](https://arxiv.org/abs/2603.23882v2)** | 2026-06-19 | <details><summary>Accep...</summary><p>Accepted at ISLPED 2026. Best Paper Nomination</p></details> |
+| **[Anything2Skill: Compiling External Knowledge into Reusable Skills for Agents](https://arxiv.org/abs/2606.09316v3)** | 2026-06-19 |  |
+| **[Compiling Differentiable Audio Graphs to Real-Time DSP](https://arxiv.org/abs/2606.21277v1)** | 2026-06-19 | <details><summary>4 pag...</summary><p>4 pages, 5 figures. Demonstration paper submitted to the 29th International Conference on Digital Audio Effects (DAFx26), Cambridge, MA</p></details> |
 
