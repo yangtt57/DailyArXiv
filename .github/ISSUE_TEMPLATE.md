@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - July 27, 2026
+title: Latest 15 Papers - August 03, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,9 +45,9 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](https://arxiv.org/abs/2607.07738v2)** | 2026-07-24 | <details><summary>10 pa...</summary><p>10 pages, 5 figures; accepted for publication to the 23rd International Conference on Applied Computing 2026, Lisbon October 24-26,2026</p></details> |
 | **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](https://arxiv.org/abs/2506.10125v3)** | 2026-07-13 |  |
 | **[Decompiling for Constant-Time Analysis](https://arxiv.org/abs/2501.04183v4)** | 2026-07-13 |  |
-| **[REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](https://arxiv.org/abs/2607.07738v1)** | 2026-07-07 | <details><summary>9 pag...</summary><p>9 pages, 4 figures; accepted for publication to the 23rd International Conference on Applied Computing 2026, Lisbon October 24-26,2026</p></details> |
 | **[Evaluating Fine-Tuning and Metrics for Neural Decompilation of Dart AOT Binaries](https://arxiv.org/abs/2607.06125v1)** | 2026-07-07 | <details><summary>Under...</summary><p>Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[Decomposer: Learning to Decompile Symbolic Music to Programs](https://arxiv.org/abs/2607.01849v1)** | 2026-07-02 | <details><summary>Proje...</summary><p>Project page: https://yewon-kim.com/decomposer</p></details> |
 | **[CoDe-R: Refining Decompiler Output with LLMs via Rationale Guidance and Adaptive Inference](https://arxiv.org/abs/2604.12913v2)** | 2026-06-22 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 6 tables. Accepted by IJCNN 2026</p></details> |
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Promise of Graph Sparsification and Decomposition for Noise Reduction in QAOA: Analysis for Trapped-Ion Compilations](https://arxiv.org/abs/2406.14330v4)** | 2026-07-30 |  |
+| **[SIGIL: Compiling Agent Skills into Typed Harnesses](https://arxiv.org/abs/2607.27309v1)** | 2026-07-29 |  |
+| **[BMOA: Baseline-Mechanism-Outcome Attribution for Compiler-Induced Numerical Deviations](https://arxiv.org/abs/2607.27270v1)** | 2026-07-29 |  |
+| **[An Empirical Study of Foundation Models for Variability-Induced Compilation Errors in Configurable C Code](https://arxiv.org/abs/2601.16755v2)** | 2026-07-28 |  |
+| **[WarmTuner: Program-Specific Warm Starts for Compiler Autotuning via Offline-to-Online Reinforcement Learning](https://arxiv.org/abs/2607.25831v1)** | 2026-07-28 | 11 pages, 2 figures |
+| **[Demystifying Deep Learning Compiler Frontend Bugs: An LLM-Aided Empirical Study](https://arxiv.org/abs/2607.25651v1)** | 2026-07-28 |  |
+| **[COVENANT: Natural-Language Workflow Compilation for Aligned Agent Execution](https://arxiv.org/abs/2607.25400v1)** | 2026-07-28 | 12 pages, 7 figures |
+| **[Functionally Grading the Slicing Process by Compiling Design Intent into Slicer Projects](https://arxiv.org/abs/2607.25326v1)** | 2026-07-28 |  |
+| **[Efficient LLM-Generated Shuttling Compilers for Complex Trapped-Ion Architectures](https://arxiv.org/abs/2607.24714v1)** | 2026-07-27 | <details><summary>56 pa...</summary><p>56 pages, 6 figures, 7 tables</p></details> |
+| **[All for one and none forall: Compiling polymorphic relations without monomorphization](https://arxiv.org/abs/2607.24678v1)** | 2026-07-27 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, submitted to miniKanren and Relational Programming Workshop 2026, for associated repo see https://github.com/sporkl/semiringkanren</p></details> |
+| **[Compiler-Grounded Hierarchical Diagnosis for LLM-Based Triton Kernel Optimization](https://arxiv.org/abs/2607.23089v1)** | 2026-07-25 |  |
+| **[An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865v2)** | 2026-07-25 |  |
+| **[CrypTorch: PyTorch-based Auto-tuning Compiler for Machine Learning with Multi-party Computation](https://arxiv.org/abs/2511.19711v2)** | 2026-07-23 | <details><summary>20 pa...</summary><p>20 pages, 17 figures. Submitted to ATC 2026</p></details> |
 | **[Compile, Then Page: Executable SOP Programs and a Capability-Gated Runtime for Procedural LLM Agents](https://arxiv.org/abs/2607.11346v3)** | 2026-07-23 | <details><summary>9 pag...</summary><p>9 pages, 3 figures, 5 tables</p></details> |
 | **[ARGON: A GNN-Empowered Compilation Framework for Scalable Neutral Atom Computing](https://arxiv.org/abs/2607.21216v1)** | 2026-07-23 |  |
-| **[Compiling to recurrent neurons](https://arxiv.org/abs/2511.14953v2)** | 2026-07-23 |  |
-| **[CompilerKV: Risk-Adaptive KV Compression via Offline Experience Compilation](https://arxiv.org/abs/2602.08686v3)** | 2026-07-21 |  |
-| **[HERAKLES: Hierarchical Skill Compilation for Open-ended LLM Agents](https://arxiv.org/abs/2508.14751v2)** | 2026-07-21 | 42 pages |
-| **[Portable models as a replacement for industrial heuristics in compiler optimizations](https://arxiv.org/abs/2607.17389v1)** | 2026-07-19 | <details><summary>9 pag...</summary><p>9 pages, 13 figures, 5 tables, 28 references</p></details> |
-| **[WingSpan: Concurrency and Dependence for Sparse and Structured Tensor Compilers](https://arxiv.org/abs/2606.20855v2)** | 2026-07-18 | 13 pages, 16 figures |
-| **[Mitigating Compiler Fusion-Induced Power Bursts in Mobile NPU Inference as the Battery Depletes](https://arxiv.org/abs/2607.16555v1)** | 2026-07-17 | 16 pages, 6 figures |
-| **[An MLIR-Based Compilation Method for Large Language Models](https://arxiv.org/abs/2607.15865v1)** | 2026-07-17 |  |
-| **[GapForge: Directed Compiler Fuzzing via Coverage-Gap Analysis](https://arxiv.org/abs/2607.15762v1)** | 2026-07-17 |  |
-| **[Generative Compilation: On-the-Fly Compiler Feedback as AI Generates Code](https://arxiv.org/abs/2607.13921v2)** | 2026-07-16 |  |
-| **[Ground-Side Mission Plan Compilation with Policy-as-Code Guardrails for Cloud-Native Satellite Platforms](https://arxiv.org/abs/2607.14798v1)** | 2026-07-16 | <details><summary>13 pa...</summary><p>13 pages. Extended version of the paper accepted at IEEE SMC-IT/SCC 2026 (Space Mission Challenges for Information Technology / Space Computing Conference); adds a unified GPU+CPU DRA quota and a scheduler-level accelerator fallback re-validated on Kueue v0.18.3</p></details> |
-| **[VQCSim: When Does Compile-Once Statevector Simulation Beat Generic Quantum Frameworks?](https://arxiv.org/abs/2607.11985v2)** | 2026-07-15 | <details><summary>Accep...</summary><p>Accepted at IEEE/ACM International Conference on Computer-Aided Design (ICCAD 2026), San Jose, CA, USA. 9 pages</p></details> |
-| **[A Distributed Framework for Compiling and Reasoning with d-DNNF](https://arxiv.org/abs/2607.13642v1)** | 2026-07-15 |  |
-| **[From Interpretation to Compilation: Compilation-Based Execution of Semantic Operators [Vision]](https://arxiv.org/abs/2607.13407v1)** | 2026-07-15 |  |
 
