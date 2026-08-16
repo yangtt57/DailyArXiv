@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 10, 2026
+title: Latest 15 Papers - August 17, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,8 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[The CodeInverter Suite: Structure- and Data-Aware Binary Decompilation with Efficient LLMs](https://arxiv.org/abs/2503.07215v3)** | 2026-08-11 |  |
+| **[Statistical Analysis of Executability and Program Equivalence in Decompilation for IoT Vulnerability Detection](https://arxiv.org/abs/2608.06960v1)** | 2026-08-07 | <details><summary>Autho...</summary><p>Author's English translation of the paper accepted for publication (in Japanese) in Toukei Suri (Proceedings of the Institute of Statistical Mathematics)</p></details> |
 | **[NotDec: WebAssembly Decompilation With Inter-Procedural Type Recovery](https://arxiv.org/abs/2608.03286v1)** | 2026-08-04 | Published in ICSE'26 |
 | **[REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](https://arxiv.org/abs/2607.07738v2)** | 2026-07-24 | <details><summary>10 pa...</summary><p>10 pages, 5 figures; accepted for publication to the 23rd International Conference on Applied Computing 2026, Lisbon October 24-26,2026</p></details> |
 | **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](https://arxiv.org/abs/2506.10125v3)** | 2026-07-13 |  |
@@ -58,25 +60,23 @@ labels: documentation
 | **[Decaf: Improving Neural Decompilation with Automatic Feedback and Search](https://arxiv.org/abs/2605.11501v1)** | 2026-05-12 | <details><summary>15 pa...</summary><p>15 pages, 6 figures. Preprint; under review. Code and models available at https://github.com/AlexShypula/decaf</p></details> |
 | **[SCRIBE: Practical Static Binary Patching via Binary-Aware Recompilation of Decompiled Code](https://arxiv.org/abs/2605.02121v1)** | 2026-05-04 | <details><summary>Accep...</summary><p>Accepted at the 11th IEEE European Symposium on Security and Privacy (EuroS&P 2026)</p></details> |
 | **[Constraint-Guided Multi-Agent Decompilation for Executable Binary Recovery](https://arxiv.org/abs/2604.23940v2)** | 2026-05-01 |  |
-| **[Context-Guided Decompilation: A Step Towards Re-executability](https://arxiv.org/abs/2511.01763v2)** | 2026-04-12 |  |
-| **[LLM4CodeRE: Generative AI for Code Decompilation Analysis and Reverse Engineering](https://arxiv.org/abs/2604.06095v1)** | 2026-04-07 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications](https://arxiv.org/abs/2606.23512v2)** | 2026-08-06 |  |
-| **[Activity Frames: Deterministic Screen-Activity Compilation for Agent Memory and Replay](https://arxiv.org/abs/2608.05784v1)** | 2026-08-06 | <details><summary>14 pa...</summary><p>14 pages, 5 figures, 4 tables</p></details> |
-| **[Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-](https://arxiv.org/abs/2608.05545v1)** | 2026-08-06 |  |
-| **[Let it Flow: A Formally Verified Compilation Framework for Asynchronous Dataflow](https://arxiv.org/abs/2608.05451v1)** | 2026-08-05 |  |
-| **[Observing the Quantum Compiler through Automatic Experiment Tracking for Qiskit](https://arxiv.org/abs/2608.05041v1)** | 2026-08-05 |  |
-| **[Towards Datalog on Quantum Annealers: Compiling Recursive Logic Programs with Bottom-up Semantics to 2-local Ising Models](https://arxiv.org/abs/2608.04645v1)** | 2026-08-05 | <details><summary>12 pa...</summary><p>12 pages, 4 pages of appendix, Datalog 2.0 preprint</p></details> |
-| **[Accelerating C/C++ Pointer Analysis via Compiler-Based Offline Simplifications](https://arxiv.org/abs/2608.04466v1)** | 2026-08-05 |  |
-| **[Guiding Compiler Optimizations for Neutral Atom Quantum Computers Through Visualizations](https://arxiv.org/abs/2608.04081v1)** | 2026-08-04 | 2 pages, 2 figures |
-| **[Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?](https://arxiv.org/abs/2608.03983v1)** | 2026-08-04 | 9 pages, 3 figures |
-| **[AgentCompile: An LLM-Guided Compiler for Direct CUDA Inference](https://arxiv.org/abs/2606.07665v2)** | 2026-08-03 | 12 pages, 4 figures |
-| **[E-Graphs as a Persistent Compiler Abstraction](https://arxiv.org/abs/2602.16707v2)** | 2026-08-03 |  |
-| **[TraceCompiler: Skill-Guided Mining and Compilation of LLM Agent Traces into Mostly Deterministic Workflows](https://arxiv.org/abs/2608.02680v1)** | 2026-08-03 | <details><summary>17 pa...</summary><p>17 pages, 4 figures, 5 tables</p></details> |
-| **[Compiler Framework for 3D Neutral-Atom Quantum Computers](https://arxiv.org/abs/2608.01316v1)** | 2026-08-02 | 13 pages, 9 figures |
-| **[DCC: Data-Centric Compilation of Machine Learning Kernels for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v4)** | 2026-08-02 |  |
-| **[PMMC: Prospective Multimodal Memory Compilation for Long-Term LVLM Agents](https://arxiv.org/abs/2608.00962v1)** | 2026-08-02 |  |
+| **[TopoIntent: Compiling Security Intent into Executable, Compliance-Checked Network Topologies](https://arxiv.org/abs/2608.13389v1)** | 2026-08-13 |  |
+| **[CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution](https://arxiv.org/abs/2608.12629v1)** | 2026-08-12 |  |
+| **[IF:CARGO: LLM-Based Semantic Compilation for Al-Native Rule Programming Games](https://arxiv.org/abs/2608.12195v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted to 2026 AAAI Conference on Artificial Intelligence and Digital Interactive Entertainment (AIIDE)</p></details> |
+| **[Graph-Structured Rubrics: Compiling Rubrics into Typed Evaluation Graphs for LLM Judges](https://arxiv.org/abs/2608.12097v1)** | 2026-08-12 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 4 tables</p></details> |
+| **[Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory](https://arxiv.org/abs/2608.11066v1)** | 2026-08-11 | <details><summary>Comme...</summary><p>Comments and suggestions are welcome on alphaXiv</p></details> |
+| **[MazzikaAI: A knowledge-based performance-to-prompt compiler for real-time Arabic maqam accompaniment with a streaming text-to-music model](https://arxiv.org/abs/2608.10360v1)** | 2026-08-11 |  |
+| **[AI Query Compilation for Unified and Optimized Execution](https://arxiv.org/abs/2608.10139v1)** | 2026-08-10 | <details><summary>Proce...</summary><p>Proceedings of the VLDB Endowment, Vol. 14, No. 1 ISSN 2150-8097</p></details> |
+| **[Abstract Compilation as Abstraction of Operator Semantics, applied to Cost Analysis](https://arxiv.org/abs/2608.09769v1)** | 2026-08-10 |  |
+| **[The Unseen Delta: Characterizing the Compiler Optimization Landscape via Top-Down Differential Analysis](https://arxiv.org/abs/2608.09530v1)** | 2026-08-10 | <details><summary>To ap...</summary><p>To appear at ISSTA 2026</p></details> |
+| **[AutoRefine: Compiling Trajectories into Validated Typed Agent Artifacts](https://arxiv.org/abs/2601.22758v2)** | 2026-08-10 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables</p></details> |
+| **[Muscle Memory for Agents: Compile not Merely Retrieve](https://arxiv.org/abs/2608.08995v1)** | 2026-08-10 | 12 pages, 2 figures |
+| **[Compiling Large Multi-Modal Requirement Documents into Runnable Software Systems: From an Agentic Test-Driven Perspective](https://arxiv.org/abs/2602.13723v6)** | 2026-08-09 | <details><summary>This ...</summary><p>This work is accepted at issta'26 (SIGSOFT International Symposium on Software Testing and Analysis)</p></details> |
+| **[Compiling and Benchmarking Task-State Horizons for Embodied Agents](https://arxiv.org/abs/2608.08036v1)** | 2026-08-08 | <details><summary>32 pa...</summary><p>32 pages, including appendices</p></details> |
+| **[ReOC: Compilation of Recursive Quantum Oracles with Recursion-Aware Uncomputation](https://arxiv.org/abs/2608.07973v1)** | 2026-08-08 | <details><summary>168 p...</summary><p>168 pages, including appendices</p></details> |
+| **[Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications](https://arxiv.org/abs/2606.23512v3)** | 2026-08-07 |  |
 
