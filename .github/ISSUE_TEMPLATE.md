@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 17, 2026
+title: Latest 15 Papers - August 24, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,8 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[SkillWatermark: An Embedded Skill Watermark of Progressive Privacy Inference via Benign Prompts](https://arxiv.org/abs/2608.16026v1)** | 2026-08-17 |  |
+| **[Breaking and Defending LLM-Powered Social Media Bot Detection Systems](https://arxiv.org/abs/2608.15893v1)** | 2026-08-16 | <details><summary>Accep...</summary><p>Accepted at ACISP 2026 (Australasian Conference on Information Security and Privacy). Also accepted as a poster at IEEE Symposium on Security and Privacy (S&P) 2026. Published in Pragmatic Cybersecurity 2026, 1(2), 10, https://doi.org/10.53941/pc.2026.100010. 19 pages, 11 figures</p></details> |
 | **[Post-Hoc Trajectory-Risk Certification for Modular LLM-Based Security Agents](https://arxiv.org/abs/2608.05199v1)** | 2026-08-04 | <details><summary>18 pa...</summary><p>18 pages, 11 tables; preprint</p></details> |
 | **[From Chasing Ghosts to Missed Attacks: Perspectives and Perceptions of SOC Practitioners on LLM Integration, Risks, and Readiness](https://arxiv.org/abs/2608.00672v1)** | 2026-08-01 |  |
 | **[Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing](https://arxiv.org/abs/2607.18485v1)** | 2026-07-20 |  |
@@ -39,17 +41,15 @@ labels: documentation
 | **[Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749v1)** | 2026-06-09 |  |
 | **[Benchmarking and Exploring the Capabilities of LLMs for Attack Investigations](https://arxiv.org/abs/2606.10281v1)** | 2026-06-09 |  |
 | **[Data Agents Under Attack: Vulnerabilities in LLM-Driven Analytical Systems](https://arxiv.org/abs/2606.08661v1)** | 2026-06-07 |  |
-| **[LLMs for Secure Hardware Design and Related Problems: Opportunities and Challenges](https://arxiv.org/abs/2605.10807v4)** | 2026-06-04 | <details><summary>Accep...</summary><p>Accepted for 2026 IEEE Computer Society Annual Symposium on VLSI (ISVLSI)</p></details> |
-| **[Benchmarking Large Language Models for Cryptanalysis and Side-Channel Vulnerabilities](https://arxiv.org/abs/2505.24621v3)** | 2026-05-31 | EMNLP'25 Findings |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](https://arxiv.org/abs/2506.10125v4)** | 2026-08-17 |  |
 | **[The CodeInverter Suite: Structure- and Data-Aware Binary Decompilation with Efficient LLMs](https://arxiv.org/abs/2503.07215v3)** | 2026-08-11 |  |
 | **[Statistical Analysis of Executability and Program Equivalence in Decompilation for IoT Vulnerability Detection](https://arxiv.org/abs/2608.06960v1)** | 2026-08-07 | <details><summary>Autho...</summary><p>Author's English translation of the paper accepted for publication (in Japanese) in Toukei Suri (Proceedings of the Institute of Statistical Mathematics)</p></details> |
 | **[NotDec: WebAssembly Decompilation With Inter-Procedural Type Recovery](https://arxiv.org/abs/2608.03286v1)** | 2026-08-04 | Published in ICSE'26 |
 | **[REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](https://arxiv.org/abs/2607.07738v2)** | 2026-07-24 | <details><summary>10 pa...</summary><p>10 pages, 5 figures; accepted for publication to the 23rd International Conference on Applied Computing 2026, Lisbon October 24-26,2026</p></details> |
-| **[D-LiFT: Improving LLM-based Decompiler Backend via Code Quality-driven Fine-tuning](https://arxiv.org/abs/2506.10125v3)** | 2026-07-13 |  |
 | **[Decompiling for Constant-Time Analysis](https://arxiv.org/abs/2501.04183v4)** | 2026-07-13 |  |
 | **[Evaluating Fine-Tuning and Metrics for Neural Decompilation of Dart AOT Binaries](https://arxiv.org/abs/2607.06125v1)** | 2026-07-07 | <details><summary>Under...</summary><p>Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
 | **[Decomposer: Learning to Decompile Symbolic Music to Programs](https://arxiv.org/abs/2607.01849v1)** | 2026-07-02 | <details><summary>Proje...</summary><p>Project page: https://yewon-kim.com/decomposer</p></details> |
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays](https://arxiv.org/abs/2608.20164v1)** | 2026-08-20 | 20 pages, 16 figures |
+| **[Formal Performance and Compile Time Guarantees for Compiler Optimization Heuristics](https://arxiv.org/abs/2608.20137v1)** | 2026-08-20 | <details><summary>To ap...</summary><p>To appear in Formal Methods in Computer-Aided Design 2026 (FMCAD '26) Student Forum. 3 pages</p></details> |
+| **[When Automata Meet Streams: Temporal Logic Compilation for Stream-Based Robotics Task and Motion Planning](https://arxiv.org/abs/2608.19453v1)** | 2026-08-19 |  |
+| **[Pre-Compiled Pipeline Shards for Distributed LLM Inference on Intel AI PC Fleets](https://arxiv.org/abs/2608.19147v1)** | 2026-08-19 |  |
+| **[Engine-Transfer-Bench: An Evidence-Based Benchmark for Document Compilation Engine Selection](https://arxiv.org/abs/2608.18329v1)** | 2026-08-18 | <details><summary>8 pag...</summary><p>8 pages in ACM two-column format. Dataset and replication package: https://doi.org/10.5281/zenodo.21831918</p></details> |
+| **[Compiling WebAssembly Concolic Execution with Staging, Continuations, and Snapshots (Extended Version)](https://arxiv.org/abs/2608.18327v1)** | 2026-08-18 | <details><summary>29 pa...</summary><p>29 pages; preprint of paper accepted at OOPSLA 2026</p></details> |
+| **[Neuro-symbolic learning over OWL 2 DL via consequence-based compilation to differentiable circuits](https://arxiv.org/abs/2608.17741v1)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted at NeSy 2026</p></details> |
+| **[Code as Representation: A Compilable Parsing Paradigm for Academic Documents](https://arxiv.org/abs/2608.17550v1)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted by ACM MM 2026</p></details> |
+| **[Automatically Generating ML Compiler Backends from Tensor Accelerator ISA Descriptions](https://arxiv.org/abs/2510.09932v2)** | 2026-08-18 | <details><summary>Accep...</summary><p>Accepted at OOPSLA 2026</p></details> |
+| **[Bounded Semantic Planning and Deterministic Compilation for Reliable Enterprise Text-to-SQL](https://arxiv.org/abs/2608.16663v1)** | 2026-08-17 | <details><summary>10 se...</summary><p>10 sections, 2 figures, 6 tables. Preprint. Code and research artifacts are described in the manuscript</p></details> |
+| **[Single-Round Vector RAG vs an LLM-Compiled Wiki: A Preregistered Comparison on a Small Multi-Domain Research Corpus](https://arxiv.org/abs/2605.18490v2)** | 2026-08-16 | <details><summary>v2: t...</summary><p>v2: two-judge reanalysis of the decomposition-RAG ablation (groundedness advantage +1.15 to +0.15); H3a adjudicated; one registered-plan deviation disclosed; artifact deposit at osf.io/j37b8; title corrected</p></details> |
+| **[KEM-IND-CCA-Preserving Compilation of Jasmin's ML-KEM](https://arxiv.org/abs/2511.11292v2)** | 2026-08-16 |  |
+| **[Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents](https://arxiv.org/abs/2608.15071v1)** | 2026-08-15 |  |
+| **[T-LLM Compiler: Trusted LLM-based Code Optimization and Verification Framework](https://arxiv.org/abs/2608.14953v1)** | 2026-08-15 |  |
 | **[TopoIntent: Compiling Security Intent into Executable, Compliance-Checked Network Topologies](https://arxiv.org/abs/2608.13389v1)** | 2026-08-13 |  |
-| **[CAKE: Compiler-Agent Co-Design for Frontier Kernel Evolution](https://arxiv.org/abs/2608.12629v1)** | 2026-08-12 |  |
-| **[IF:CARGO: LLM-Based Semantic Compilation for Al-Native Rule Programming Games](https://arxiv.org/abs/2608.12195v1)** | 2026-08-12 | <details><summary>Accep...</summary><p>Accepted to 2026 AAAI Conference on Artificial Intelligence and Digital Interactive Entertainment (AIIDE)</p></details> |
-| **[Graph-Structured Rubrics: Compiling Rubrics into Typed Evaluation Graphs for LLM Judges](https://arxiv.org/abs/2608.12097v1)** | 2026-08-12 | <details><summary>11 pa...</summary><p>11 pages, 4 figures, 4 tables</p></details> |
-| **[Quantum Coordination Advantages in AI State-Tracking Tasks: Semantic Compilation and Latent Memory](https://arxiv.org/abs/2608.11066v1)** | 2026-08-11 | <details><summary>Comme...</summary><p>Comments and suggestions are welcome on alphaXiv</p></details> |
-| **[MazzikaAI: A knowledge-based performance-to-prompt compiler for real-time Arabic maqam accompaniment with a streaming text-to-music model](https://arxiv.org/abs/2608.10360v1)** | 2026-08-11 |  |
-| **[AI Query Compilation for Unified and Optimized Execution](https://arxiv.org/abs/2608.10139v1)** | 2026-08-10 | <details><summary>Proce...</summary><p>Proceedings of the VLDB Endowment, Vol. 14, No. 1 ISSN 2150-8097</p></details> |
-| **[Abstract Compilation as Abstraction of Operator Semantics, applied to Cost Analysis](https://arxiv.org/abs/2608.09769v1)** | 2026-08-10 |  |
-| **[The Unseen Delta: Characterizing the Compiler Optimization Landscape via Top-Down Differential Analysis](https://arxiv.org/abs/2608.09530v1)** | 2026-08-10 | <details><summary>To ap...</summary><p>To appear at ISSTA 2026</p></details> |
-| **[AutoRefine: Compiling Trajectories into Validated Typed Agent Artifacts](https://arxiv.org/abs/2601.22758v2)** | 2026-08-10 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 3 tables</p></details> |
-| **[Muscle Memory for Agents: Compile not Merely Retrieve](https://arxiv.org/abs/2608.08995v1)** | 2026-08-10 | 12 pages, 2 figures |
-| **[Compiling Large Multi-Modal Requirement Documents into Runnable Software Systems: From an Agentic Test-Driven Perspective](https://arxiv.org/abs/2602.13723v6)** | 2026-08-09 | <details><summary>This ...</summary><p>This work is accepted at issta'26 (SIGSOFT International Symposium on Software Testing and Analysis)</p></details> |
-| **[Compiling and Benchmarking Task-State Horizons for Embodied Agents](https://arxiv.org/abs/2608.08036v1)** | 2026-08-08 | <details><summary>32 pa...</summary><p>32 pages, including appendices</p></details> |
-| **[ReOC: Compilation of Recursive Quantum Oracles with Recursion-Aware Uncomputation](https://arxiv.org/abs/2608.07973v1)** | 2026-08-08 | <details><summary>168 p...</summary><p>168 pages, including appendices</p></details> |
-| **[Source-Free Detection and Impact Analysis of Compiler Optimization Problems in Mobile Applications](https://arxiv.org/abs/2606.23512v3)** | 2026-08-07 |  |
 
