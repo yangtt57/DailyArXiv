@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - August 31, 2026
+title: Latest 15 Papers - September 07, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -45,6 +45,7 @@ labels: documentation
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Decoupling is a Necessity: Transformation-Agnostic Decompiled Code Recovery under Optimization and Obfuscation](https://arxiv.org/abs/2608.27889v1)** | 2026-08-28 | <details><summary>Prepr...</summary><p>Preprint. 11 pages, 3 figures, 3 tables</p></details> |
 | **[STILL: Recovering Lowered STL Semantics for LLM-assisted C++ Decompilation](https://arxiv.org/abs/2608.26408v1)** | 2026-08-26 |  |
 | **[ALT4Decompile: Inferring C-aligned Abstract Loop Tree for LLM-Based Binary Decompilation](https://arxiv.org/abs/2509.14646v2)** | 2026-08-25 | 13 pages, 6 figures |
 | **[The Evolution of Binary Decompilation in the Modern Era: A Taxonomy, Literature Review, and Future Perspectives](https://arxiv.org/abs/2608.24955v1)** | 2026-08-25 |  |
@@ -59,24 +60,23 @@ labels: documentation
 | **[CoDe-R: Refining Decompiler Output with LLMs via Rationale Guidance and Adaptive Inference](https://arxiv.org/abs/2604.12913v2)** | 2026-06-22 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 6 tables. Accepted by IJCNN 2026</p></details> |
 | **[Multi-View Decompilation for LLM-Based Malware Classification](https://arxiv.org/abs/2606.20436v1)** | 2026-06-18 |  |
 | **[Binary Decompilation LLM with Feedback-Driven Multi-Turn Refinement](https://arxiv.org/abs/2606.16162v1)** | 2026-06-15 |  |
-| **[SCDBench: A Benchmark for LLM-Based Smart Contract Decompilers](https://arxiv.org/abs/2605.29059v1)** | 2026-05-27 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[WingSpan: Concurrency and Dependence for Sparse and Structured Tensor Compilers](https://arxiv.org/abs/2606.20855v3)** | 2026-08-26 | 13 pages, 16 figures |
-| **[SIGIL: Compiling Agent Skills into Typed Harnesses](https://arxiv.org/abs/2607.27309v2)** | 2026-08-26 |  |
-| **[MeshReduce-U: Compiler-Guided Communication Reduction for Irregular Neural Reductions on Mesh NoCs](https://arxiv.org/abs/2608.26220v1)** | 2026-08-26 | <details><summary>19 pa...</summary><p>19 pages, 7 figures. Extended preprint</p></details> |
-| **[Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-](https://arxiv.org/abs/2608.05545v2)** | 2026-08-26 | <details><summary>98 pa...</summary><p>98 pages, 3 figures. English version (pp. 1-54) followed by a Japanese version (pp. 55-98)</p></details> |
-| **[Ankhdjet: An Open-Source Compiler for Mask-Programmed Ternary Compute-in-ROM on an Open PDK](https://arxiv.org/abs/2608.26206v1)** | 2026-08-26 | 17 pages, 9 figures |
-| **[Interaction Tree Semantics for RISC-V: Bridging Compiler and Hardware Verification](https://arxiv.org/abs/2605.04933v2)** | 2026-08-25 |  |
-| **[PatchWrite: One Line, Not One Section -- Compile-Gated, Validity-Preserving Editing for AI-Drafted Manuscripts](https://arxiv.org/abs/2608.23001v1)** | 2026-08-24 | 12 pages, 7 figures |
-| **[Nova: An End-to-End MLIR Compiler for Deep Learning](https://arxiv.org/abs/2608.00029v2)** | 2026-08-22 |  |
-| **[Tensor Seeks Layout: Formalizing Layout Selection for ML Compilers](https://arxiv.org/abs/2608.21555v1)** | 2026-08-21 |  |
-| **[All for one and none forall: Compiling polymorphic relations without monomorphization](https://arxiv.org/abs/2607.24678v2)** | 2026-08-21 | <details><summary>18 pa...</summary><p>18 pages, 4 figures, submitted to miniKanren and Relational Programming Workshop 2026, for associated repo see https://github.com/sporkl/semiringkanren</p></details> |
-| **[Natural-Language Workflows Are Not Software Yet: Artifact-Driven Compilation for Reliable Agent Execution](https://arxiv.org/abs/2608.21341v1)** | 2026-08-21 | <details><summary>The f...</summary><p>The first two authors contributed equally</p></details> |
-| **[RAG Deserves an Index: Why Ingest-Time Compilation Beats Query-Time Interpretation](https://arxiv.org/abs/2608.20845v1)** | 2026-08-21 | <details><summary>Posit...</summary><p>Position paper. 6 pages, 2 figures, 2 tables</p></details> |
-| **[Compiling WebAssembly Concolic Execution with Staging, Continuations, and Snapshots (Extended Version)](https://arxiv.org/abs/2608.18327v2)** | 2026-08-21 | <details><summary>29 pa...</summary><p>29 pages; preprint of paper accepted at OOPSLA 2026</p></details> |
-| **[Architecture and Compilation Co-Design for High-Rate Quantum Product Codes on Neutral Atom Arrays](https://arxiv.org/abs/2608.20164v1)** | 2026-08-20 | 20 pages, 16 figures |
-| **[Formal Performance and Compile Time Guarantees for Compiler Optimization Heuristics](https://arxiv.org/abs/2608.20137v1)** | 2026-08-20 | <details><summary>To ap...</summary><p>To appear in Formal Methods in Computer-Aided Design 2026 (FMCAD '26) Student Forum. 3 pages</p></details> |
+| **[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://arxiv.org/abs/2609.04199v1)** | 2026-09-03 | <details><summary>EMNLP...</summary><p>EMNLP 2026 System Demonstrations. Demo: https://programasweights.com</p></details> |
+| **[Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization](https://arxiv.org/abs/2606.31002v2)** | 2026-09-03 | <details><summary>Revis...</summary><p>Revised version: adds expanded human calibration, a same-sample comparison with LeanScorer, independent-judge and threshold-sensitivity analyses, and a BEq formal cross-check; reframes the main contribution around semantic-faithfulness evaluation. 5 figures</p></details> |
+| **[Decoupling Disaggregated Memory Optimizations from Indexing: A Compiler-Runtime Approach](https://arxiv.org/abs/2609.02669v1)** | 2026-09-02 |  |
+| **[PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation](https://arxiv.org/abs/2609.02272v1)** | 2026-09-02 | 9 pages |
+| **[Nova: An End-to-End MLIR Compiler for Deep Learning](https://arxiv.org/abs/2608.00029v3)** | 2026-09-02 |  |
+| **[GadIR: A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation](https://arxiv.org/abs/2609.01771v1)** | 2026-09-01 | <details><summary>59th ...</summary><p>59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
+| **[Compile, Don't Memorize: A Context Compilation Architecture (CCA) for In-Context Learning](https://arxiv.org/abs/2609.00759v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Findings). Code, data, and cached completions available at https://github.com/TonyQJH/cca-emnlp2026</p></details> |
+| **[Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents](https://arxiv.org/abs/2608.15071v2)** | 2026-08-30 | EMNLP 2026 Main |
+| **[JITterFlip: Uncovering Fault Attack Surfaces in JIT-Compiled LLM Serving](https://arxiv.org/abs/2608.29745v1)** | 2026-08-30 |  |
+| **[LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge](https://arxiv.org/abs/2608.29612v1)** | 2026-08-30 | <details><summary>15 (m...</summary><p>15 (main text) + 6 (SM) pages, 4 + 1 figures</p></details> |
+| **[View-oriented Conversation Compiler for Agent Trace Analysis](https://arxiv.org/abs/2603.29678v3)** | 2026-08-30 | <details><summary>Code:...</summary><p>Code: https://github.com/lllyasviel/VCC</p></details> |
+| **[DCC: Data-Centric Compilation of Machine Learning Kernels for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v5)** | 2026-08-28 |  |
+| **[MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation](https://arxiv.org/abs/2608.28300v1)** | 2026-08-28 |  |
+| **[URIUM: A Programming Language for a Practical Open Course on Compiler Design](https://arxiv.org/abs/2608.28202v1)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 13 figures. All course content, including the source code for each lecture, is available at the following link: https://github.com/fran-moreno-velo/urium</p></details> |
+| **[Plateau-Constrained Selection of Commuting Phase-Term Orderings Under a Fixed Maintained-Parity Compiler Contract](https://arxiv.org/abs/2608.27592v1)** | 2026-08-27 | <details><summary>28 pa...</summary><p>28 pages, 9 figures. Under review at IEEE Transactions on Quantum Engineering</p></details> |
 
