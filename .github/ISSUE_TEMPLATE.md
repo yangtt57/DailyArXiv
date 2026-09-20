@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 07, 2026
+title: Latest 15 Papers - September 21, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,6 +26,11 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v3)** | 2026-09-12 |  |
+| **[Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security](https://arxiv.org/abs/2607.18063v2)** | 2026-09-11 | <details><summary>Secon...</summary><p>Second Workshop on Agents in the Wild: Safety, Security, and Beyond</p></details> |
+| **[Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation](https://arxiv.org/abs/2609.10707v1)** | 2026-09-09 | 21 pages |
+| **[LLMSec-AV: A Vulnerability Taxonomy and LLM-Driven Software Weakness Discovery Framework for Autonomous Vehicles](https://arxiv.org/abs/2609.09386v1)** | 2026-09-08 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 4 tables</p></details> |
+| **[Guiding AI to Fix Its Own Flaws: An Empirical Study on LLM-Driven Secure Code Generation](https://arxiv.org/abs/2506.23034v2)** | 2026-09-04 |  |
 | **[Toward Secure LLM Agents: Threat Surfaces, Attacks, Defenses, and Evaluation](https://arxiv.org/abs/2606.10749v2)** | 2026-08-23 |  |
 | **[Enhancing User Resilience Against AI-Augmented Phishing: A Two-Stage Framework for Detection and Personalized Training](https://arxiv.org/abs/2608.21547v1)** | 2026-08-21 | <details><summary>7 pag...</summary><p>7 pages, 2 figures, 2 tables. Published in the Journal of The Colloquium for Information Systems Security Education</p></details> |
 | **[aiXamine: Unified Black-Box Evaluation of Cross-Dimensional Trade-offs in LLM Safety, Security, and Privacy](https://arxiv.org/abs/2608.20554v1)** | 2026-08-20 |  |
@@ -34,17 +39,16 @@ labels: documentation
 | **[Post-Hoc Trajectory-Risk Certification for Modular LLM-Based Security Agents](https://arxiv.org/abs/2608.05199v1)** | 2026-08-04 | <details><summary>18 pa...</summary><p>18 pages, 11 tables; preprint</p></details> |
 | **[From Chasing Ghosts to Missed Attacks: Perspectives and Perceptions of SOC Practitioners on LLM Integration, Risks, and Readiness](https://arxiv.org/abs/2608.00672v1)** | 2026-08-01 |  |
 | **[Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing](https://arxiv.org/abs/2607.18485v1)** | 2026-07-20 |  |
-| **[Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security](https://arxiv.org/abs/2607.18063v1)** | 2026-07-20 | <details><summary>Secon...</summary><p>Second Workshop on Agents in the Wild: Safety, Security, and Beyond</p></details> |
 | **[Heimdallr: Characterizing and Detecting LLM-Induced Security Risks in GitHub CI Workflows](https://arxiv.org/abs/2605.05969v2)** | 2026-07-09 |  |
 | **[Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis](https://arxiv.org/abs/2607.05842v1)** | 2026-07-07 |  |
-| **[SoK: Systematizing LLM Prompt Security: Taxonomies, Datasets, and Unified Evaluation of Attacks and Defenses](https://arxiv.org/abs/2510.15476v3)** | 2026-07-04 |  |
-| **[LLM agents security duality: a comprehensive survey of self-security and empowered cybersecurity](https://arxiv.org/abs/2606.28450v1)** | 2026-06-26 | <details><summary>73 pa...</summary><p>73 pages,12 figures, 9 tables, Artificial Intelligence Review</p></details> |
-| **[Secure Coding Drift in LLM-Assisted Post-Quantum Cryptography Development: A Gamified Fix](https://arxiv.org/abs/2606.19474v1)** | 2026-06-17 | <details><summary>Accep...</summary><p>Accepted for 2026 SIGIR Workshop on Vulnerabilities in Generative Systems for Information Retrieval track</p></details> |
-| **[Benchmarking and Exploring the Capabilities of LLMs for Attack Investigations](https://arxiv.org/abs/2606.10281v1)** | 2026-06-09 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Echo: Learning-based Matching Decompilation using Trusted Back Translation](https://arxiv.org/abs/2609.18706v1)** | 2026-09-16 | 19 pages, 8 figures |
+| **[A Memorization Floor for LLM Refinement of Decompiled Code](https://arxiv.org/abs/2609.17236v1)** | 2026-09-15 | <details><summary>29 pa...</summary><p>29 pages. Pre-registered; analysis plan committed before data collection. Replication package: https://doi.org/10.5281/zenodo.21968878</p></details> |
+| **[Recompilation Is Not Enough: Test-Guided Decompiled-C Repair](https://arxiv.org/abs/2609.07201v1)** | 2026-09-07 | 5 pages, 2 figures |
+| **[When LLM Decompilers Recompile More and Preserve Less](https://arxiv.org/abs/2609.05370v1)** | 2026-09-04 |  |
 | **[Decoupling is a Necessity: Transformation-Agnostic Decompiled Code Recovery under Optimization and Obfuscation](https://arxiv.org/abs/2608.27889v1)** | 2026-08-28 | <details><summary>Prepr...</summary><p>Preprint. 11 pages, 3 figures, 3 tables</p></details> |
 | **[STILL: Recovering Lowered STL Semantics for LLM-assisted C++ Decompilation](https://arxiv.org/abs/2608.26408v1)** | 2026-08-26 |  |
 | **[ALT4Decompile: Inferring C-aligned Abstract Loop Tree for LLM-Based Binary Decompilation](https://arxiv.org/abs/2509.14646v2)** | 2026-08-25 | 13 pages, 6 figures |
@@ -56,27 +60,23 @@ labels: documentation
 | **[REFORGE: A Method for Benchmarking LLMs' Reverse Engineering Capabilities in Decompiled Binary Function Naming](https://arxiv.org/abs/2607.07738v2)** | 2026-07-24 | <details><summary>10 pa...</summary><p>10 pages, 5 figures; accepted for publication to the 23rd International Conference on Applied Computing 2026, Lisbon October 24-26,2026</p></details> |
 | **[Decompiling for Constant-Time Analysis](https://arxiv.org/abs/2501.04183v4)** | 2026-07-13 |  |
 | **[Evaluating Fine-Tuning and Metrics for Neural Decompilation of Dart AOT Binaries](https://arxiv.org/abs/2607.06125v1)** | 2026-07-07 | <details><summary>Under...</summary><p>Under review at ACM Transactions on Software Engineering and Methodology (TOSEM)</p></details> |
-| **[Decomposer: Learning to Decompile Symbolic Music to Programs](https://arxiv.org/abs/2607.01849v1)** | 2026-07-02 | <details><summary>Proje...</summary><p>Project page: https://yewon-kim.com/decomposer</p></details> |
-| **[CoDe-R: Refining Decompiler Output with LLMs via Rationale Guidance and Adaptive Inference](https://arxiv.org/abs/2604.12913v2)** | 2026-06-22 | <details><summary>11 pa...</summary><p>11 pages, 7 figures, 6 tables. Accepted by IJCNN 2026</p></details> |
-| **[Multi-View Decompilation for LLM-Based Malware Classification](https://arxiv.org/abs/2606.20436v1)** | 2026-06-18 |  |
-| **[Binary Decompilation LLM with Feedback-Driven Multi-Turn Refinement](https://arxiv.org/abs/2606.16162v1)** | 2026-06-15 |  |
 
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Compile by Training: Turning Natural-Language Specifications into Local Neural Functions](https://arxiv.org/abs/2609.04199v1)** | 2026-09-03 | <details><summary>EMNLP...</summary><p>EMNLP 2026 System Demonstrations. Demo: https://programasweights.com</p></details> |
-| **[Beyond Compilation: Evaluating Faithful Natural-Language-to-Lean Statement Formalization](https://arxiv.org/abs/2606.31002v2)** | 2026-09-03 | <details><summary>Revis...</summary><p>Revised version: adds expanded human calibration, a same-sample comparison with LeanScorer, independent-judge and threshold-sensitivity analyses, and a BEq formal cross-check; reframes the main contribution around semantic-faithfulness evaluation. 5 figures</p></details> |
-| **[Decoupling Disaggregated Memory Optimizations from Indexing: A Compiler-Runtime Approach](https://arxiv.org/abs/2609.02669v1)** | 2026-09-02 |  |
-| **[PaperCompiler: Faithful Paper-to-Code Generation via Repository-Level Specification Compilation](https://arxiv.org/abs/2609.02272v1)** | 2026-09-02 | 9 pages |
-| **[Nova: An End-to-End MLIR Compiler for Deep Learning](https://arxiv.org/abs/2608.00029v3)** | 2026-09-02 |  |
-| **[GadIR: A Spatial-Topology Preserving Compiler for Quantum Many-Body Systems Simulation](https://arxiv.org/abs/2609.01771v1)** | 2026-09-01 | <details><summary>59th ...</summary><p>59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
-| **[Compile, Don't Memorize: A Context Compilation Architecture (CCA) for In-Context Learning](https://arxiv.org/abs/2609.00759v1)** | 2026-09-01 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Findings). Code, data, and cached completions available at https://github.com/TonyQJH/cca-emnlp2026</p></details> |
-| **[Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents](https://arxiv.org/abs/2608.15071v2)** | 2026-08-30 | EMNLP 2026 Main |
-| **[JITterFlip: Uncovering Fault Attack Surfaces in JIT-Compiled LLM Serving](https://arxiv.org/abs/2608.29745v1)** | 2026-08-30 |  |
-| **[LLMs Interpret, Embeddings Organize, Graphs Emerge: Agent-Driven Compilation of Scientific Knowledge](https://arxiv.org/abs/2608.29612v1)** | 2026-08-30 | <details><summary>15 (m...</summary><p>15 (main text) + 6 (SM) pages, 4 + 1 figures</p></details> |
-| **[View-oriented Conversation Compiler for Agent Trace Analysis](https://arxiv.org/abs/2603.29678v3)** | 2026-08-30 | <details><summary>Code:...</summary><p>Code: https://github.com/lllyasviel/VCC</p></details> |
-| **[DCC: Data-Centric Compilation of Machine Learning Kernels for Processing-In-Memory Architectures](https://arxiv.org/abs/2511.15503v5)** | 2026-08-28 |  |
-| **[MaCoPlanner: LLM-Assisted Manual-Compiled Task Planning with Proactive Safety Verification for Robotic Industrial Panel Operation](https://arxiv.org/abs/2608.28300v1)** | 2026-08-28 |  |
-| **[URIUM: A Programming Language for a Practical Open Course on Compiler Design](https://arxiv.org/abs/2608.28202v1)** | 2026-08-28 | <details><summary>18 pa...</summary><p>18 pages, 13 figures. All course content, including the source code for each lecture, is available at the following link: https://github.com/fran-moreno-velo/urium</p></details> |
-| **[Plateau-Constrained Selection of Commuting Phase-Term Orderings Under a Fixed Maintained-Parity Compiler Contract](https://arxiv.org/abs/2608.27592v1)** | 2026-08-27 | <details><summary>28 pa...</summary><p>28 pages, 9 figures. Under review at IEEE Transactions on Quantum Engineering</p></details> |
+| **[BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software](https://arxiv.org/abs/2509.25248v2)** | 2026-09-16 | Accepted at TMLR |
+| **[WaveTLM: Reliable Time-Series Language Modeling through Task Compilation](https://arxiv.org/abs/2609.18812v1)** | 2026-09-16 |  |
+| **[Shuttling Compiler for Trapped-Ion Quantum Computers Based on Fine-Tuned Large Language Models](https://arxiv.org/abs/2512.18021v4)** | 2026-09-15 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 5 tables</p></details> |
+| **[AttnFuse: A Composable DSL for Compiling Attentions to Fused GPU Kernels](https://arxiv.org/abs/2609.13612v1)** | 2026-09-11 |  |
+| **[Handling Imperfections in Subcircuit Compilation for Linear Optical Quantum Computing](https://arxiv.org/abs/2609.13379v1)** | 2026-09-11 |  |
+| **[Serving Agentic Workflows with a Physical-Plan Compiler and Adaptive Runtime](https://arxiv.org/abs/2607.02942v2)** | 2026-09-10 |  |
+| **[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](https://arxiv.org/abs/2609.11923v1)** | 2026-09-10 |  |
+| **[Taming Bitwise Behavior in GPU Kernels with Tensor Core: Black-Box Reconstruction, Compiler Enforcement, and Static Verification](https://arxiv.org/abs/2609.11356v1)** | 2026-09-10 |  |
+| **[SparseDitto: An Agentic Sparse Compilation Framework through Architecture-Aware Synthesis on GPUs](https://arxiv.org/abs/2608.05033v3)** | 2026-09-10 |  |
+| **[SAQC: A SAT-Aware Compilation Framework for QAOA-Based Quantum Optimization](https://arxiv.org/abs/2609.05737v2)** | 2026-09-09 | 7 pages, 6 figures |
+| **[Epoch: Compiling Diffusion Blocks for Sparse MoE Serving](https://arxiv.org/abs/2609.09748v1)** | 2026-09-09 |  |
+| **[Muscle Memory for Agents: Compile not Merely Retrieve](https://arxiv.org/abs/2608.08995v2)** | 2026-09-09 | 12 pages, 2 figures |
+| **[Python in the front, party in the Backline: compiling quantum workloads across CPUs, GPUs, and FPGAs](https://arxiv.org/abs/2609.09270v1)** | 2026-09-08 |  |
+| **[SemBridge: Compiling Consumer Observations into Cross-Stack Communication Plans](https://arxiv.org/abs/2609.08231v1)** | 2026-09-08 |  |
+| **[QROB: Quantifying Realization Overhead in Quantum Compilation via Reverse Construction](https://arxiv.org/abs/2609.07776v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
 
