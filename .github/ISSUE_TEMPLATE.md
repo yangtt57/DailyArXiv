@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 21, 2026
+title: Latest 15 Papers - September 28, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,8 @@ labels: documentation
 ## LLM for Security
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v3)** | 2026-09-12 |  |
+| **[Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v4)** | 2026-09-23 |  |
+| **[DUMA-Bench: A Dual-Control Multi-Agent Benchmark for Evaluating LLM Agent Security](https://arxiv.org/abs/2609.24662v1)** | 2026-09-21 | <details><summary>ACL A...</summary><p>ACL ARR 2026 March Findings</p></details> |
 | **[Adaptive Adversaries: A Multi-Turn, Multi-LLM Benchmark for LLM Agent Security](https://arxiv.org/abs/2607.18063v2)** | 2026-09-11 | <details><summary>Secon...</summary><p>Second Workshop on Agents in the Wild: Safety, Security, and Beyond</p></details> |
 | **[Architecting the Secure AI-SOC: A Neurosymbolic Framework for Pipeline Integrity and Threat Mitigation](https://arxiv.org/abs/2609.10707v1)** | 2026-09-09 | 21 pages |
 | **[LLMSec-AV: A Vulnerability Taxonomy and LLM-Driven Software Weakness Discovery Framework for Autonomous Vehicles](https://arxiv.org/abs/2609.09386v1)** | 2026-09-08 | <details><summary>21 pa...</summary><p>21 pages, 3 figures, 4 tables</p></details> |
@@ -40,7 +41,6 @@ labels: documentation
 | **[From Chasing Ghosts to Missed Attacks: Perspectives and Perceptions of SOC Practitioners on LLM Integration, Risks, and Readiness](https://arxiv.org/abs/2608.00672v1)** | 2026-08-01 |  |
 | **[Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing](https://arxiv.org/abs/2607.18485v1)** | 2026-07-20 |  |
 | **[Heimdallr: Characterizing and Detecting LLM-Induced Security Risks in GitHub CI Workflows](https://arxiv.org/abs/2605.05969v2)** | 2026-07-09 |  |
-| **[Beyond Refusal: A Same-Lineage Study of Aligned and Abliterated LLMs for Vulnerability Analysis](https://arxiv.org/abs/2607.05842v1)** | 2026-07-07 |  |
 
 ## Decompile
 | **Title** | **Date** | **Comment** |
@@ -64,19 +64,19 @@ labels: documentation
 ## Compiler
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[HEXIS: Compiling Skills into Extended Finite State Machines](https://arxiv.org/abs/2609.30123v1)** | 2026-09-24 |  |
+| **[MQSS-Selector: RL-Guided Pass Selection for an MLIR Compilation Pipeline](https://arxiv.org/abs/2609.30104v1)** | 2026-09-24 | <details><summary>11 pa...</summary><p>11 pages, 5 figures, 1 table</p></details> |
+| **[Compiler and Hardware Co-Design for Accelerator Architectures](https://arxiv.org/abs/2609.30099v1)** | 2026-09-24 | 8 pages, 4 figures |
+| **[Schedules Are Solvable Symbols: Tuning-Free Compilation of Tile Programs on Dataflow Architectures](https://arxiv.org/abs/2609.29219v1)** | 2026-09-24 |  |
+| **[The Canonical Parallel Form as a Substrate for Parallelizing Compilers and Agentic Optimizers](https://arxiv.org/abs/2609.28724v1)** | 2026-09-23 | 12 pages, 9 figures |
+| **[Support-Compiled Feature Folding: More Evidence at Lower Memory Across Tabular Foundation Models](https://arxiv.org/abs/2609.28208v1)** | 2026-09-23 |  |
+| **[Verified Learning for Compiler Optimization: An LLM-Guided Architecture with Formal Control](https://arxiv.org/abs/2609.27214v1)** | 2026-09-23 |  |
+| **[Compiling Sufficient Governance Context from Declared Losses and Reachable States: Exact Observation-Contract Synthesis with Cardinality and Cost Objectives](https://arxiv.org/abs/2609.26016v1)** | 2026-09-22 | <details><summary>Code,...</summary><p>Code, data, preregistration tags, review record, and independent reproduction (repository issue #3): https://github.com/besanson/sarc-authority-derivation. Artifact DOI: 10.5281/zenodo.22884173</p></details> |
+| **[GRADE-RTL: Evaluating LLM-Generated RTL Beyond Compilation](https://arxiv.org/abs/2609.25335v1)** | 2026-09-21 |  |
+| **[Tiga: Compiling Graph Message Passing at Scale](https://arxiv.org/abs/2609.24802v1)** | 2026-09-21 |  |
+| **[SkelOT: Reusing AOT Compilation Across EVM Contract Families](https://arxiv.org/abs/2609.24404v1)** | 2026-09-21 | <details><summary>Accep...</summary><p>Accepted by EuroSys'27</p></details> |
+| **[Djinnlang: Higher-Level Programming by Unambiguous Specification with an LLM in the Compiler](https://arxiv.org/abs/2609.23954v1)** | 2026-09-21 |  |
+| **[RPyForth: Exposing a Call-Shared Data Stack to a Meta-Tracing JIT Compiler](https://arxiv.org/abs/2609.23759v1)** | 2026-09-20 | 33 pages, 15 figures |
+| **[Machine-Interpretable Information: Compiling Documents into Searchable and Readable Protocol States](https://arxiv.org/abs/2609.23371v1)** | 2026-09-20 | 21 pages, 5 figures |
 | **[BuildBench: Benchmarking LLM Agents on Compiling Real-World Open-Source Software](https://arxiv.org/abs/2509.25248v2)** | 2026-09-16 | Accepted at TMLR |
-| **[WaveTLM: Reliable Time-Series Language Modeling through Task Compilation](https://arxiv.org/abs/2609.18812v1)** | 2026-09-16 |  |
-| **[Shuttling Compiler for Trapped-Ion Quantum Computers Based on Fine-Tuned Large Language Models](https://arxiv.org/abs/2512.18021v4)** | 2026-09-15 | <details><summary>25 pa...</summary><p>25 pages, 9 figures, 5 tables</p></details> |
-| **[AttnFuse: A Composable DSL for Compiling Attentions to Fused GPU Kernels](https://arxiv.org/abs/2609.13612v1)** | 2026-09-11 |  |
-| **[Handling Imperfections in Subcircuit Compilation for Linear Optical Quantum Computing](https://arxiv.org/abs/2609.13379v1)** | 2026-09-11 |  |
-| **[Serving Agentic Workflows with a Physical-Plan Compiler and Adaptive Runtime](https://arxiv.org/abs/2607.02942v2)** | 2026-09-10 |  |
-| **[GPU-CFR: 80x Faster Counterfactual Regret Minimization by Compiling the Game to Static Dataflow and CUDA Graph Replay](https://arxiv.org/abs/2609.11923v1)** | 2026-09-10 |  |
-| **[Taming Bitwise Behavior in GPU Kernels with Tensor Core: Black-Box Reconstruction, Compiler Enforcement, and Static Verification](https://arxiv.org/abs/2609.11356v1)** | 2026-09-10 |  |
-| **[SparseDitto: An Agentic Sparse Compilation Framework through Architecture-Aware Synthesis on GPUs](https://arxiv.org/abs/2608.05033v3)** | 2026-09-10 |  |
-| **[SAQC: A SAT-Aware Compilation Framework for QAOA-Based Quantum Optimization](https://arxiv.org/abs/2609.05737v2)** | 2026-09-09 | 7 pages, 6 figures |
-| **[Epoch: Compiling Diffusion Blocks for Sparse MoE Serving](https://arxiv.org/abs/2609.09748v1)** | 2026-09-09 |  |
-| **[Muscle Memory for Agents: Compile not Merely Retrieve](https://arxiv.org/abs/2608.08995v2)** | 2026-09-09 | 12 pages, 2 figures |
-| **[Python in the front, party in the Backline: compiling quantum workloads across CPUs, GPUs, and FPGAs](https://arxiv.org/abs/2609.09270v1)** | 2026-09-08 |  |
-| **[SemBridge: Compiling Consumer Observations into Cross-Stack Communication Plans](https://arxiv.org/abs/2609.08231v1)** | 2026-09-08 |  |
-| **[QROB: Quantifying Realization Overhead in Quantum Compilation via Reverse Construction](https://arxiv.org/abs/2609.07776v1)** | 2026-09-07 | <details><summary>Accep...</summary><p>Accepted to the 59th IEEE/ACM International Symposium on Microarchitecture (MICRO 2026)</p></details> |
 
