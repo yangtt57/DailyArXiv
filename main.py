@@ -2,6 +2,7 @@ import sys
 import time
 import pytz
 from datetime import datetime
+from keywords import TOPIC_QUERIES
 
 from utils import get_daily_papers_by_keyword_with_retries, generate_table, back_up_files,\
     restore_files, remove_backups, get_daily_date
@@ -21,8 +22,6 @@ with open("README.md", "r") as f:
     last_update_date = line.split(": ")[1].strip()
     # if last_update_date == current_date:
         # sys.exit("Already updated today!")
-
-keywords = ["Binary Code Similarity Detection", "LLM for Security", "Decompile", "Compiler"] # TODO add more keywords
 
 max_result = 100 # maximum query results from arXiv API for each keyword
 issues_result = 15 # maximum papers to be included in the issue
@@ -47,12 +46,11 @@ f_is.write("labels: documentation\n")
 f_is.write("---\n")
 f_is.write("**Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**\n\n")
 
-for keyword in keywords:
+for keyword, search_query in TOPIC_QUERIES.items():
     f_rm.write("## {0}\n".format(keyword))
     f_is.write("## {0}\n".format(keyword))
-    if len(keyword.split()) == 1: link = "AND" # for keyword with only one word, We search for papers containing this keyword in both the title and abstract.
-    else: link = "OR"
-    papers = get_daily_papers_by_keyword_with_retries(keyword, column_names, max_result, link)
+    papers = get_daily_papers_by_keyword_with_retries(
+        keyword, column_names, max_result, search_query=search_query)
     if papers is None: # failed to get papers
         print("Failed to get papers!")
         f_rm.close()

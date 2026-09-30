@@ -13,12 +13,16 @@ from easydict import EasyDict
 def remove_duplicated_spaces(text: str) -> str:
     return " ".join(text.split())
 
-def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR") -> List[Dict[str, str]]:
+def request_paper_with_arXiv_api(keyword: str, max_results: int, link: str = "OR", search_query: str = None) -> List[Dict[str, str]]:
     # keyword = keyword.replace(" ", "+")
     assert link in ["OR", "AND"], "link should be 'OR' or 'AND'"
-    keyword = "\"" + keyword + "\""
-    url = "http://export.arxiv.org/api/query?search_query=ti:{0}+{2}+abs:{0}&max_results={1}&sortBy=lastUpdatedDate".format(keyword, max_results, link)
-    url = urllib.parse.quote(url, safe="%/:=&?~#+!$,;'@()*[]")
+    if search_query is None:
+        search_query = 'ti:"{0}" {1} abs:"{0}"'.format(keyword, link)
+    url = "https://export.arxiv.org/api/query?" + urllib.parse.urlencode({
+        "search_query": search_query,
+        "max_results": max_results,
+        "sortBy": "lastUpdatedDate",
+    })
     response = urllib.request.urlopen(url).read().decode('utf-8')
     feed = feedparser.parse(response)
 
@@ -57,9 +61,9 @@ def filter_tags(papers: List[Dict[str, str]], target_fileds: List[str]=["cs", "s
                 break
     return results
 
-def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[str], max_result: int, link: str = "OR", retries: int = 6) -> List[Dict[str, str]]:
+def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[str], max_result: int, link: str = "OR", retries: int = 6, search_query: str = None) -> List[Dict[str, str]]:
     for _ in range(retries):
-        papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link)
+        papers = get_daily_papers_by_keyword(keyword, column_names, max_result, link, search_query=search_query)
         if len(papers) > 0: return papers
         else:
             print("Unexpected empty list, retrying...")
@@ -67,9 +71,9 @@ def get_daily_papers_by_keyword_with_retries(keyword: str, column_names: List[st
     # failed
     return None
 
-def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int, link: str = "OR") -> List[Dict[str, str]]:
+def get_daily_papers_by_keyword(keyword: str, column_names: List[str], max_result: int, link: str = "OR", search_query: str = None) -> List[Dict[str, str]]:
     # get papers
-    papers = request_paper_with_arXiv_api(keyword, max_result, link) # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date
+    papers = request_paper_with_arXiv_api(keyword, max_result, link, search_query=search_query) # NOTE default columns: Title, Authors, Abstract, Link, Tags, Comment, Date
     # NOTE filtering tags: only keep the papers in cs field
     # TODO filtering more
     papers = filter_tags(papers)
