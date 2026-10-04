@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - September 30, 2026
+title: Latest 15 Papers - October 05, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -26,7 +26,7 @@ labels: documentation
 ## Vulnerability Discovery Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery](https://arxiv.org/abs/2609.35909v1)** | 2026-09-28 | <details><summary>37 pa...</summary><p>37 pages. Project page: https://xxbai.space/redherring/</p></details> |
+| **[Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery](https://arxiv.org/abs/2609.35909v2)** | 2026-09-30 | <details><summary>37 pa...</summary><p>37 pages. Project page: https://xxbai.space/redherring/</p></details> |
 | **[VulContextBench: A Benchmark for Security Context Retrieval in Coding Agents](https://arxiv.org/abs/2609.32601v1)** | 2026-09-26 |  |
 | **[CyberClear: A Benchmark for LLM Agent Systems on APT Attack Chain Provenance](https://arxiv.org/abs/2609.32424v1)** | 2026-09-26 |  |
 | **[LLM-based Vulnerability Detection at Project Scale: An Empirical Study](https://arxiv.org/abs/2601.19239v2)** | 2026-09-25 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 12 tables</p></details> |
@@ -45,19 +45,19 @@ labels: documentation
 ## Multi-Agent Systems
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Multi-Agent Flow Matching with Decoupled Generative Guidance](https://arxiv.org/abs/2609.38133v1)** | 2026-09-29 |  |
-| **[IMPACT: Modeling Socially Interdependent Movement in a Generative Multi-Agent Simulation of a Pompeian Household](https://arxiv.org/abs/2609.38113v1)** | 2026-09-29 |  |
-| **[Residual Denoising Enables Sample-Efficient Multi-Agent Coordination on Demand](https://arxiv.org/abs/2609.32129v2)** | 2026-09-29 | <details><summary>8 pag...</summary><p>8 pages, 4 figures, 4 tables</p></details> |
-| **[Topological Coherence for Self-evolving Multi-agent Systems](https://arxiv.org/abs/2609.37953v1)** | 2026-09-29 |  |
-| **[Dynamic Optimizations of LLM Ensembles with Two-Stage Reinforcement Learning Agents](https://arxiv.org/abs/2502.04492v3)** | 2026-09-29 |  |
-| **[CoMemBench: Benchmarking Collaborative Memory Boundaries across Multi-Agent Workflow Topologies](https://arxiv.org/abs/2609.32192v2)** | 2026-09-29 |  |
-| **[REGREACT: Self-Correcting Multi-Agent Pipelines for Structured Regulatory Information Extraction](https://arxiv.org/abs/2604.12054v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 (Findings)</p></details> |
-| **[Context Language Models](https://arxiv.org/abs/2609.37725v1)** | 2026-09-29 |  |
-| **[Exemplar2VQA: A Scalable Exemplar-Driven Visual Question Answering Generation Framework via Multi-Agent Coding](https://arxiv.org/abs/2609.37655v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026. 33 pages, 11 figures, 11 tables</p></details> |
-| **[Concealing LLM-Based Multi-Agent Topology via Phantom Structure Injection](https://arxiv.org/abs/2609.37567v1)** | 2026-09-29 |  |
-| **[RAVEN: Receiver-Conditioned Action-Value Encoding for Finite-Alphabet Multi-Agent Communication](https://arxiv.org/abs/2609.37566v1)** | 2026-09-29 | <details><summary>25 pa...</summary><p>25 pages, 20 figures, 18 tables. Code: https://github.com/sswun/RAVEN</p></details> |
-| **[Towards Spatial Perception for Heterogeneous Robot Collaboration in Subterranean Mining Environments](https://arxiv.org/abs/2609.37419v1)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted in ICARCV 2026</p></details> |
-| **[Shaping Opinion: Quantifying the Psychological Impact of Autonomous Multi-Agent LLM Interactions](https://arxiv.org/abs/2609.37369v1)** | 2026-09-29 | <details><summary>10 pa...</summary><p>10 pages, 7 figures, 4 tables. Under review</p></details> |
-| **[PowerMarketJax: A JAX Benchmark Suite for Multi-Agent Reinforcement Learning in Power Markets](https://arxiv.org/abs/2609.37321v1)** | 2026-09-29 | 69 pages |
-| **[AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems](https://arxiv.org/abs/2609.08572v2)** | 2026-09-29 | <details><summary>Accep...</summary><p>Accepted to NeurIPS 2026</p></details> |
+| **[Detecting Multi-Agent Collusion Through Multi-Agent Interpretability](https://arxiv.org/abs/2604.01151v3)** | 2026-10-01 |  |
+| **[Global Coherence: When Every Agent Is Right and the Team Is Still Wrong - A Local-to-Global Semantic Foundation for Multi-Agent Collaboration](https://arxiv.org/abs/2610.02036v1)** | 2026-10-01 |  |
+| **[Counting Moves, Weighing Voices: Bayesian Dialectical Argumentation for Calibrated Multi-LLM Councils under Persistent Adversaries](https://arxiv.org/abs/2610.02005v1)** | 2026-10-01 |  |
+| **[Training-Free Diffusion Planning with Analytical Local Scores](https://arxiv.org/abs/2610.01959v1)** | 2026-10-01 | <details><summary>prepr...</summary><p>preprint - under review</p></details> |
+| **[Flowing Faster to Coordinate: One-Step Online Multi-Agent Flow Policies](https://arxiv.org/abs/2610.01882v1)** | 2026-10-01 |  |
+| **[From Pixels to Policy: A Multi-Agent System for Intervention and Geo-Spatial Decision Support](https://arxiv.org/abs/2610.01870v1)** | 2026-10-01 |  |
+| **[LLM-based Agentic Reasoning Frameworks: A Survey from Methods to Scenarios](https://arxiv.org/abs/2508.17692v2)** | 2026-10-01 | <details><summary>69 pa...</summary><p>69 pages,10 figures,13 tables. Work in progress</p></details> |
+| **[On the Escaping Efficiency of Distributed Adversarial Training Algorithms](https://arxiv.org/abs/2509.11337v2)** | 2026-10-01 |  |
+| **[After Cooperation Is Learned: Gradient Routing and Optimizer-Dependent Maintenance in Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2610.01630v1)** | 2026-10-01 |  |
+| **[No Model Required: Text Entropy Rate Filtering Mitigates Iterative Fine-Tuning Collapse](https://arxiv.org/abs/2610.01493v1)** | 2026-10-01 | <details><summary>17 pa...</summary><p>17 pages, 8 figures, NeurIPS 2026</p></details> |
+| **[The Alignment Flywheel: A Governance-Centric Hybrid MAS for Architecture-Agnostic Safety](https://arxiv.org/abs/2603.02259v3)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted for the EMAS workshop at AAMAS 2026</p></details> |
+| **[A Multi-Agent LLM Framework for Personalized Health Checkup Interpretation and Guidance](https://arxiv.org/abs/2610.01451v1)** | 2026-10-01 | <details><summary>16 pa...</summary><p>16 pages, 2 figures, 8 tables and Appendix</p></details> |
+| **[Safety of Latent Communication in Multi-Agent Systems](https://arxiv.org/abs/2609.39788v2)** | 2026-10-01 |  |
+| **[LLM-Driven Multi-Agent Control for Skill-Based Smart Manufacturing](https://arxiv.org/abs/2610.01364v1)** | 2026-10-01 | <details><summary>Accep...</summary><p>Accepted at the 2026 IEEE 31st International Conference on Emerging Technologies and Factory Automation (ETFA). 8 pages, 5 figures, 3 tables</p></details> |
+| **[A Channel-Boosted Multi-Agent System with Iterative Consultation for Document Sensitivity Classification](https://arxiv.org/abs/2609.22212v2)** | 2026-10-01 | <details><summary>36 pa...</summary><p>36 pages , 14 figures</p></details> |
 
