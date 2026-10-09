@@ -2,18 +2,20 @@ name: Update
 
 on:
   workflow_dispatch:
-  label:
-    types:
-      - created # for test
   schedule:
-      - cron: '30 16 * * 0' # 00:30 Beijing time every Monday to Friday
+      - cron: '30 16 * * 0' # 00:30 Asia/Shanghai every Monday (16:30 UTC Sunday)
 
 permissions:
   contents: write
-  issues: write 
+
+concurrency:
+  group: update-papers-master
+  cancel-in-progress: false
 
 jobs:
   update_daily_papers:
+    # The commit step writes to master; do not run updates from other refs.
+    if: github.ref == 'refs/heads/master'
     runs-on: ubuntu-latest
     steps:
     - name: Checkout repository
@@ -28,10 +30,12 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Update papers
+      id: papers
       run: |
         python main.py
 
     - name: Commit and push changes
+      id: commit
       uses: github-actions-x/commit@v2.9
       with:
         github-token: ${{ secrets.GITHUB_TOKEN }}
@@ -42,7 +46,24 @@ jobs:
         name: yangtt57
         email: 2095534585@qq.com
 
-    - name: Create an issue to notify
-      uses: JasonEtco/create-an-issue@v2
+    - name: Write workflow summary
+      if: always()
+      continue-on-error: true
+      shell: bash
       env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        PAPERS_OUTCOME: ${{ steps.papers.outcome }}
+        COMMIT_OUTCOME: ${{ steps.commit.outcome }}
+      run: |
+        {
+          echo "## DailyArXiv update"
+          echo
+          echo "| Step | Result |"
+          echo "| --- | --- |"
+          printf '| Update papers | %s |\n' "$PAPERS_OUTCOME"
+          printf '| Commit and push changes | %s |\n' "$COMMIT_OUTCOME"
+          echo
+          printf '[Read the papers](https://github.com/%s/blob/master/README.md)\n' "$GITHUB_REPOSITORY"
+          echo
+          echo "Results above describe each step; see the job status for the overall result."
+          echo "This summary does not require repository Issues."
+        } >> "$GITHUB_STEP_SUMMARY"
