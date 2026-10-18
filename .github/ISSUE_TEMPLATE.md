@@ -1,5 +1,5 @@
 ---
-title: Latest 15 Papers - October 12, 2026
+title: Latest 15 Papers - October 19, 2026
 labels: documentation
 ---
 **Please check the [Github](https://github.com/zezhishao/MTS_Daily_ArXiv) page for a better reading experience and more papers.**
@@ -7,6 +7,7 @@ labels: documentation
 ## Business Logic Vulnerabilities
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[Discovery or Memorization? A Faithful Benchmark for Real-World Business-Logic Vulnerability Discovery](https://arxiv.org/abs/2610.17542v1)** | 2026-10-13 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 4 tables</p></details> |
 | **[Uncovering Business Logic Bugs via Semantics-Driven Unit Test Generation](https://arxiv.org/abs/2604.23509v3)** | 2026-10-06 | <details><summary>Accep...</summary><p>Accepted in the Research Track of ISSTA 2026</p></details> |
 | **[SmartMemory: Detecting On-chain-off-chain Communication Inconsistency for Smart Contract via Memory-based Agent](https://arxiv.org/abs/2609.34983v1)** | 2026-09-28 | Nil |
 | **[Function Name Is All You Need to Detect Blockchain Application Attacks](https://arxiv.org/abs/2609.12315v1)** | 2026-09-11 |  |
@@ -21,11 +22,17 @@ labels: documentation
 | **[Scenario-Guided LLM-based Mobile App GUI Testing](https://arxiv.org/abs/2506.05079v4)** | 2026-05-03 | <details><summary>Accep...</summary><p>Accepted by the ACM Transactions on Software Engineering and Methodology</p></details> |
 | **[KindHML: formal verification of smart contracts based on Hennessy-Milner logic](https://arxiv.org/abs/2604.14038v1)** | 2026-04-15 |  |
 | **[Refunded but Rewarded: The Double Dip Attack on Cashback Reward Engines](https://arxiv.org/abs/2604.16427v1)** | 2026-04-05 |  |
-| **[Red-MIRROR: Agentic LLM-based Autonomous Penetration Testing with Reflective Verification and Knowledge-augmented Interaction](https://arxiv.org/abs/2603.27127v1)** | 2026-03-28 | 26 pages |
 
 ## Vulnerability Discovery Agents
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
+| **[MIRAGE: Stealthy Visual Prompt Injection for Vulnerability Detection in Web Agents](https://arxiv.org/abs/2606.20717v2)** | 2026-10-15 |  |
+| **[P2Patch: Exploit-Guided Vulnerability Repair](https://arxiv.org/abs/2610.20245v1)** | 2026-10-14 | <details><summary>25 pa...</summary><p>25 pages, 6 figures, 13 tables. M. Iranmanesh and S. Moradi Sabet contributed equally. Code: https://github.com/P2Patch/P2patch</p></details> |
+| **[Natural Code Transformation Confuses Agents in Vulnerability Analysis](https://arxiv.org/abs/2610.14350v2)** | 2026-10-14 |  |
+| **[Discovery or Memorization? A Faithful Benchmark for Real-World Business-Logic Vulnerability Discovery](https://arxiv.org/abs/2610.17542v1)** | 2026-10-13 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 4 tables</p></details> |
+| **[VulnBump: A Benchmark for Fixing Vulnerable Dependencies in Real Projects While Keeping the Build and Tests Green](https://arxiv.org/abs/2610.17374v1)** | 2026-10-12 | <details><summary>22 pa...</summary><p>22 pages, 5 figures. Code and data: https://github.com/snyk-labs/snyk-vulnbump</p></details> |
+| **[NeuroLog: Reasoning You Can Audit -- Neuro-Symbolic Vulnerability Discovery via LLM Facts, Datalog, and SMT](https://arxiv.org/abs/2606.00669v2)** | 2026-10-12 |  |
+| **[No, Your Tools Are Not Enough: It's Time to Bring Agents to the Hunt](https://arxiv.org/abs/2610.14729v1)** | 2026-10-10 |  |
 | **[Where Do the Tokens Go? Understanding and Reducing Costs in LLM Agents for Vulnerability Discovery](https://arxiv.org/abs/2610.11602v1)** | 2026-10-08 |  |
 | **[Cheap to Hypothesize, Costly to Verify: The Defense Surface of Agentic Vulnerability Discovery](https://arxiv.org/abs/2609.35909v3)** | 2026-10-07 | <details><summary>37 pa...</summary><p>37 pages. Project page: https://xxbai.space/redherring/</p></details> |
 | **[ASPIRE: Agentic Safety & Prompt Injection Red-teaming Engine](https://arxiv.org/abs/2610.08951v1)** | 2026-10-06 |  |
@@ -34,30 +41,23 @@ labels: documentation
 | **[VulValidate: Auditing Function-Level Vulnerability Labels with Executable Evidence](https://arxiv.org/abs/2610.05103v1)** | 2026-10-04 | 21 pages |
 | **[Engineering Sustainable Agents: A Systematic Comparison of Agentic LLMs for Developer Workflows](https://arxiv.org/abs/2610.03010v1)** | 2026-10-02 | 50 pages, 14 figures |
 | **[From Requirements to Attack Trees: Grounded LLM Agents for Design-Time Security Review](https://arxiv.org/abs/2610.03820v1)** | 2026-10-02 |  |
-| **[VulContextBench: A Benchmark for Security Context Retrieval in Coding Agents](https://arxiv.org/abs/2609.32601v1)** | 2026-09-26 |  |
-| **[CyberClear: A Benchmark for LLM Agent Systems on APT Attack Chain Provenance](https://arxiv.org/abs/2609.32424v1)** | 2026-09-26 |  |
-| **[LLM-based Vulnerability Detection at Project Scale: An Empirical Study](https://arxiv.org/abs/2601.19239v2)** | 2026-09-25 | <details><summary>20 pa...</summary><p>20 pages, 11 figures, 12 tables</p></details> |
-| **[Demystifying Agent Skills for Smart Contract Auditing: Design, Effectiveness, Behavioral Impact](https://arxiv.org/abs/2609.29454v1)** | 2026-09-24 |  |
-| **[The Fly That Stopped: Mushroom-Body-Inspired Habituation as a Reward-Free Scheduling Prior for Autonomous Penetration Testing](https://arxiv.org/abs/2609.29126v1)** | 2026-09-24 | <details><summary>12 pa...</summary><p>12 pages, 7 figures, 2 tables</p></details> |
-| **[Measuring and Exploiting Contextual Bias in LLM-Assisted Security Code Review](https://arxiv.org/abs/2603.18740v4)** | 2026-09-23 |  |
-| **[MobileCybench: Evaluating Agent Vulnerability Discovery via Executable Probes](https://arxiv.org/abs/2609.23980v1)** | 2026-09-21 |  |
 
 ## Multi-Agent Systems
 | **Title** | **Date** | **Comment** |
 | --- | --- | --- |
-| **[Mental-Models for Multi-Agent Systems](https://arxiv.org/abs/2610.12453v1)** | 2026-10-08 | <details><summary>Accep...</summary><p>Accepted at NeurIPS 2026</p></details> |
-| **[Ecology of AI Agents: Collaboration Creates a Population Threshold for Takeoff](https://arxiv.org/abs/2610.12436v1)** | 2026-10-08 | <details><summary>22 pa...</summary><p>22 pages, 11 figures, 1 table</p></details> |
-| **[MA-JEPA: Joint-Embedding World Models for Multi-Agent Reinforcement Learning](https://arxiv.org/abs/2609.33563v2)** | 2026-10-08 |  |
-| **[ReCodeAgent: A Multi-agent Workflow for Language-Agnostic Translation and Validation of Large-Scale Repositories](https://arxiv.org/abs/2604.07341v4)** | 2026-10-08 | <details><summary>Publi...</summary><p>Published in ASE 2026</p></details> |
-| **[Spatial Pattern Formation from Multi-Agent Learning in Public Goods Dilemmas](https://arxiv.org/abs/2610.12321v1)** | 2026-10-08 |  |
-| **[Is In-Domain Training Enough for Fine-Grained Industrial Anomaly Understanding?](https://arxiv.org/abs/2610.12310v1)** | 2026-10-08 | <details><summary>21 pa...</summary><p>21 pages, 5 figures, 8 tables</p></details> |
-| **[Multi-Agent Egocentric World Model with Fine-Grained Embodied Interaction](https://arxiv.org/abs/2610.12299v1)** | 2026-10-08 |  |
-| **[Recursive Self-Improvement through Multi-Agent Self-Supervision](https://arxiv.org/abs/2610.12176v1)** | 2026-10-08 | 39 pages |
-| **[OA-MAP: Evidence-Grounded Multi-Agent Multimodal Framework for Interpretable Knee Osteoarthritis Progression](https://arxiv.org/abs/2610.12134v1)** | 2026-10-08 |  |
-| **[Automated Disinformation and Malicious AI Swarms: Risks for Democracy and Development in Africa](https://arxiv.org/abs/2610.11930v1)** | 2026-10-08 | 26 pages |
-| **[Transect: Retaining Observability for Long-Horizon LLM Agent Evaluations](https://arxiv.org/abs/2610.08364v2)** | 2026-10-08 | <details><summary>27 pa...</summary><p>27 pages, 5 figures, v2: Fixed typo in corresponding author address."</p></details> |
-| **[SlideLab: Audience-Centered Scientific Slide Generation and Evaluation](https://arxiv.org/abs/2609.30294v2)** | 2026-10-08 | <details><summary>Updat...</summary><p>Update Appendix and add few more ablations, ConfArena architecture</p></details> |
-| **[Distributed Constrained Resource Management in 6G Networks: A Scalable Hybrid Model-Learning Framework](https://arxiv.org/abs/2610.11739v1)** | 2026-10-08 |  |
-| **[From Solo to Ensemble: A Hierarchical Framework for Composable Multi-Agent Human-Object Interaction](https://arxiv.org/abs/2610.11722v1)** | 2026-10-08 |  |
-| **[MARGIN: Runtime Confidence Calibration for Multi-Agent Foundation Model Coordination](https://arxiv.org/abs/2605.22949v4)** | 2026-10-08 |  |
+| **[3DCodeVerse: Exploring 3D Worlds as Code](https://arxiv.org/abs/2610.22341v1)** | 2026-10-15 | <details><summary>Proje...</summary><p>Project Page: https://3dcodeverse.com/</p></details> |
+| **[Learning Self-Orchestration in Decentralized Agent Swarms](https://arxiv.org/abs/2610.22322v1)** | 2026-10-15 |  |
+| **[A team of Gemini 4 Argon agents beats Minecraft](https://arxiv.org/abs/2610.22319v1)** | 2026-10-15 |  |
+| **[Learning to Steer LLM Agents and Multi-Agent Systems](https://arxiv.org/abs/2610.22316v1)** | 2026-10-15 | 21 pages, 6 figures |
+| **[WorkflowPerturb: Calibrated Stress Tests for Evaluating Multi-Agent Workflow Metrics](https://arxiv.org/abs/2602.17990v4)** | 2026-10-15 | <details><summary>Accep...</summary><p>Accepted to EMNLP 2026 Industry Track. 18 pages</p></details> |
+| **[CAT-alyzing Honesty: Continuous Adversarial Training for Transferable LLM Honesty](https://arxiv.org/abs/2610.22292v1)** | 2026-10-15 | 9 pages, 6 figures |
+| **[Learning Rational Strategies for Temporal Objectives in Multi-Agent Systems](https://arxiv.org/abs/2610.22287v1)** | 2026-10-15 |  |
+| **[Auditable and Deployable Multi-Agent Motion Planning via Posetal Games from Legal Guidelines](https://arxiv.org/abs/2610.22277v1)** | 2026-10-15 |  |
+| **[Why Do Agent Teams Fail Across Boundaries? A Failure Taxonomy for Agent-to-Agent Systems with Private States](https://arxiv.org/abs/2610.19342v2)** | 2026-10-15 | <details><summary>20 pa...</summary><p>20 pages, 7 figures, 4 tables. Run logs: https://huggingface.co/datasets/a2a-salesforce/a2-failures</p></details> |
+| **[Robust Multi-Agent Pursuit with Preemptive Communication via Reachability-Based Control Barrier Functions](https://arxiv.org/abs/2610.22198v1)** | 2026-10-15 | <details><summary>6 pag...</summary><p>6 pages, 4 figures. Accepted to the 2026 IEEE Conference on Decision and Control (CDC)</p></details> |
+| **[HTN-Orchestrate: A Hierarchical Task Network Framework for Multi-Agent Orchestration](https://arxiv.org/abs/2610.22195v1)** | 2026-10-15 |  |
+| **[AutoSFT: An Agentic System for Automated Data Research in Supervised Fine-Tuning](https://arxiv.org/abs/2610.22194v1)** | 2026-10-15 | 27 pages, 16 figures |
+| **[Believed but Not Said: Measuring Hidden Belief Collapse in Multi-Agent LLM Discussions](https://arxiv.org/abs/2610.22138v1)** | 2026-10-15 | 14 pages, 6 figures |
+| **[Augment the Cache, Replace the Activation: A 2x2 Study of Internal-State Sharing](https://arxiv.org/abs/2610.22026v1)** | 2026-10-15 | 10 pages, 2 figures |
+| **[Close Enough is Nowhere Near: Fidelity-Consumability Decoupling in KV Caches](https://arxiv.org/abs/2610.22016v1)** | 2026-10-15 | 10 pages, 3 figures |
 
